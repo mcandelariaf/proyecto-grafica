@@ -62,4 +62,6 @@ De la misma manera, buscamos que estos recursos nos ayuden a exponer de manera c
 -	[Every town](https://www.everytown.org/issues/guns-in-schools/) 
 -	[Gun violence archive](https://www.gunviolencearchive.org/) 
 
+## Presentación
 
+Aquí podrán encontrar el [link](https://youtu.be/80E1sq7waF8) al video de presentación de nuestro proyecto. 
