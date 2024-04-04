@@ -32,6 +32,19 @@ Nos contactamos con K-12 School Shooting Data Base y nos enviaron su base de dat
 Todos los datos encontrados y necesarios para demostrar nuestra hipótesis existen y son públicos y confiables. (Bases de datos más abajo).
 
 ## Resultados
+### Resultados mínimos
+El mínimo sería poder contrastar mediante los datos recopilados la frecuencia y el impacto de estos incidentes en Estados Unidos versus el resto del mundo, pudiendo analizar el aspecto legal en cuanto a la facilidad de portar armas, y los motivos más recurrentes que llevan a que sucedan estos incidentes. 
+### Resultados máximos
+El máximo sería poder entender en profundidad la perspectiva estatal y cultural de los distintos países con respecto a este tema, que valores promulga cada sociedad, y que medidas tanto legales como de organizaciones de la sociedad civil/media se toman para prevenir los tiroteos en establecimientos escolares, además que medida de seguridad se proponen para este caso, y como se enfrentan las repercusiones de salud mental en las victimas.
+
+### Preguntas a responder
+- ¿Cuántos tiroteos ha habido en los últimos años en Estados Unidos? 
+- ¿Que muestra la tendencia? ¿Van en aumento? ¿Disminuyen? 
+- ¿Cuáles son los motivos principales? 
+- ¿Cuáles son los estados más afectados? 
+- ¿Qué medidas se están tomando para prevenir? 
+- ¿Qué organismos están siendo protagonistas? ¿Son organismos civiles o gubernamentales? 
+- ¿Cómo evolucionan las cifras de afectados? Por ejemplo ¿las víctimas mortales han aumentado?
 
 ## Bases de datos 
 
