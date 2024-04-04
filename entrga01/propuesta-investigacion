@@ -27,10 +27,18 @@ Planeamos ordenar y jerarquizar los datos, para después compararlos y poder pro
 Necesitamos datos de la cantidad de tiroteos efectuados en Estados Unidos y también en el resto de los países.
 Contamos con las cifras de la cantidad de tiroteos en Estados Unidos por año y estado; la cantidad de personas muertas y heridas en cada tiroteo; los lugares en los cuales han ocurrido. También contamos con los mismos datos de tiroteos en el resto del mundo. 
 
-Todos los datos encontrados y necesarios para demostrar nuestra hipótesis existen y son públicos y confiables. (Base de datos más abajo).
+Nos contactamos con K-12 School Shooting Data Base y nos enviaron su base de datos "crudos" para que nosostros los trabajemos. 
+
+Todos los datos encontrados y necesarios para demostrar nuestra hipótesis existen y son públicos y confiables. (Bases de datos más abajo).
 
 ## Resultados
 
 ## Bases de datos 
 
-holahola
+-	[K-12 SSDB](https://k12ssdb.org/data-visualizations)
+-	[World population review](https://worldpopulationreview.com/country-rankings/school-shootings-by-country) 
+-	[USA Facts](https://usafacts.org/articles/the-latest-government-data-on-school-shootings/) 
+-	[Every town](https://www.everytown.org/issues/guns-in-schools/) 
+-	[Gun violence archive](https://www.gunviolencearchive.org/) 
+
+
