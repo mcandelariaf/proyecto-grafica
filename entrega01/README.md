@@ -34,6 +34,7 @@ Todos los datos encontrados y necesarios para demostrar nuestra hipótesis exist
 ## Resultados
 ### Resultados mínimos
 El mínimo sería poder contrastar mediante los datos recopilados la frecuencia y el impacto de estos incidentes en Estados Unidos versus el resto del mundo, pudiendo analizar el aspecto legal en cuanto a la facilidad de portar armas, y los motivos más recurrentes que llevan a que sucedan estos incidentes. 
+
 ### Resultados máximos
 El máximo sería poder entender en profundidad la perspectiva estatal y cultural de los distintos países con respecto a este tema, que valores promulga cada sociedad, y que medidas tanto legales como de organizaciones de la sociedad civil/media se toman para prevenir los tiroteos en establecimientos escolares, además que medida de seguridad se proponen para este caso, y como se enfrentan las repercusiones de salud mental en las victimas.
 
@@ -45,6 +46,13 @@ El máximo sería poder entender en profundidad la perspectiva estatal y cultura
 - ¿Qué medidas se están tomando para prevenir? 
 - ¿Qué organismos están siendo protagonistas? ¿Son organismos civiles o gubernamentales? 
 - ¿Cómo evolucionan las cifras de afectados? Por ejemplo ¿las víctimas mortales han aumentado?
+
+### Elementos
+Visualizaciones como gráficos, espacios de texto, videos de casos donde se 		presenten soluciones a alguna de las problemáticas que implican los tiroteos.
+
+Buscamos que estos elementos den un soporte atractivo y dinámico a la historia que buscamos contar: que la narración del problema sea fluida, atingente y clara. 
+De la misma manera, buscamos que estos recursos nos ayuden a exponer de manera contundente las medidas que se han tomado en distintos lugares del mundo para enfrentar el problema, para así mostrar evidencias de cómo abordar el fenómeno y así apuntar a encontrar una posible solución, en cuanto a la prevención y la reparación de los efectos negativos de estos sucesos en las distintas sociedades.
+
 
 ## Bases de datos 
 
