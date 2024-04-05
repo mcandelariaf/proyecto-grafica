@@ -66,4 +66,4 @@ De la misma manera, buscamos que estos recursos nos ayuden a exponer de manera c
 
 Aquí podrán encontrar el [link](https://youtu.be/80E1sq7waF8) al video de presentación de nuestro proyecto. 
 
-__Nota: nuestra hipótesis fue actualizada luego de la clase de corrección. En este informa está actualizada pero en el pdf y en el video de la presentación está la antigua.__
+__Nota: nuestra hipótesis fue actualizada luego de la clase de corrección (05/04). En este informe está actualizada pero en el pdf y en el video de la presentación está la antigua.__
