@@ -1,0 +1,1356 @@
+Incident_ID,Month,Day,Year,Date,School,Victims_Killed,Victims_Wounded,Number_Victims,Shooter_Killed,City,State,School_Level,Location,During_Classes,Duration_min,Situation,Targets,Shots_Fired
+20240326GATUA,3,26,2024,3/26/2024,Turner County High School,0,0,0,0,Ashburn,GA,High,Basketball Court,,,,,
+20240326MOCHC,3,26,2024,3/26/2024,Charleston Junior Senior High School,0,0,0,0,Charleston,MO,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20240326NJWEN,3,26,2024,3/26/2024,West Side High School,0,2,2,0,Newark,NJ,High,Front of School,Yes,1.0,,,99
+20240325HIWAW,3,25,2024,3/25/2024,Wailuku Elementary School,0,1,1,0,Wailuku,HI,Elementary,Parking Lot,No,1.0,Escalation of Dispute,,1
+20240321NJMAN,3,21,2024,3/21/2024,Malcolm X Shabazz High School,1,0,1,0,Newark,NJ,High,Football Field/Track,No,1.0,,Victims Targeted,99
+20240321CADIP,3,21,2024,3/21/2024,Diamond Ranch High School,0,0,0,0,Pomona,CA,High,Front of School,Yes,1.0,Escalation of Dispute,Neither,0
+20240320NCPEP,3,20,2024,3/20/2024,Pembroke Elementary School,0,0,0,0,Pembroke,NC,Elementary,Office,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,0
+20240320CONOD,3,20,2024,3/20/2024,North High School,0,0,0,0,Denver,CO,High,Parking Lot,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20240320OHBOC,3,20,2024,3/20/2024,Bolton Elementary School,0,1,1,0,Cleveland,OH,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,20
+20240320ILBUC,3,20,2024,3/20/2024,Burnside Scholastic Academy,1,0,1,0,Chicago,IL,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20240319DETHW,3,19,2024,3/19/2024,Thomas Edison Charter School,0,1,1,0,Wilmington,DE,High,Office,Yes,1.0,,Victims Targeted,99
+20240316TNKEC,3,16,2024,3/16/2024,Kenwood Elementary School,0,1,1,0,Clarksville,TN,Elementary,Basketball Court,No,1.0,,Both,99
+20240314OHLOD,3,14,2024,3/14/2024,Louise Troy Elementary School,2,0,2,0,Dayton,OH,Elementary,Field (General),No,1.0,Escalation of Dispute,Victims Targeted,99
+20240313MDFOG,3,13,2024,3/13/2024,Fox Chapel Elementary School,0,0,0,0,Germantown,MD,Elementary,Field (General),Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20240313WAGAS,3,13,2024,3/13/2024,Garfield High School,0,1,1,0,Seattle,WA,High,Front of School,Yes,1.0,Drive-by Shooting,,99
+20240313MDWIB,3,13,2024,3/13/2024,Windsor Hills Elementary/Middle School,1,0,1,0,Baltimore,MD,K-8,Playground,Yes,1.0,,Victims Targeted,99
+20240311TXCHT,3,11,2024,3/11/2024,Charter Oak Elementary,1,0,1,0,Temple,TX,Elementary,Playground,No,1.0,Accidental,Neither,1
+20240311MASPS,3,11,2024,3/11/2024,Springfield High School of Science and Technology,0,0,0,0,Springfield,MA,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20240307NYPSB,3,7,2024,3/7/2024,PS 157 Grove Hill,1,0,1,0,Bronx,NY,Elementary,Playground,No,1.0,Escalation of Dispute,Victims Targeted,99
+20240305INHAL,3,5,2024,3/5/2024,Harrison Hill Elementary School,0,1,1,0,Lawrence,IN,Elementary,Beside Building,No,1.0,Escalation of Dispute,Victims Targeted,1
+20240304TNBRB,3,4,2024,3/4/2024,Brighton High School,0,1,1,0,Brighton,TN,High,Parking Lot,Yes,1.0,Illegal Activity,Victims Targeted,0
+20240302INROR,3,2,2024,3/2/2024,Rochester Community High School,0,0,0,0,Rochester,IN,High,Gym,No,1.0,Accidental,Neither,1
+20240302MONOK,3,2,2024,3/2/2024,North Kansas City High School,0,2,2,0,Kansas City,MO,High,Beside Building,No,1.0,Escalation of Dispute,Both,50
+20240301LACAC,3,1,2024,3/1/2024,Carencro High School,1,0,1,0,Carencro,LA,High,School Bus,Yes,1.0,Murder/Assassination,Victims Targeted,99
+20240229FLFIJ,2,29,2024,2/29/2024,First Coast High School,0,0,0,0,Jacksonville,FL,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20240228NCWAG,2,28,2024,2/28/2024,Wahl-Coates Elementary School,0,1,1,0,Greenville,NC,Elementary,Front of School,Yes,1.0,,Victims Targeted,5
+20240228MEWAW,2,28,2024,2/28/2024,Waterville Junior High School,0,0,0,1,Waterville,ME,Middle,Parking Lot (Bus),No,1.0,Suicide/Attempted,Victims Targeted,1
+20240227DESUG,2,27,2024,2/27/2024,Sussex Central High,0,0,0,0,Georgetown,DE,High,Parking Lot,No,1.0,Escalation of Dispute,,99
+20240226TXODO,2,26,2024,2/26/2024,Odessa High School,0,1,1,0,Odessa,TX,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,99
+20240223WVBLB,2,23,2024,2/23/2024,Bluefield High School,0,0,0,0,Bluefield,WV,High,Parking Lot,No,1.0,Escalation of Dispute,,99
+20240221TXTRA,2,21,2024,2/21/2024,Travis Middle School,0,0,0,0,Amarillo,TX,Middle,Bathroom,Yes,1.0,,Victims Targeted,0
+20240221CODED,2,21,2024,2/21/2024,Denver Prep Academy,0,0,0,0,Denver,CO,High,Front of School,Yes,1.0,Drive-by Shooting,,99
+20240221TXECE,2,21,2024,2/21/2024,Economedes High School ,0,0,0,0,Economedes,TX,High,Parking Lot,Yes,1.0,Officer-Involved Shooting,Victims Targeted,99
+20240221AZCAT,2,21,2024,2/21/2024,Catalina Magnet High School,0,1,1,0,Tucson,AZ,High,Front of School,Yes,1.0,,Victims Targeted,
+20240220ALPEP,2,20,2024,2/20/2024,Pell City High School,0,1,1,0,Pell City,AL,High,Outside on School Property,Yes,1.0,,Victims Targeted,0
+20240220MISAS,2,20,2024,2/20/2024,Saginaw High School,0,0,0,0,Saginaw,MI,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20240219TXPIM,2,19,2024,2/19/2024,Pioneer Technology and Arts Academy,0,0,0,0,Mesquite,TX,6-Dec,Office,Yes,6.0,Anger Over Grade/Suspension/Discipline,Victims Targeted,0
+20240215FLSHC,2,15,2024,2/15/2024,Shadeville Elementary School,0,1,1,0,Crawfordville,FL,Elementary,School Bus,Yes,1.0,Intentional Property Damage,,99
+20240214GABEA,2,14,2024,2/14/2024,Benjamin E. Mays High School,0,4,4,0,Atlanta,GA,High,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20240213TNRAM,2,13,2024,2/13/2024,Raleigh Egypt Middle School,0,1,1,0,Memphis,TN,Middle,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20240212OHBEB,2,12,2024,2/12/2024,Bedford High School,0,1,1,0,Bedford,OH,High,Football Field/Track,Yes,1.0,,Victims Targeted,0
+20240212IDCOI,2,12,2024,2/12/2024,Compass Academy,1,2,3,0,Idaho Falls,ID,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20240212CAELC,2,12,2024,2/12/2024,Ellen Ochoa Learning Center,1,1,2,0,Cudahy,CA,Elementary,Front of School,No,1.0,Drive-by Shooting,Victims Targeted,3
+20240211CAMAB,2,11,2024,2/11/2024,Martha Escutia Primary Center,1,0,1,0,Bell,CA,Elementary,Beside Building,No,1.0,Drive-by Shooting,Victims Targeted,99
+20240209PACOR,2,9,2024,2/9/2024,Cornwall Terrace Elementary School,0,0,0,0,Reading,PA,Elementary,Beside Building,No,1.0,Intentional Property Damage,Neither,99
+20240209GATRE,2,9,2024,2/9/2024,Tri-Cities High School,1,1,2,0,East Point,GA,High,Beside Building,No,1.0,,,99
+20240208MDBEB,2,8,2024,2/8/2024,Bethesda Chevy Chase High School,0,0,0,0,Bethesda,MD,High,Front of School (Bus),Yes,1.0,,Victims Targeted,0
+20240208TNMEN,2,8,2024,2/8/2024,Meigs Magnet School,2,0,2,0,Nashville,TN,Middle,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,99
+20240207ORWIE,2,7,2024,2/7/2024,Willagillespie Elementary School,0,0,0,0,Eugene,OR,Elementary,Parking Lot,Yes,1.0,Drive-by Shooting,,99
+2024207TXKUH,2,6,2024,2/6/2024,Kujawa Elementary School,1,0,1,0,Houston,TX,Elementary,Front of School,No,1.0,,Victims Targeted,99
+20240206TNNOC,2,6,2024,2/6/2024,Notre Dame High School,0,1,1,0,Chattanooga,TN,High,Outside on School Property,Yes,1.0,,,
+20240205GALUA,2,5,2024,2/5/2024,Lucy C. Laney High School,0,0,0,0,Augusta,GA,High,Bathroom,Yes,1.0,,,1
+20240202AZLAA,2,2,2024,2/2/2024,La Joya Community High School,0,0,0,0,Avondale,AZ,High,Parking Lot,Yes,1.0,,Neither,0
+20240201TNHAN,2,1,2024,2/1/2024,Haynes Middle School,0,0,0,0,Nashville,TN,Middle,Bathroom,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20240201GAMCP,2,1,2024,2/1/2024,McEachern High School,0,2,2,0,Powder Springs,GA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20240131CADUD,1,31,2024,1/31/2024,Dublin High School,0,1,1,0,Dublin,CA,High,Parking Lot,Yes,1.0,,Victims Targeted,1
+20240131ILCHC,1,31,2024,1/31/2024,Chicago Friends School,1,2,3,0,Chicago,IL,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20240130TNBLM,1,30,2024,1/30/2024,Blackman High School,0,0,0,0,Murfreesboro,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,99
+20240130INBEB,1,30,2024,1/30/2024,Beech Grove High School,0,0,0,0,Beech Grove,IN,High,Parking Lot,No,1.0,Escalation of Dispute,,12
+20240130CAGRS,1,30,2024,1/30/2024,Grant High School,0,1,1,0,Sacramento,CA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20240130ALLEM,1,30,2024,1/30/2024,LeFlore High School,0,2,2,0,Mobile,AL,High,Inside School Building,Yes,1.0,Escalation of Dispute,Both,1
+20240129TXCOA,1,29,2024,1/29/2024,Connally High School,0,1,1,0,Austin,TX,High,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20240126ILINC,1,26,2024,1/26/2024,Innovations High School,2,0,2,0,Chicago,IL,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20240126ALHUH,1,26,2024,1/24/2024,Hueytown High School ,0,0,0,0,Hueytown,AL,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,99
+20240124TNWEM,1,24,2024,1/24/2024,Weaver Elementary School,1,0,1,0,Memphis,TN,Elementary,Parking Lot,Yes,1.0,,Victims Targeted,99
+20240122ILCIC,1,22,2024,1/22/2024,CICS Loomis-Longwood High School,1,1,2,0,Chicago,IL,High,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,99
+20240118MNCOS,1,18,2024,1/18/2024,Como Park Elementary School,0,1,1,0,St. Paul,MN,Elementary,Gym,No,1.0,Accidental,Neither,1
+20240117VAWED,1,17,2024,1/17/2024,Westwood Middle School,0,0,0,0,Danville,VA,Middle,Parking Lot,No,1.0,Suicide/Attempted,Neither,99
+20240117INLIG,1,17,2024,1/17/2024,Lighthouse College Prep Academy,0,0,0,0,Gary,IN,High,Bathroom,Yes,1.0,,,1
+20240117MDCHE,1,17,2024,1/17/2024,Children's Manor Montessori School,1,0,1,0,Ellicott City,MD,Elementary,Parking Lot,Yes,1.0,,Victims Targeted,1
+20240113INLAF,1,13,2024,1/13/2024,Wayne Middle School,1,0,1,0,Fort Wayne,IN,Middle,Parking Lot,No,1.0,,Victims Targeted,99
+20240112OKHEO,1,12,2024,1/12/2024,Hefner Middle School,0,0,0,0,Oklahoma City,OK,Middle,Bathroom,Yes,1.0,,,1
+20240112OHROD,1,12,2024,1/12/2024,Roosevelt Elementary School,1,0,1,0,Dayton,OH,Elementary,Basketball Court,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20240111FLNOM,1,11,2024,1/11/2024,Miami Northwestern Senior High School,0,1,1,0,Miami,FL,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,5
+20240111LABOB,1,11,2024,1/11/2024,Bogalusa High School,1,1,2,0,Bogalusa,LA,High,Parking Lot,No,1.0,,,99
+20240110WAWHW,1,10,2024,1/10/2024,White Swan High School,0,0,0,0,White Swan,WA,High,Outside on School Property,Yes,1.0,,,0
+20240109TXACH,1,9,2024,1/9/2024,Academy of Accelerated Learning Middle School,1,0,1,0,Houston,TX,Middle,Front of School,Yes,1.0,,Victims Targeted,99
+20240108MSSIS,1,8,2024,1/8/2024,Simpson County School Bus,0,1,1,0,Shivers,MS,High,School Bus,Yes,1.0,,Victims Targeted,1
+20240108CARIR,1,8,2024,1/8/2024,Richmond High School,0,0,0,0,Richmond,CA,High,Parking Lot,Yes,1.0,,,99
+20240104IAPEP,1,4,2024,1/4/2024,Perry Middle and High School,2,6,8,1,Perry,IA,6-Dec,Cafeteria,Yes,7.0,Indiscriminate Shooting,,
+20240103TNFRM,1,3,2024,1/3/2024,Freedom Preparatory Academy Westwood,0,0,0,0,Memphis,TN,Elementary,Classroom,Yes,1.0,,,99
+20240103VAMAM,1,3,2024,1/3/2024,Manchester High School,0,1,1,0,Midlothian,VA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20240101LABAM,1,1,2024,1/1/2024,Barkdull Faulk Elementary School,0,0,0,0,Monroe,LA,Elementary,Beside Building,No,1.0,,,100
+20231226RIEME,12,26,2023,12/26/2023,Emma G. Whiteknact Elementary School,0,1,1,0,East Providence,RI,Elementary,Playground,No,1.0,,,1
+20231220TXEAF,12,20,2023,12/20/2023,Eastern Hills High School,0,0,0,0,Fort Worth,TX,High,Outside on School Property,Yes,1.0,Escalation of Dispute,,1
+20231220NJKIN,12,20,2023,12/20/2023,KIPP Life Academy,0,1,1,0,Newark,NJ,K-12,Front of School,Yes,1.0,,,11
+20231219COLEC,12,19,2023,12/19/2023,Legacy Peak Elementary School,0,2,2,0,Colorado Springs,CO,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,10
+20231219TXCYK,12,19,2023,12/19/2023,Cypress Lakes High School,1,0,1,0,Katy,TX,High,Parking Lot,Yes,1.0,,Victims Targeted,99
+20231218VAORC,12,18,2023,12/18/2023,Orange County Public Schools Bus,0,0,0,0,Culpeper,VA,,Parking Lot,No,1.0,Indiscriminate Shooting,Neither,3
+20231218INEGH,12,18,2023,12/18/2023,Eggers Middle School,0,0,0,0,Hammond,IN,Middle,Hallway,Yes,1.0,,Neither,1
+20231215CAPAP,12,15,2023,12/15/2023,Palo Alto High School,0,0,0,0,Palo Alto,CA,High,Outside on School Property,Yes,1.0,,Neither,0
+20231215TNLEN,12,15,2023,12/15/2023,LEAD Brick Church School,0,0,0,0,Nashville,TN,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20231213MIDED,12,13,2023,12/13/2023,Detroit Leadership Academy,0,0,0,0,Detroit,MI,K-12,Classroom,Yes,1.0,Accidental,,2
+20231212MICOK,12,12,2023,12/12/2023,Comstock High School,0,0,0,0,Kalamazoo,MI,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,30
+20231211NYROQ,12,11,2023,12/11/2023,Robert F. Kennedy Community School,0,0,0,0,Queens,NY,High,Front of School,Yes,1.0,,,99
+20231208MONOS,12,8,2023,12/8/2023,Normandy High School,0,1,1,0,St. Louis,MO,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20231208NMATA,12,8,2023,12/8/2023,Atrisco Heritage Academy,1,0,1,0,Albuquerque,NM,High,Parking Lot,No,1.0,Accidental,Neither,1
+20231208VAWOW,12,8,2023,12/8/2023,Woodbridge Senior High School,0,3,3,0,Woodbridge,VA,High,School Bus,Yes,1.0,Intentional Property Damage,Random Shooting,99
+20231208WIBUW,12,8,2023,12/8/2023,Butler Middle School,0,0,0,0,Waukesha,WI,High,Front of School,Yes,1.0,Escalation of Dispute,Neither,0
+20231206INLAL,12,6,2023,12/6/2023,Lawrence Central High School Wednesday,0,0,0,0,Lawrence,IN,High,Parking Lot,No,1.0,Escalation of Dispute,Random Shooting,2
+20231205NCVAH,12,5,2023,12/5/2023,Vance County High School,0,0,0,0,Hendersonville,NC,High,Parking Lot,No,1.0,Escalation of Dispute,Both,20
+20231205TXNOA,12,5,2023,12/5/2023,Northeast Early College High School,0,1,1,0,Austin,TX,High,Parking Lot,Yes,1.0,,Victims Targeted,
+20231202VADRA,12,2,2023,12/2/2023,Dr. Charles R. Drew Elementary School,0,0,0,0,Arlington,VA,Elementary,Parking Lot,No,,,Victims Targeted,99
+20231201OHBUA,12,1,2023,12/1/2023,Buchtel High School,0,0,0,0,Akron,OH,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20231201OHNOC,12,1,2023,12/1/2023,North College Hill High School,0,1,1,0,Cincinnati,OH,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20231201DCKIW,12,1,2023,12/1/2023,KIPP DC College Preparatory School,0,1,1,0,Washington,DC,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,10
+20231130TXBUH,11,30,2023,11/30/2023,Buffalo Creek Elementary,0,0,0,1,Houston,TX,Elementary,Front of School,Yes,1.0,Illegal Activity,Random Shooting,1
+20231129OHMAT,11,29,2023,11/29/2023,Martin Luther King Jr. Academy for Boys,0,0,0,0,Toledo,OH,Middle,Beside Building,Yes,1.0,,,7
+20231128TXNOH,11,28,2023,11/28/2023,Northside High School,0,1,1,0,Houston,TX,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20231126OHEDD,11,26,2023,11/26/2023,Edwin Joel Brown Middle School,0,1,1,0,Dayton,OH,Middle,Outside on School Property,No,1.0,Illegal Activity,Victims Targeted,
+20231123OHSOC,11,23,2023,11/23/2023,South Avondale Elementary School,0,1,1,0,Cincinnati,OH,Elementary,Football Field/Track,No,1.0,,Victims Targeted,
+20231119ILURU,11,19,2023,11/19/2023,Urbana High School,0,1,1,0,Urbana,IL,High,Beside Building,No,1.0,Escalation of Dispute,Victims Targeted,99
+20231117LAACL,11,18,2023,11/17/2023,Acadiana High School,0,0,0,0,Lafayette,LA,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,99
+20231116CALAW,11,16,2023,11/16/2023,Larchmont Charter School,0,0,0,0,West Hollywood,CA,Elementary,Parking Lot,Yes,1.0,,,0
+20231116OHSTC,11,16,2023,11/16/2023,St. Francis Catholic School,1,0,1,0,Cleveland,OH,Elementary,Playground,Yes,1.0,,Victims Targeted,99
+20231114MILID,11,14,2023,11/14/2023,Lincoln Park High School,0,0,0,0,Detroit,MI,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Neither,0
+2023114ILMAP,11,14,2023,11/14/2023,Manual High School,0,0,0,0,Peoria,IL,High,Front of School,Yes,1.0,,,22
+2023113KYJEL,11,13,2023,11/13/2023,Jefferson County School Bus,0,1,1,0,Louisville,KY,High,School Bus,Yes,1.0,,Victims Targeted,99
+20231113NJCEN,11,13,2023,11/13/2023,Central High School,0,1,1,0,Newark,NJ,High,Front of School,Yes,1.0,Drive-by Shooting,,99
+20231110CAVAV,11,10,2023,11/10/2023,Vallejo High School,0,1,1,0,Vallejo,CA,High,Front of School,No,1.0,,Victims Targeted,99
+20231109NVLAL,11,9,2023,11/9/2023,Las Vegas Academy,1,0,1,0,Las Vegas,NV,High,Parking Lot,Yes,1.0,Psychosis,Both,99
+20231109ALESA,11,9,2023,11/9/2023,Escambia County High School,0,2,2,0,Atmore,AL,High,Gym,No,1.0,Accidental,Neither,1
+20231108CTLIN,11,8,2023,11/8/2023,Lincoln Bassett School,0,0,0,0,New Haven,CT,Elementary,Parking Lot,Yes,1.0,Psychosis,Neither,0
+20231107CABUB,11,7,2023,11/7/2023,Bullard High School,0,0,0,0,Fresno,CA,High,School Bus,Yes,1.0,,Both,99
+20231103INKII,11,3,2023,11/3/2023,Kipp Indy Legacy High School,1,0,1,0,Indianapolis,IN,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20231102NCFRM,11,2,2023,11/2/2023,Freedom High School,0,0,0,0,Morganton,NC,High,Front of School,Yes,1.0,Drive-by Shooting,Neither,99
+20231102OHWAL,11,2,2023,11/2/2023,Washington Elementary School,0,0,0,0,Lorain,OH,Elementary,Parking Lot,Yes,1.0,,Victims Targeted,99
+20231102ALSMS,11,2,2023,11/2/2023,Smiths Station High School,0,0,0,0,Smiths Station,AL,High,Gym,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20231031NVCOL,10,31,2023,10/31/2023,Cortney Junior High School,0,0,0,0,Las Vegas,NV,Middle,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,3
+20231030NCRAR,10,30,2023,10/30/2023,Raleigh School Bus,0,2,2,0,Raleigh,NC,High,School Bus,Yes,1.0,,Both,99
+20231027TXDUS,10,27,2023,10/27/2023,Dub Farris Athletic Complex,0,1,1,0,San Antonio,TX,High,Parking Lot,No,1.0,Officer-Involved Shooting,Victims Targeted,1
+20231027LADOD,10,27,2023,10/27/2023,Donaldsonville High School,1,1,2,0,Donaldsonville,LA,High,Parking Lot,No,1.0,,Victims Targeted,99
+20231027MDCAB,10,27,2023,10/27/2023,Carver Vocational-Technical High School,0,3,3,0,Baltimore,MD,High,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20231027MIDED,10,26,2023,10/26/2023,Denby High School,0,1,1,0,Detroit,MI,High,Basketball Court,No,1.0,,Victims Targeted,
+20231026CALEL,10,26,2023,10/26/2023,Legacy High School,0,1,1,0,Los Angles,CA,High,Parking Lot,No,1.0,Officer-Involved Shooting,Victims Targeted,99
+20231026VTMOM,10,26,2023,10/26/2023,Montpelier School Bus,0,0,0,0,Montpelier,VT,,School Bus,Yes,1.0,Accidental,Neither,1
+20231026FLNFJ,10,26,2023,10/26/2023,North Florida Educational Institute,0,1,1,0,Jacksonville,FL,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20231024MDEDW,10,24,2023,10/24/2023,Edmondson Heights Elementary School,0,1,1,0,Woodlawn,MD,Elementary,Playground,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20231023WIKEG,10,23,2023,10/23/2023,Kennedy Middle School,0,0,0,1,Germantown,WI,Middle,Outside on School Property,No,1.0,Psychosis,Random Shooting,99
+20231021OHFAD,10,21,2023,10/21/2023,Fairview PreK-6 School,0,1,1,0,Dayton,OH,Elementary,Parking Lot,No,1.0,,,
+20231020FLLIT,10,20,2023,10/20/2023,Lincoln High School,0,1,1,0,Tallahassee,FL,High,Parking Lot,Yes,1.0,,Victims Targeted,1
+20231020FLFAT,10,20,2023,10/20/2023,Farnell Middle School,0,0,0,1,Tampa,FL,Middle,Parking Lot,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20231019WAEVV,10,19,2023,10/19/2023,Evergreen High School,0,0,0,0,Vancouver,WA,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20231019ILMAC,10,19,2023,10/19/2023,Mather High School,0,0,0,0,Chicago,IL,High,Parking Lot,No,1.0,,,99
+20231019TXNAA,10,19,2023,10/19/2023,Navarro High School,0,1,1,0,Austin,TX,High,Parking Lot,Yes,1.0,,Victims Targeted,99
+20231019CAGRF,10,19,2023,10/19/2023,Greenberg Elementary School,0,1,1,0,Fresno,CA,Elementary,Outside on School Property,Yes,1.0,,Victims Targeted,11
+20231018WILUW,10,18,2023,10/18/2023,Luther Preparatory School,0,0,0,1,Watertown,WI,K-12,Beside Building,Yes,1.0,Illegal Activity,Victims Targeted,99
+20231015OHEAT,10,15,2023,10/15/2023,East Broadway Elementary,0,1,1,0,Toledo,OH,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,1
+20231015TXFRD,10,15,2023,10/15/2023,Fred Moore High School,1,1,2,0,Denton,TX,High,Parking Lot,No,1.0,,,99
+20231015MOKIK,10,15,2023,10/15/2023,North Kirkwood Middle School,0,0,0,0,Kirkwood,MO,Middle,Parking Lot,No,1.0,Indiscriminate Shooting,Random Shooting,12
+20231013FLBOS,10,13,2023,10/13/2023,Booker High School,0,0,0,0,Sarasota,FL,High,Off School Property,No,1.0,,,99
+20231013OHCLC,10,13,2023,10/13/2023,Cleveland Central Catholic High School,0,1,1,0,Cleveland,OH,High,Front of School,Yes,1.0,Escalation of Dispute,,
+20231011CAMAL,10,11,2023,10/11/2023,Manual Arts Sr. High School,0,1,1,0,Los Angles,CA,High,Front of School,Yes,1.0,,,99
+20231011FLMIM,10,11,2023,10/11/2023,Miami Edison High School,1,0,1,0,Miami,FL,High,Football Field/Track,No,1.0,,Victims Targeted,99
+20231011TXSEF,10,11,2023,10/11/2023,Sellars Elementary School,1,0,1,0,Forest Hill,TX,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,99
+20231010MOBAS,10,10,2023,10/10/2023,Bayless Elementary School,0,0,0,0,St. Louis,MO,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20231010NCTEF,10,10,2023,10/10/2023,Terry Sanford High School,0,0,0,0,Fayetteville,NC,High,Field (General),No,1.0,Hostage/Standoff,Random Shooting,99
+20231010SCDAD,10,10,2023,10/10/2023,Darlington-Lee Adult Education Campus,1,0,1,0,Darlington,SC,High,Parking Lot,Yes,1.0,,Victims Targeted,
+20231008ILTHD,10,8,2023,10/8/2023,Thornridge High School,0,0,0,0,Dolton,IL,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,10
+20231006LATHT,10,6,2023,10/6/2023,Thibodaux High Stadium,0,0,0,0,Thibodaux,LA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,5
+20231006MIOAO,10,6,2023,10/6/2023,Oak Park High School,0,2,2,0,Oak Park,MI,High,Parking Lot,No,1.0,,,99
+20231004PAMIE,10,4,2023,10/4/2023,Middle Smithfield Elementary School,0,0,0,0,East Stroudsburg,PA,Elementary,Parking Lot,Yes,1.0,Accidental,Neither,1
+20231004COROD,10,4,2023,10/4/2023,Rocky Mountain Prep Southwest,0,1,1,0,Denver,CO,Elementary,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20231004WAGAS,10,4,2023,10/4/2023,Garfield High School,0,0,0,0,Seattle,WA,High,Football Field/Track,Yes,1.0,,,99
+20231004GASAS,10,4,2023,10/4/2023,Savannah High School,0,1,1,0,Savannah,GA,High,Field (General),Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20231002CAALL,10,2,2023,10/2/2023,Albert Einstein High School,0,1,1,0,Los Angles,CA,High,Front of School,Yes,1.0,Racial,Victims Targeted,99
+20231002AZALP,10,2,2023,10/2/2023,Alhambra High School,0,0,0,0,Phoenix,AZ,High,Football Field/Track,No,1.0,Drive-by Shooting,,99
+20230930GAGRG,9,30,2023,9/30/2023,Griffin High School,1,0,1,0,Griffin,GA,High,Parking Lot,No,1.0,,Victims Targeted,99
+20230929AKWAW,9,29,2023,9/29/2023,Wasilla School Bus,0,0,0,0,Wasilla,AK,,School Bus,Yes,1.0,Accidental,Neither,1
+20230929NCDUG,9,29,2023,9/29/2023,Dudley High School,1,1,2,0,Greensboro,NC,High,Parking Lot,No,1.0,Drive-by Shooting,Both,
+20230928MDEDE,9,29,2023,9/29/2023,Edgewood High School,0,0,0,0,Edgewood,MD,High,Front of School,No,1.0,,,99
+20230928GAROC,9,28,2023,9/28/2023,Rothschild Leadership Academy,0,1,1,0,Columbus,GA,6-Dec,Inside School Building,Yes,1.0,Accidental,Neither,1
+20230925DCSTW,9,25,2023,9/25/2023,Stanton Elementary School,0,0,0,0,Washington,DC,Elementary,Classroom,Yes,1.0,Drive-by Shooting,Both,99
+20230925MDDUB,9,25,2023,9/25/2023,Dunbar High School,0,1,1,0,Baltimore,MD,High,Beside Building,Yes,1.0,Accidental,Neither,1
+20230925MDGIB,9,25,2023,9/25/2023,Gilmor Elementary School,1,0,1,0,Baltimore,MD,Elementary,Front of School,No,1.0,,Victims Targeted,99
+20230923OHMAC,9,23,2023,9/23/2023,Mary Church Terrell School,0,0,0,0,Cleveland,OH,K-8,Parking Lot,Yes,1.0,Illegal Activity,Victims Targeted,0
+20230922IAOTO,9,22,2023,9/22/2023,Ottumwa High School,0,0,0,0,Ottumwa,IA,High,Parking Lot,No,1.0,,,99
+20230922KYMAL,9,22,2023,9/22/2023,Male High School,0,0,0,0,Louisville,KY,High,Parking Lot,No,1.0,,Neither,99
+20230922TNWEM,9,22,2023,9/22/2023,Westwood Elementary School,0,1,1,0,Manchester,TN,Elementary,Playground,No,1.0,,Victims Targeted,99
+20230922TNSWS,9,22,2023,9/22/2023,Sweetwater High School,0,0,0,0,Sweetwater,TN,High,Football Field/Track,No,1.0,,,2
+20230922WIMIM,9,22,2023,9/22/2023,Milwaukee Lutheran High School,0,0,0,0,Milwaukee,WI,High,Football Field/Track,No,1.0,,Both,13
+20230920ILVOC,9,20,2023,9/20/2023,Volta Elementary School,0,1,1,0,Chicago,IL,Elementary,Beside Building,No,1.0,,,1
+20230919TXKEB,9,19,2023,9/19/2023,Kendall Elementary School,0,1,1,0,Boerne,TX,Elementary,Playground,Yes,1.0,,Victims Targeted,1
+20230919FLWOP,9,19,2023,9/19/2023,Workman Middle School,0,1,1,0,Pensacola,FL,Middle,Front of School,No,1.0,Drive-by Shooting,,99
+20230919DCROW,9,19,2023,9/19/2023,Rocketship Rise Academy,0,0,0,0,Washington,DC,Elementary,Outside on School Property,No,1.0,,,99
+20230918MDDUB,9,18,2023,9/18/2023,Dunbar High School,0,0,0,0,Baltimore,MD,High,Beside Building,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230916OHEAC,9,16,2023,9/16/2023,East Tech High School,0,1,1,0,Cleveland,OH,High,Parking Lot,No,1.0,,,
+20230915MDJAB,9,15,2023,9/15/2023,James McHenry Elementary School,0,2,2,0,Baltimore,MD,Elementary,Playground,No,1.0,,,99
+20230915ILHIC,9,15,2023,9/15/2023,Hillcrest High School,1,0,1,0,Country Club Hills,IL,High,Football Field/Track,No,1.0,,,99
+20230915KSWYK,9,15,2023,9/15/2023,Wyandotte High School,0,0,0,0,Kansas City,KS,High,Football Field/Track,No,1.0,,,99
+20230914ILBOU,9,14,2023,9/14/2023,Booker T. Washington School,0,0,0,0,Urbana,IL,K-12,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230913GALAA,9,13,2023,9/13/2023,Lake Park Elementary School,0,1,1,0,Albany,GA,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,99
+20230913DCLIW,9,13,2023,9/13/2023,Lincoln Middle School,0,1,1,0,Washington,DC,Middle,Parking Lot,No,1.0,,Victims Targeted,
+20230912WAEIY,9,12,2023,9/12/2023,Eisenhower High School,0,1,1,0,Yakima,WA,High,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230912LASTG,9,12,2023,9/12/2023,St. Helena College & Career Academy,1,2,3,0,Helena,LA,High,Parking Lot,Yes,1.0,Bullying,Victims Targeted,99
+20230911MDDUL,9,11,2023,9/11/2023,DuVal High School,1,0,1,0,Lanham,MD,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Both,99
+20230911ARPRN,9,11,2023,9/11/2023,Premier High School,0,0,0,0,North Little Rock,AR,High,Bathroom,Yes,1.0,,,1
+20230909NYPRU,9,9,2023,9/9/2023,Proctor High School,0,1,1,0,Utica,NY,High,Parking Lot,No,1.0,Escalation of Dispute,Both,99
+20230908NCLUL,9,8,2023,9/8/2023,Lumberton High School,0,0,0,0,Lumberton,NC,High,Parking Lot,No,1.0,Drive-by Shooting,Both,99
+20230906FLANT,9,6,2023,9/6/2023,Andrew Jackson Middle School,0,0,0,0,Titusville,FL,Middle,School Bus,Yes,1.0,Escalation of Dispute,Both,99
+20230905CASKO,9,5,2023,9/5/2023,Skyline High School,0,0,0,0,Oakland,CA,High,Outside on School Property,Yes,1.0,,,99
+20230901TNMEM,9,2,2023,9/1/2023,Melrose High School,0,0,0,0,Memphis,TN,High,Beside Building,Yes,1.0,Drive-by Shooting,Neither,99
+20230901MDDUB,9,1,2023,9/1/2023,Dunbar High School,0,1,1,0,Baltimore,MD,High,Parking Lot,No,1.0,,,99
+20230901ILMOC,9,1,2023,9/1/2023,Mount Carmel High School,0,2,2,0,Chicago,IL,High,Football Field/Track,No,1.0,,Both,99
+20230901LAPOP,9,1,2023,9/1/2023,Port Allen High School,1,1,2,0,Port Allen,LA,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,99
+20230831KSWEW,8,31,2023,8/31/2023,Wellington High School,0,0,0,0,Wellington,KS,High,Field (General),No,1.0,Drive-by Shooting,Random Shooting,99
+20230831MSBRB,8,31,2023,8/31/2023,Brookhaven School Bus,0,0,0,0,Brookhaven,MS,Middle,School Bus,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20230831WANOD,8,31,2023,8/31/2023,North Hill Elementary School,0,0,0,0,Des Moines,WA,Elementary,Field (General),No,1.0,Escalation of Dispute,Victims Targeted,99
+20230829NVCLL,8,29,2023,8/29/2023,Clark High School,0,0,0,0,Las Vegas,NV,High,Front of School,Yes,1.0,Drive-by Shooting,,99
+20230826CAFAF,8,26,2023,8/26/2023,Fairfield High School,0,0,0,0,Fairfield,CA,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,10
+20230825MSOBG,8,25,2023,8/25/2023,OíBannon High School,0,0,0,0,Greenville,MS,High,Parking Lot,No,1.0,,Random Shooting,30
+20230825CADRL,8,25,2023,8/25/2023,Dr. Maya Angelous Community High School,0,1,1,0,Los Angles,CA,High,Football Field/Track,No,1.0,,Random Shooting,99
+20230825OKBOT,8,25,2023,8/25/2023,Booker T. Washington High,0,0,0,0,Tulsa,OK,High,Football Field/Track,No,1.0,Escalation of Dispute,Neither,0
+20230825SCGEG,8,25,2023,8/25/2023,Georgetown High School,0,0,0,0,Georgetown,SC,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,99
+20230825OKCHC,8,25,2023,8/25/2023,Choctaw High School,1,3,4,0,Choctaw,OK,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,99
+20230824NMRAT,8,24,2023,8/24/2023,Ranchos Elementary School,1,0,1,0,Ranchos De Taos,NM,Elementary,Beside Building,No,1.0,,Victims Targeted,99
+20230824VAWAP,8,24,2023,8/24/2023,Walnut Hill Elementary School,1,0,1,0,Petersburg,VA,Elementary,Front of School,No,1.0,,Victims Targeted,99
+20230824VAKEV,8,24,2023,8/24/2023,Kempsville High School,0,2,2,0,Virginia Beach,VA,High,Off School Property,No,1.0,,Neither,5
+20230824AZPHP,8,24,2023,8/24/2023,Phoenix School Bus,0,1,1,0,Phoenix,AZ,Elementary,School Bus,Yes,1.0,,Victims Targeted,1
+20230823MDTOT,8,23,2023,8/23/2023,Towson High School,0,1,1,0,Towson,MD,High,Parking Lot,No,1.0,Accidental,Victims Targeted,99
+20230822OKSTS,8,22,2023,8/22/2023,Stillwater High School,0,0,0,0,Stillwater,OK,High,Football Field/Track,No,1.0,Intentional Property Damage,Neither,1
+20230822TNSTC,8,22,2023,8/22/2023,Stone Elementary School,0,0,0,0,Crossville,TN,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20230822TXJES,8,22,2023,8/22/2023,Jefferson Elementary School,0,0,0,0,Seguin,TX,Elementary,School Bus,Yes,1.0,Accidental,Neither,1
+20230818GANOK,8,18,2023,8/18/2023,North Cobb High School,0,1,1,0,Kennesaw,GA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230818CAETR,8,18,2023,8/18/2023,Etiwanda High School,0,1,1,0,Rancho Cucamonga,CA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230818GAJOJ,8,18,2023,8/18/2023,Jonesboro High School,0,1,1,0,Jonesboro,GA,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,1
+20230818MSPAP,8,18,2023,8/18/2023,Pascagoula High School,0,1,1,0,Pascagoula,MS,High,Parking Lot,No,1.0,,Victims Targeted,8
+20230818FLFIJ,8,18,2023,8/18/2023,First Coast High School,0,0,0,0,Jacksonville,FL,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,20
+20230816GAJOA,8,16,2023,8/16/2023,T. W. Josey High School,0,1,1,0,Augusta,GA,High,Cafeteria,Yes,1.0,Escalation of Dispute,Victims Targeted,2
+20230813NEWON,8,13,2023,8/13/2023,Woodland Park Elementary,0,0,0,0,Norfolk,NE,Elementary,Outside on School Property,No,1.0,Intentional Property Damage,Neither,99
+20230812MSSTS,8,12,2023,8/12/2023,Starkville High School,0,0,0,0,Starkville,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230810TNCOM,8,10,2023,8/10/2023,Cordova High School,0,0,0,0,Memphis,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,2
+20230808ILBOC,8,8,2023,8/8/2023,Booker T. Washington STEM Academy,0,0,0,0,Champaign,IL,Elementary,Office,Yes,1.0,Intentional Property Damage,Neither,1
+20230807WAHIS,8,7,2023,8/7/2023,Highland Park Elementary School,0,0,0,0,Seattle,WA,Elementary,Playground,No,1.0,Intentional Property Damage,Neither,99
+20230731TNMAM,7,31,2023,7/31/2023,Margolin Hebrew Academy,0,0,0,0,Memphis,TN,K-12,Front of School,Yes,1.0,Psychosis,Random Shooting,99
+20230726DCMAW,7,26,2023,7/26/2023,Marie Reed Elementary School,1,0,1,0,Washington,DC,Elementary,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,1
+20230725TNFRM,7,25,2023,7/25/2023,Freedom Prep Academy Westwood,0,1,1,0,Memphis,TN,High,Front of School,No,1.0,Drive-by Shooting,Victims Targeted,99
+20230725NCJUC,7,25,2023,7/25/2023,Julius Chambers High School,0,1,1,0,Charlotte,NC,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,1
+20230724PAJOH,7,24,2023,7/24/2023,John Harris High School,1,0,1,0,Harrisburg,PA,High,Front of School,No,1.0,,Victims Targeted,99
+20230718NYFRB,7,18,2023,7/18/2023,Franklin Delano Roosevelt High School,1,0,1,0,Brooklyn,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,7
+20230716GALOH,7,16,2023,7/16/2023,Lovejoy High School,1,0,1,0,Hampton,GA,High,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,99
+20230714TXJAS,7,14,2023,7/14/2023,Japhet Elementary School,0,0,0,0,San Antonio,TX,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230714NYKIT,7,14,2023,7/14/2023,KIPP Troy Prep Elementary School,0,1,1,0,Troy,NY,Elementary,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,
+20230708ALWOB,7,8,2023,7/8/2023,Woodlawn High School,1,1,2,1,Bermingham,AL,High,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,99
+20230707MDPIP,7,7,2023,7/7/2023,Pikesville High School,1,0,1,0,Pikesville,MD,High,Parking Lot,No,1.0,,Victims Targeted,
+20230706OHHUC,7,6,2023,7/6/2023,Hughes High School,0,1,1,0,Cincinnati,OH,High,Front of School,No,1.0,,,
+20230702MNUNF,7,2,2023,7/2/2023,Jefferson Elementary School,0,0,0,0,Faribault,MN,Unknown,Basketball Court,No,1.0,Escalation of Dispute,,99
+20230623NMKEA,6,23,2023,6/23/2023,Kennedy Middle School,0,1,1,0,Albuquerque,NM,Middle,Front of School,Yes,1.0,Illegal Activity,Victims Targeted,1
+20230622ARSOS,6,22,2023,6/22/2023,Southwest Middle School,0,0,0,0,Searcy,AR,Middle,Outside on School Property,Yes,1.0,,,1
+20230613PAJUP,6,13,2023,6/13/2023,Julia De Burgos Elementary School,0,1,1,0,Philadelphia,PA,Elementary,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,4
+20230612NJRIM,6,12,2023,6/12/2023,Rieck Avenue Elementary School,1,0,1,0,Millville,NJ,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230612GAKEC,6,12,2023,6/12/2023,Kendrick High School,0,1,1,0,Columbus,GA,High,Beside Building,No,1.0,,,1
+20230609DCTUW,6,9,2023,6/9/2023,Turner Elementary School,0,1,1,0,Washington,DC,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230607WIMIM,6,7,2023,6/7/2023,Milwaukee School Bus,0,0,0,0,Milwaukee,WI,Elementary,School Bus,Yes,1.0,,,99
+20230607VADRA,6,7,2023,6/7/2023,Drew Elementary School,0,0,0,0,Arlington,VA,Elementary,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20230606VAHUR,6,6,2023,6/6/2023,Huguenot High School,2,5,7,0,Richmond,VA,High,Off School Property,No,1.0,Escalation of Dispute,Both,99
+20230605MIMIW,6,5,2023,6/5/2023,Michigan Collegiate High School,0,0,0,0,Warren,MI,High,Parking Lot,Yes,1.0,Escalation of Dispute,Neither,6
+20230605MARID,6,5,2023,6/5/2023,Richard Murphy School,0,0,0,0,Dorchester,MA,K-8,Playground,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20230602MDSAE,6,2,2023,6/2/2023,Sandalwood Elementary School,0,2,2,0,Essex,MD,Elementary,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230602MAWOW,6,2,2023,6/2/2023,Worcester Technical High School,0,1,1,0,Worcester,MA,High,Outside on School Property,No,1.0,,Victims Targeted,99
+20230601TXCAF,6,1,2023,6/1/2023,Carroll Peak Elementary School,0,1,1,0,Fort Worth,TX,Elementary,Outside on School Property,No,1.0,Escalation of Dispute,Both,99
+20230531CABAB,5,31,2023,5/31/2023,Banning High School,1,0,1,0,Banning,CA,High,Front of School,No,1.0,Drive-by Shooting,,99
+20230528GABEA,5,28,2023,5/28/2023,Benjamin E. Mays High School,1,1,2,0,Atlanta,GA,High,Parking Lot,No,1.0,Escalation of Dispute,Both,99
+20230526NYMOM,5,26,2023,5/26/2023,Monhagen Middle School,0,0,0,0,Middletown,NY,Middle,Outside on School Property,No,1.0,,,99
+20230526MIHAH,5,26,2023,5/26/2023,Harper Woods Middle School,0,0,0,0,Harper Woods,MI,Middle,Front of School,No,1.0,Drive-by Shooting,Both,99
+20230525PASAB,5,25,2023,5/25/2023,Salem Elementary School,0,0,0,0,Berwick,PA,Elementary,Football Field/Track,No,1.0,Intentional Property Damage,Neither,4
+20230525OHBEC,5,25,2023,5/25/2023,Berwick Alternative Elementary School,0,1,1,0,Columbus,OH,Elementary,Basketball Court,No,1.0,Drive-by Shooting,Victims Targeted,99
+20230525MNWAM,5,25,2023,5/25/2023,Washburn High School,0,0,0,0,Minneapolis,MN,High,Beside Building,No,1.0,Escalation of Dispute,Random Shooting,3
+20230525CABEM,5,25,2023,5/25/2023,Berenda Elementary School,0,0,0,0,Madera Acres,CA,Elementary,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230524PAOLP,5,24,2023,5/24/2023,Oliver Citywide Academy,1,0,1,0,Pittsburgh,PA,K-12,Front of School,Yes,1.0,,Victims Targeted,11
+20230524NCNOD,5,24,2023,5/24/2023,Northern High School,0,0,0,0,Durham,NC,High,Off School Property,Yes,1.0,,,0
+20230524NCJHG,5,24,2023,5/24/2023,J.H. Rose High School,0,1,1,0,Greenville,NC,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,9
+20230523MIYPY,5,23,2023,5/23/2023,Ypsilanti Community Schools Bus,0,0,0,0,Ypsilanti,MI,Elementary,School Bus,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230522MASTD,5,22,2023,5/22/2023,St. John's Preparatory School,0,0,0,0,Danvers,MA,High,Hallway,Yes,1.0,Accidental,Neither,1
+20230522DCKID,5,22,2023,5/22/2023,KIPP College Preparatry High School,0,1,1,0,Washington,DC,High,Front of School,Yes,1.0,Illegal Activity,Victims Targeted,99
+20230521NJCEN,5,21,2023,5/21/2023,Central High School,0,1,1,0,Newark,NJ,High,Football Field/Track,No,1.0,,Victims Targeted,99
+20230519NYPSS,5,19,2023,5/19/2023,P.S. 78,0,1,1,0,Staten Island,NY,Elementary,Basketball Court,Yes,1.0,Escalation of Dispute,Both,2
+20230519DEFAD,5,19,2023,5/19/2023,Fair View Elementary School,0,0,0,0,Dover,DE,Elementary,Beside Building,No,1.0,Intentional Property Damage,Neither,99
+20230519AZBOP,5,19,2023,5/19/2023,Bostrom High School,0,0,0,0,Phoenix,AZ,High,Office,Yes,1.0,Indiscriminate Shooting,,0
+20230518WAGAS,5,18,2023,5/18/2023,Garfield High School,0,1,1,0,Seattle,WA,High,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230518CACHW,5,18,2023,5/18/2023,Chaminade College Preparatory High School,0,0,0,0,West Hills,CA,High,Beside Building,No,1.0,Psychosis,Neither,0
+20230517DCTHW,5,17,2023,5/17/2023,Theodore Roosevelt High School,1,0,1,0,Washington,DC,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,5
+20230516OHEAC,5,16,2023,5/16/2023,Eakin Elementary School,0,1,1,0,Columbus,OH,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,,99
+20230516NJSCP,5,16,2023,5/16/2023,School 21,0,0,0,0,Patterson,NJ,Elementary,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230516MNDAM,5,16,2023,5/16/2023,Davis Center for Minneapolis Public Schools,0,0,0,0,Minneapolis,MN,Other,Outside on School Property,Yes,1.0,Drive-by Shooting,Both,12
+20230515ORCRP,5,15,2023,5/15/2023,Creative Science School,0,0,0,0,Portland,OR,Middle,Inside School Building,Yes,1.0,Indiscriminate Shooting,Neither,0
+20230515ININI,5,15,2023,5/15/2023,Indianapolis Metropolitan High School,0,0,0,0,Indianapolis,IN,High,Bathroom,Yes,1.0,Illegal Activity,Neither,0
+20230515CAPIP,5,15,2023,5/14/2023,Pinon Hills Elementary School,0,0,0,0,Pinon Hills,CA,Elementary,Playground,Yes,1.0,Indiscriminate Shooting,Random Shooting,5
+20230512TNLEL,5,12,2023,5/12/2023,Lenoir City High School,0,0,0,1,Lenoir City,TN,High,Parking Lot,No,1.0,Accidental,Neither,1
+20230512OHEDD,5,12,2023,5/12/2023,Edwin Joel Brown Middle School,0,0,0,0,Dayton,OH,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230512DCKEW,5,12,2023,5/12/2023,Ketcham Elementary School,0,1,1,0,Washington,DC,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230511MDNOF,5,11,2023,5/11/2023,North Forestville Elementary School,1,0,1,0,Forestville,MD,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,99
+20230511ILNER,5,11,2023,5/11/2023,Neil Armstrong Elementary School,0,0,0,0,Richton Park,IL,Elementary,Hallway,Yes,1.0,,,0
+20230510NYPSQ,5,10,2023,5/10/2023,P.S. 015 Jackie Robinson Elementary,0,1,1,0,Queens,NY,Elementary,Playground,No,1.0,Escalation of Dispute,Both,99
+20230509CACAO,5,9,2023,5/9/2023,Castlemont High School,0,2,2,0,Oakland,CA,High,Beside Building,No,1.0,,,99
+20230508SCSUS,5,8,2023,5/8/2023,Summerville High School,0,0,0,0,Summerville,SC,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20230508PAEWP,5,8,2023,5/8/2023,E. Washington Rhodes Elementary,0,0,0,0,Philadelphia,PA,K-8,Bathroom,Yes,1.0,Accidental,Neither,1
+20230508NVVOL,5,8,2023,5/8/2023,Von Tobel Middle School,0,1,1,0,Las Vegas,NV,Middle,Beside Building,Yes,1.0,Escalation of Dispute,Both,4
+20230506SCCOL,5,6,2023,5/6/2023,College Park Middle School,0,1,1,0,Ladson,SC,Middle,Outside on School Property,No,1.0,Accidental,,1
+20230505INLIE,5,5,2023,5/5/2023,Lincoln School,0,1,1,0,Evansville,IN,K-8,Beside Building,No,1.0,,Victims Targeted,99
+20230503NCJOE,5,3,2023,5/3/2023,John A. Holmes High School,0,0,0,0,Edenton,NC,High,Parking Lot,No,1.0,Drive-by Shooting,Victims Targeted,99
+20230502AZRAM,5,2,2023,5/2/2023,Ramon S. Mendoza Elementary School,0,1,1,0,Mesa,AZ,Elementary,Front of School,No,1.0,,Victims Targeted,1
+20230501MIINF,5,1,2023,5/1/2023,International Academy of Flint,0,1,1,0,Flint,MI,K-12,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230501MDPRS,5,1,2023,5/1/2023,Prince George's County Alternative Middle School,0,1,1,0,Suitland,MD,Middle,School Bus,Yes,1.0,Murder/Assassination,Victims Targeted,0
+20230430KYPAP,4,30,2023,4/30/2023,Paducah Tilghman High School,0,4,4,0,Paducah,KY,High,Off School Property,No,1.0,Escalation of Dispute,Both,99
+20230430CAKNP,4,30,2023,4/30/2023,Knight High School,0,0,0,0,Palmdale,CA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230428TNWEK,4,28,2023,4/28/2023,West High School,0,1,1,0,Knoxville,TN,High,Classroom,Yes,1.0,Accidental,Random Shooting,1
+20230427VAGER,4,27,2023,4/27/2023,George Wythe High School,0,2,2,0,Richmond,VA,High,Parking Lot,Yes,1.0,,,99
+20230427GACHK,4,27,2023,4/27/2023,Chalker Elementary School,0,0,0,0,Kennesaw,GA,Elementary,Beside Building,No,1.0,Intentional Property Damage,Neither,99
+20230426MNLIH,4,26,2023,4/26/2023,Lincoln Elementary School,0,0,0,0,Hibbing,MN,Elementary,Playground,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20230426CTJON,4,26,2023,4/26/2023,John C. Daniels School,0,0,0,0,New Haven,CT,K-8,Parking Lot,Yes,1.0,Drive-by Shooting,,17
+20230425NVCOH,4,25,2023,4/25/2023,Coral Academy Cadence Campus,0,0,0,0,Henderson,NV,K-8,Front of School,No,1.0,Intentional Property Damage,Neither,99
+20230425CAKIL,4,25,2023,4/25/2023,King Drew Magnet High School,1,0,1,0,Los Angles,CA,High,Front of School,Yes,1.0,,Victims Targeted,99
+20230423VAJOD,4,23,2023,4/23/2023,Johnson Elementary School,0,0,0,0,Danville,VA,Elementary,Basketball Court,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230420ARLIL,4,20,2023,4/20/2023,Little Rock Central High,0,0,0,0,Little Rock,AR,High,Beside Building,Yes,1.0,,,99
+20230419FLFOA,4,19,2023,4/19/2023,Forest City Elementary School,0,0,0,0,Altamonte Springs,FL,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20230418TXRIH,4,18,2023,4/18/2023,Ridgemont Elementary School,1,1,2,0,Houston,TX,Elementary,Parking Lot,No,1.0,,Victims Targeted,99
+20230417LASON,4,17,2023,4/17/2023,Sophie B. Wright Charter School,0,0,0,0,New Orleans,LA,High,School Bus,Yes,1.0,Drive-by Shooting,Both,99
+20230414WIWAW,4,14,2023,4/14/2023,Waukesha North High School,0,0,0,0,Waukesha,WI,High,Off School Property,Yes,1.0,,,0
+20230414PAWOP,4,14,2023,4/14/2023,Swissvale School Bus,0,0,0,0,Pittsburgh,PA,K-12,School Bus,Yes,1.0,Drive-by Shooting,Both,99
+20230414AZDEP,4,14,2023,4/14/2023,Desert Sands Middle School,1,0,1,0,Phoenix,AZ,Middle,Front of School,No,1.0,Illegal Activity,Victims Targeted,99
+20230413ILCHC,4,13,2023,4/13/2023,Chicago School Bus,0,0,0,0,Chicago,IL,K-12,School Bus,Yes,1.0,Illegal Activity,Both,99
+20230412TXLOH,4,12,2023,4/12/2023,Louie Welch Middle School,0,1,1,0,Houston,TX,Middle,Front of School,Yes,1.0,Escalation of Dispute,Both,14
+20230412CACES,4,12,2023,4/12/2023,Cesar Chavez High School,1,1,2,0,Stockton,CA,High,Basketball Court,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230407WACHS,4,7,2023,4/7/2023,Chief Sealth International High School,1,0,1,0,Seattle,WA,High,Front of School,No,1.0,,Victims Targeted,99
+20230406NCSOW,4,6,2023,4/6/2023,South Central High School,0,1,1,0,Winterville,NC,High,School Bus,Yes,1.0,Accidental,Neither,1
+20230405SCHOG,4,5,2023,4/5/2023,Hollis Elementary School,0,0,0,0,Greenville,SC,Elementary,Playground,No,1.0,Drive-by Shooting,Victims Targeted,99
+20230405OHROC,4,5,2023,4/5/2023,Rothenberg Preparatory Academy,0,0,0,0,Cincinnati,OH,K-12,Front of School,Yes,1.0,Escalation of Dispute,Neither,99
+20230404TXCHH,4,4,2023,4/4/2023,Chavez High School,0,0,0,0,Houston,TX,High,Office,Yes,1.0,Suicide/Attempted,Victims Targeted,0
+20230404OHWOC,4,4,2023,4/4/2023,Woodward Career Technical School,0,2,2,0,Cincinnati,OH,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230403PAFAP,4,3,2023,4/3/2023,Father Judge High School,0,2,2,0,Philadelphia,PA,High,Front of School,No,1.0,,Victims Targeted,6
+20230331NCLIR,3,27,2023,3/27/2023,Ligon Magnet Middle School,0,0,0,1,Raleigh,NC,Middle,Parking Lot,Yes,1.0,Indiscriminate Shooting,Random Shooting,99
+20230331MSGNJ,3,31,2023,3/31/2023,G.N. Smith Elementary School,0,2,2,0,Jackson,MS,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230331DCCAD,3,31,2023,3/31/2023,Cardozo Education Campus,0,1,1,0,Washington,DC,High,Front of School,Yes,1.0,,,99
+20230331CAWOC,3,31,2023,3/31/2023,Woodson Elementary School,0,1,1,0,Corning,CA,Elementary,Parking Lot,No,1.0,,,
+20230331CAJAR,3,31,2023,3/31/2023,Jackson Heights Elementary School,0,0,0,1,Red Bluff,CA,Elementary,Outside on School Property,Yes,1.0,Suicide/Attempted,Neither,99
+20230330NCFOW,3,30,2023,3/30/2023,Forsyth Technical Community College (high school enrollment day),0,1,1,0,Winston-Salem,NC,High,Bathroom,Yes,1.0,Accidental,Neither,1
+20230329MDBRO,3,29,2023,3/29/2023,Brooke Grove Elementary School,0,0,0,0,Olney,MD,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230329GANED,3,29,2023,3/29/2023,New Manchester High School,0,0,0,1,Douglasville,GA,High,Football Field/Track,Yes,5.0,,Neither,0
+20230327TNCON,3,27,2023,3/27/2023,Covenant School,6,1,7,1,Nashville,TN,Elementary,Inside School Building,Yes,17.0,Indiscriminate Shooting,Random Shooting,152
+20230324NJTHM,3,24,2023,3/24/2023,Thunderbolt Academy,0,0,0,0,Millville,NJ,High,Front of School,Yes,1.0,,Victims Targeted,99
+20230324INNOM,3,24,2023,3/24/2023,Northridge Middle School,0,0,0,1,Middlebury,IN,Middle,Parking Lot,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20230323TNHAM,3,23,2023,3/23/2023,Hamilton High Schol,0,0,0,0,Memphis,TN,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230322PAHAP,3,22,2023,3/22/2023,Hardy Williams Mastery Charter School,0,0,0,0,Philadelphia,PA,K-12,Beside Building,Yes,1.0,,Victims Targeted,15
+20230322COEAD,3,22,2023,3/22/2023,East High School,0,2,2,1,Denver,CO,High,Office,Yes,1.0,Anger Over Grade/Suspension/Discipline,Victims Targeted,99
+20230322ALANA,3,22,2023,3/22/2023,Anniston High School,0,1,1,0,Anniston,AL,High,Inside School Building,Yes,1.0,Accidental,Neither,1
+20230321TXTHD,3,21,2023,3/21/2023,Thomas Jefferson High School,0,1,1,0,Dallas,TX,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230320TXLAA,3,20,2023,3/20/2023,Lamar High School,1,1,2,0,Arlington,TX,High,Front of School,Yes,1.0,,Victims Targeted,2
+20230319ORFOS,3,19,2023,3/19/2023,Foster Elementary School,0,0,0,0,Sweet Home,OR,Elementary,Beside Building,No,1.0,Psychosis,Neither,6
+20230316NYPSB,3,16,2023,3/16/2023,PS 49 Willis Avenue School,0,1,1,0,Bronx,NY,Elementary,Basketball Court,No,1.0,Escalation of Dispute,Victims Targeted,10
+20230316NCLOD,3,16,2023,3/16/2023,Lowe's Grove Middle School,0,0,0,0,Durham,NC,Middle,Inside School Building,Yes,1.0,Illegal Activity,Victims Targeted,0
+20230316DCCOW,3,16,2023,3/16/2023,Coolidge High School,0,0,0,0,Washington,DC,High,Front of School,Yes,1.0,Illegal Activity,Victims Targeted,5
+20230315MICEW,3,15,2023,3/15/2023,Century Park Learning Center,0,0,0,0,Wyoming,MI,Elementary,Outside on School Property,Yes,1.0,,,10
+20230315COINB,3,15,2023,3/15/2023,Innovation and Options Charter School,0,1,1,0,Brighton,CO,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Victims Targeted,15
+20230315CALIG,3,15,2023,3/15/2023,Liberty Ranch High School,0,2,2,0,Galt,CA,High,Front of School,No,1.0,Drive-by Shooting,Victims Targeted,99
+20230314NYMAM,3,14,2023,3/14/2023,Martin Luther King Jr. Educational Campus,0,1,1,0,New York,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,3
+20230314NYHAN,3,14,2023,3/14/2023,Harlem Renaissance High School,0,2,2,0,New York,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20230313NYPSN,3,14,2023,3/14/2023,PS 57 James Weldon Johnson,0,0,0,0,New York,NY,Middle,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,4
+20230309WIBAM,3,9,2023,3/9/2023,Barack Obama School,0,0,0,0,Milwaukee,WI,High,Front of School (Bus),Yes,1.0,Escalation of Dispute,Neither,1
+20230309OHMAM,3,9,2023,3/9/2023,Maple Heights High School,0,1,1,0,Maple Heights,OH,High,Parking Lot,Yes,1.0,,Victims Targeted,99
+20230308WVHIH,3,8,2023,3/8/2023,Hinton Area Elementary School,0,0,0,0,Hinton,WV,Elementary,Outside on School Property,No,1.0,Illegal Activity,Neither,99
+20230308PAHEP,3,8,2023,3/8/2023,Heston Elementary School,0,1,1,0,Philadelphia,PA,Elementary,Front of School,Yes,1.0,,Victims Targeted,14
+20230307INTHI,3,7,2023,3/7/2023,Thomas Carr Howe High School,1,0,1,0,Indianapolis,IN,High,Parking Lot,No,1.0,,Victims Targeted,99
+20230306TXPAA,3,6,2023,3/6/2023,Palo Duro High School,0,1,1,0,Amarillo,TX,High,Basketball Court,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20230306NYPAN,3,6,2023,3/6/2023,Park West High School,0,1,1,0,New York,NY,High,Front of School,Yes,1.0,,Victims Targeted,1
+20230306MISTR,3,6,2023,3/6/2023,Steeland Elementary School,0,1,1,0,Roseville,MI,Elementary,Front of School,Yes,1.0,,Victims Targeted,99
+20230306MDPAB,3,6,2023,3/6/2023,Patterson High School,1,0,1,0,Baltimore,MD,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230306MDLEB,3,6,2023,3/6/2023,Leith Walk Elementary\Middle School,0,0,0,0,Baltimore,MD,K-8,Basketball Court,No,1.0,Escalation of Dispute,Victims Targeted,0
+20230303MTGAL,3,3,2023,3/3/2023,Garfield Elementary School,0,1,1,0,Lewistown,MT,Elementary,Playground,Yes,1.0,,Random Shooting,99
+20230301ILSAC,3,1,2023,3/1/2023,Sawyer Elementary School,1,0,1,0,Chicago,IL,Elementary,Playground,No,1.0,Illegal Activity,Random Shooting,99
+20230301ILMAM,3,1,2023,3/1/2023,Marion Junior High School,0,0,0,0,Marion,IL,Middle,Football Field/Track,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20230301GASAS,3,1,2023,3/1/2023,Savannah High School,0,1,1,0,Savannah,GA,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230301CONOP,3,1,2023,3/1/2023,North Mesa Elementary School,0,0,0,1,Pueblo,CO,Elementary,Playground,Yes,1.0,Hostage/Standoff,Random Shooting,99
+20230227CAGAC,2,27,2023,2/27/2023,Gahr High School,1,0,1,0,Cerritos,CA,High,Parking Lot,No,1.0,Drive-by Shooting,Victims Targeted,99
+20230223OHWOC,2,23,2023,2/23/2023,Woodward Career Technical High School,0,1,1,0,Cincinnati,OH,High,Inside School Building,Yes,1.0,,Victims Targeted,99
+20230222COESE,2,22,2023,2/22/2023,Estes Park Elementary School,0,0,0,0,Estes Park,CO,Elementary,Inside School Building,Yes,1.0,Accidental,Neither,1
+20230221LARUR,2,21,2023,2/21/2023,Ruston High School,0,0,0,0,Ruston,LA,High,Field (General),No,1.0,Accidental,Neither,99
+20230217NCERE,2,17,2023,2/17/2023,Erwin Elementary School,0,0,0,0,Erwin,NC,Elementary,Bathroom,Yes,1.0,,Victims Targeted,0
+20230217ILCAC,2,17,2023,2/17/2023,Catalyst Circle Rock Charter School,0,1,1,0,Chicago,IL,K-12,Beside Building,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20230216TXGAG,2,16,2023,2/16/2023,Galena Park High School,1,0,1,0,Galena Park,TX,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,3
+20230215TXDAH,2,15,2023,2/15/2023,Davis High School,0,0,0,0,Houston,TX,High,Parking Lot,No,1.0,Escalation of Dispute,Both,99
+20230215OHCOC,2,15,2023,2/15/2023,Collinwood High School,0,0,0,0,Cleveland,OH,High,Front of School,Yes,1.0,,Victims Targeted,99
+20230215MDWAB,2,15,2023,2/15/2023,Walter P. Carter Elementary/Middle School,0,1,1,0,Baltimore,MD,K-8,Front of School,Yes,1.0,,,99
+20230214PAWEP,2,14,2023,2/14/2023,Westinghouse Academy,0,4,4,0,Pittsburgh,PA,6-Dec,Front of School,Yes,1.0,,Both,10
+20230214GAMID,2,14,2023,2/14/2023,Miller Grove Middle School,0,0,0,0,Decatur,GA,Middle,Classroom,Yes,1.0,,,1
+20230213TXDAD,2,13,2023,2/13/2023,Dalhart Senior High School,1,0,1,0,Dalhart,TX,High,Parking Lot,Yes,1.0,Accidental,Neither,1
+20230213COEMD,2,13,2023,2/13/2023,Emily Griffith High School,0,2,2,0,Denver,CO,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,99
+20230213NYPSS,2,13,2023,2/13/2023,PS 78,0,0,0,0,Staten Island,NY,Elementary,Beside Building,Yes,1.0,,Random Shooting,99
+20230213COEAD,2,13,2023,2/13/2023,East High School,0,1,1,0,Denver,CO,High,Parking Lot,Yes,1.0,,Victims Targeted,99
+20230210CAHEF,2,10,2023,2/10/2023,Heaton Elementary School,0,1,1,0,Fresno,CA,Elementary,School Bus,Yes,1.0,,Victims Targeted,1
+20230208NYWIB,2,8,2023,2/8/2023,Williamsburg Charter High School,0,3,3,0,Brooklyn,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20230206FLMIM,2,6,2023,2/6/2023,Miami Norland Senior High School,0,1,1,0,Miami Gardens,FL,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,3
+20230206DEAPM,2,6,2023,2/6/2023,Appoquinimink High School,0,0,0,0,Middletown,DE,High,Hallway,No,1.0,Escalation of Dispute,Victims Targeted,1
+20230206ARKIF,2,6,2023,2/6/2023,Kimmons Middle School,0,0,0,0,Fort Smith,AR,Middle,Gym,No,1.0,Escalation of Dispute,Victims Targeted,0
+20230202UTPAS,2,2,2023,2/2/2023,Paradise Canyon Elementary,0,0,0,0,St. George,UT,Elementary,Basketball Court,No,1.0,Escalation of Dispute,Neither,99
+20230202OHRIP,2,2,2023,2/2/2023,Ridgeview Junior High School ,0,0,0,1,Pickerington,OH,Middle,Office,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20230131OKGEG,1,31,2023,1/31/2023,Geary Elementary School,0,0,0,0,Geary,OK,Elementary,Parking Lot,Yes,1.0,Accidental,Neither,2
+20230131ILZIZ,1,31,2023,1/31/2023,Zion-Benton Township High School,0,0,0,0,Zion,IL,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230130DCCOW,1,30,2023,1/30/2023,Coolidge High School,1,0,1,0,Washington,DC,High,Front of School,Yes,1.0,Escalation of Dispute,,99
+20230130AZGIY,1,30,2023,1/30/2023,Gila Ridge High School,0,2,2,0,Yuma,AZ,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20230130ALHOM,1,30,2023,1/30/2023,Holloway Elementary School,0,0,0,0,Mobile,AL,Elementary,Parking Lot,Yes,1.0,Drive-by Shooting,,99
+20230128MOGLS,1,28,2023,1/28/2023,Glendale High School,0,1,1,0,Springfield,MO,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,15
+20230127NJHOW,1,27,2023,1/27/2023,Holly Glen Elementary School,0,0,0,0,Williamstown,NJ,Elementary,Outside on School Property,No,1.0,Escalation of Dispute,Victims Targeted,1
+20230126UTTAT,1,26,2023,1/26/2023,Taylorsville High School,0,0,0,0,Taylorsville,UT,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20230125OHTOT,1,25,2023,1/25/2023,Toledo Public Schools Bus,0,0,0,0,Toledo,OH,Other,School Bus,Yes,1.0,Drive-by Shooting,Both,46
+20230124MOTHK,1,24,2023,1/24/2023,The Plaza Academy,0,1,1,0,Kansas City,MO,High,Beside Building,Yes,1.0,Drive-by Shooting,,
+20230123TXABA,1,23,2023,1/23/2023,Abilene Independent School District Bus,0,2,2,0,Abilene,TX,Other,School Bus,Yes,1.0,,Random Shooting,99
+20230123IASTD,1,23,2023,1/23/2023,Starts Right Here Charter School,2,1,3,0,Des Moines,IA,High,Hallway,Yes,1.0,Escalation of Dispute,Both,99
+20230122WAMOT,1,22,2023,1/22/2023,Mount Tahoma High School,0,2,2,0,Tacoma,WA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230121FLGLB,1,21,2023,1/21/2023,Glades Central High School,0,0,0,0,Belle Glade,FL,High,Outside on School Property,,1.0,,,99
+20230120MNWAS,1,20,2023,1/20/2023,Washington Technology Magnet School,0,1,1,0,Saint Paul,MN,6-Dec,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20230119NYEAB,1,19,2023,1/19/2023,Eagle Academy Charter,0,1,1,0,Brooklyn,NY,High,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,99
+20230118OKDED,1,18,2023,1/18/2023,Del City High School,0,1,1,0,Del City,OK,High,Gym,No,1.0,,,4
+20230118NYCAQ,1,18,2023,1/18/2023,Q492 Campus Magnet High School,0,2,2,0,Queens,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20230117FLMAB,1,17,2023,1/17/2023,Mantatee County School Bus,0,0,0,0,Bradenton,FL,Other,School Bus,Yes,1.0,Intentional Property Damage,Neither,99
+20230111VTSPV,1,11,2023,1/11/2023,Spaulding High School,0,1,1,0,Barre,VT,High,Outside on School Property,Yes,1.0,,Victims Targeted,1
+20230111VALAP,1,11,2023,1/11/2023,Lakeview Elementary School,0,0,0,0,Portsmouth,VA,Elementary,Outside on School Property,Yes,1.0,,,99
+20230110UTWES,1,10,2023,1/10/2023,Westlake High School (bus),0,1,1,0,Saratoga Springs,UT,High,School Bus,No,1.0,Drive-by Shooting,Random Shooting,99
+20230110OHJOC,1,10,2023,1/10/2023,John Adams High School,1,0,1,0,Cleveland,OH,High,Front of School,Yes,1.0,,,99
+20230110LABON,1,10,2023,1/10/2023,Booker T. Washington High School,0,1,1,0,New Orleans,LA,High,Front of School,Yes,1.0,Drive-by Shooting,,99
+20230110KYSAS,1,10,2023,1/10/2023,Stanford Elementary School,0,0,1,0,Stanford,KY,Elementary,Office,No,1.0,Accidental,Neither,1
+20230110DEWIN,1,10,2023,1/10/2023,William Penn High School,0,0,0,0,New Castle,DE,High,Bathroom,Yes,1.0,,,1
+20230109VAPRW,1,9,2023,1/9/2023,Prince Williams County School Bus,0,0,0,0,Woodbridge,VA,Other,School Bus,Yes,1.0,Intentional Property Damage,,99
+20230107ORFRP,1,7,2023,1/7/2023,Franklin High School,0,1,1,0,Portland,OR,High,Parking Lot,No,1.0,,Victims Targeted,99
+20230106VARIN,1,6,2023,1/6/2023,Richneck Elementary School,0,1,1,0,Newport News,VA,Elementary,Classroom,Yes,1.0,,Victims Targeted,
+20230106MIOAD,1,6,2023,1/6/2023,Oak Park High School,0,1,1,0,Detroit,MI,High,Beside Building,No,1.0,Illegal Activity,Victims Targeted,99
+20230106MDBEB,1,6,2023,1/6/2023,Benjamin Franklin High School,0,2,2,0,Baltimore,MD,High,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20230106FLWEA,1,6,2023,1/7/2023,Wekiva High School,0,1,1,0,Apopka,FL,High,Parking Lot,No,1.0,Escalation of Dispute,Both,99
+20230105OHBEC,1,5,2023,1/5/2023,Beechcroft High School,0,0,0,0,Columbus,OH,High,Beside Building,Yes,1.0,,,99
+20230105NYFRR,1,5,2023,1/5/2023,Franklin High School,0,0,0,0,Rochester,NY,High,Front of School,Yes,1.0,,Victims Targeted,99
+20230104MITRD,1,4,2023,1/4/2023,Trix Academy,1,0,1,0,Detroit,MI,K-8,Beside Building,No,1.0,,Victims Targeted,30
+20221221CTNEN,12,21,2022,12/21/2022,New Haven Public Schools,0,0,0,0,New Haven,CT,Elementary,School Bus,Yes,1.0,,Neither,1
+20221221CAWOW,12,21,2022,12/21/2022,Woodland Christian School,0,0,0,0,Woodland,CA,K-12,Front of School,No,1.0,Illegal Activity,Random Shooting,99
+20221216ILBEC,12,16,2022,12/16/2022,Benito Juarez High School,2,2,4,0,Chicago,IL,High,Front of School,Yes,1.0,Escalation of Dispute,Both,8
+20221214OHLIC,12,14,2022,12/14/2022,Linden-McKinley STEM Academy,0,0,0,0,Columbus,OH,High,Outside on School Property,Yes,1.0,,,99
+20221212ORGRP,12,12,2022,12/12/2022,Grover Cleveland High School,0,1,1,0,Portland,OR,High,Beside Building,Yes,1.0,,Victims Targeted,99
+20221210TNBRC,12,10,2022,12/10/2022,Brainerd High School,0,0,0,0,Chattanooga,TN,High,Parking Lot,No,1.0,,,99
+20221209PAMEP,12,9,2022,12/9/2022,Memphis Street Academy Charter School,1,0,1,0,Philadelphia,PA,High,Beside Building,No,1.0,,Victims Targeted,6
+20221209OHMED,12,9,2022,12/9/2022,Meadowdale High School,0,0,0,0,Dayton,OH,High,Parking Lot,No,1.0,Escalation of Dispute,Both,5
+20221208NCFUG,12,8,2022,12/8/2022,Fuquay-Varina Middle School,0,0,0,0,Fuquay-Varina,NC,Middle,Classroom,Yes,1.0,Indiscriminate Shooting,,1
+20221208MDSUD,12,8,2022,12/8/2022,Suitland High School,0,1,1,0,District Heights,MD,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20221206MOCOS,12,6,2022,12/6/2022,Confluence Preparatory Academy,0,0,0,0,St. Louis,MO,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20221206MDHAH,12,6,2022,12/6/2022,Hagerstown Public School Bus,0,0,0,0,Hagerstown,MD,Elementary,School Bus,Yes,1.0,Intentional Property Damage,,1
+20221206INSUW,12,6,2022,12/6/2022,Sugar Creek Consolidated Elementary School,0,0,0,0,West Terre Haute,IN,Elementary,Field (General),Yes,1.0,,,99
+20221206ILMIC,12,6,2022,12/6/2022,Michele Clark Magnet High School,1,0,1,0,Chicago,IL,High,Front of School,Yes,1.0,,,99
+20221206ALLEM,12,6,2022,12/6/2022,Robert E Lee High School,0,0,0,0,Montgomery,AL,High,Front of School,Yes,1.0,,,99
+20221205TNFRM,12,5,2022,12/5/2022,Freedom Prep High School,0,1,1,0,Memphis,TN,High,Inside School Building,Yes,1.0,Accidental,,1
+20221203WISOM,12,3,2022,12/3/2022,South Division High School,1,0,1,0,Milwaukee,WI,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,7
+20221202DEDEW,12,2,2022,12/2/2022,Delcastle Technical High School,0,0,0,0,Wilmington,DE,High,School Bus,Yes,1.0,Drive-by Shooting,Both,99
+20221122MISTS,11,18,2022,11/18/2022,Standish-Sterling Central School Bus,0,0,0,0,Standish,MI,Other,School Bus,Yes,1.0,Accidental,Neither,1
+20221121MIHED,11,21,2022,11/21/2022,Henry Ford High School,0,2,2,0,Detroit,MI,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20221118NYROS,11,18,2022,11/18/2022,Roberts Elementary School,0,0,0,0,Syracuse,NY,Elementary,Parking Lot,Yes,1.0,,,99
+20221118DCJAW,11,18,2022,11/18/2022,Jackson Reed High School,0,0,0,0,Washington,DC,High,Front of School,Yes,1.0,,,13
+20221117CAEAL,11,17,2022,11/17/2022,Eagle Rock High School,0,0,0,0,Los Angeles,CA,High,Field (General),No,1.0,,,8
+20221117INSOC,11,17,2022,11/17/2022,South Vermillion High School,0,1,1,0,Clinton,IN,High,Classroom,Yes,1.0,Accidental,Neither,1
+20221116ORMCM,11,16,2022,11/16/2022,McMinnville High School,0,0,0,0,McMinnville,OR,High,Front of School,No,1.0,Intentional Property Damage,Neither,5
+20221116NCLUL,11,16,2022,11/16/2022,Lumberton High School,0,1,1,0,Lumberton,NC,High,Parking Lot,No,1.0,,Victims Targeted,99
+20221115TNMAN,11,15,2022,11/15/2022,Martin Luther King Jr. Magnet High School,1,0,1,0,Nashville,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221115LABAB,11,15,2022,11/15/2022,Ball Elementary School,0,2,2,0,Ball,LA,Elementary,Parking Lot,Yes,1.0,Illegal Activity,Victims Targeted,99
+20221112FLJOO,11,12,2022,11/12/2022,Jones High School,1,2,3,0,Orlando,FL,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221111MSRAR,11,11,2022,11/11/2022,Raymond High School,0,1,1,0,Raymond,MS,High,Parking Lot,No,1.0,,Both,
+20221109KYCAC,11,9,2022,11/9/2022,Caneyville Elementary School,0,0,0,0,Caneyville,KY,Elementary,Hallway,No,1.0,Accidental,Neither,1
+20221108WAINS,11,8,2022,11/8/2022,Ingraham High School,1,0,1,0,Seattle,WA,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20221106VAHUH,11,6,2022,11/6/2022,Hutchison Elementary School,0,0,0,0,Herndon,VA,Elementary,Beside Building,No,1.0,,Neither,99
+20221105TXDAF,11,5,2022,11/5/2022,David K Sellars Elementary,0,1,1,0,Forest Hill,TX,Elementary,Inside School Building,No,1.0,Accidental,Neither,
+20221104KYVAL,11,4,2022,11/4/2022,Valley High School,0,0,0,0,Louisville,KY,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20221103GASHS,11,3,2022,11/3/2022,Shuman Elementary School,0,1,1,0,Savana,GA,Elementary,Front of School,No,1.0,,,
+20221102DCMCW,11,2,2022,11/2/2022,MacFarland Middle School,0,0,0,0,Washington,DC,Middle,Parking Lot,Yes,1.0,,,99
+20221029TXAVA,10,29,2022,10/29/2022,Avondale Elementary School,0,1,1,0,Amarillo,TX,Elementary,Playground,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221029COCRH,10,29,2022,10/29/2022,Cresthill Middle School,0,0,0,0,Highlands Ranch,CO,Middle,Football Field/Track,No,1.0,Accidental,Neither,1
+20221028TXROR,10,28,2022,10/28/2022,Rowlett High School,0,0,0,0,Rowlett,TX,High,Bathroom,No,1.0,Escalation of Dispute,Victims Targeted,0
+20221028NCWAT,10,28,2022,10/28/2022,Wallace Rose Hill High School,0,0,0,0,Teachey,NC,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221028ARROR,10,28,2022,10/28/2022,Rogers School District Bus,0,0,0,0,Rogers,AR,K-12,School Bus,Yes,1.0,Intentional Property Damage,Random Shooting,99
+20221026TXUTU,10,26,2022,10/26/2022,Utopia High School,0,0,0,0,Utopia,TX,High,Inside School Building,Yes,1.0,Accidental,Neither,1
+20221026ILMIW,10,26,2022,10/26/2022,Miguel Juarez Middle School,0,1,1,0,Waukegan,IL,Middle,Field (General),Yes,1.0,,Victims Targeted,5
+20221025PAPAP,10,25,2022,10/25/2022,Passport Academy Charter School,0,0,0,0,Pittsburgh,PA,Elementary,Front of School,Yes,1.0,,,2
+20221025NYTOS,10,25,2022,10/25/2022,Totten High School,0,1,1,0,Staten Island,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,7
+20221024MOCES,10,24,2022,10/24/2022,Central Visual and Performing Arts High,2,7,9,1,St. Louis,MO,High,Inside School Building,Yes,14.0,Indiscriminate Shooting,Random Shooting,99
+20221022OHDUC,10,22,2022,10/22/2022,Duxberry Park Alternative Elementary School,0,1,1,0,Columbus,OH,Elementary,Parking Lot,No,1.0,,Both,99
+20221022ILCHC,10,22,2022,10/22/2022,Chalmers Elementary School,1,1,2,0,Chicago,IL,Elementary,Playground,No,1.0,Drive-by Shooting,Both,99
+20221021OHSHS,10,21,2022,10/21/2022,Shaker Heights High School,0,1,1,0,Shaker Heights,OH,High,Front of School,Yes,1.0,Officer-Involved Shooting,Victims Targeted,99
+20221021CAGRS,10,21,2022,10/21/2022,Grant Union High School,1,0,1,0,Sacramento,CA,High,Parking Lot,No,1.0,Escalation of Dispute,,99
+20221020PAPAP,10,20,2022,10/20/2022,Parkway West High School,0,1,1,0,Philadelphia,PA,High,School Bus,Yes,1.0,,Victims Targeted,99
+20221020COCAD,10,20,2022,10/20/2022,Castro Elementary School,0,0,0,0,Denver,CO,Elementary,Field (General),No,1.0,,Neither,0
+20221019TNROR,10,19,2022,10/19/2022,Rockvale Middle School,0,1,1,0,Rockvale,TN,Middle,Outside on School Property,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20221018ORJEP,10,18,2022,10/18/2022,Jefferson High School,0,2,2,0,Portland,OR,High,Beside Building,Yes,1.0,Drive-by Shooting,Both,12
+20221018NVSUL,10,18,2022,10/18/2022,Sunrise Mountain High School,1,0,1,0,Las Vegas,NV,High,Parking Lot,No,1.0,,Victims Targeted,
+20221017FLORT,10,17,2022,10/17/2022,Orange Grove Magnet Middle School,0,0,0,0,Tampa,FL,Middle,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20221017CAWIS,10,17,2022,10/17/2022,Willow Glen Middle School,0,0,0,0,San Jose,CA,Middle,Front of School,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20221016VAFAR,10,16,2022,10/16/2022,Fairfield Court Elementary School,0,3,3,0,Richmond,VA,Elementary,Front of School,No,1.0,,,99
+20221014VAWER,10,14,2022,10/14/2022,"Westover Hills Elementary School
+",1,1,2,0,Richmond,VA,Elementary,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20221014TNRIM,10,14,2022,10/14/2022,Riverdale High School,0,0,0,0,Murfreesboro,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221014NCJAG,10,14,2022,10/14/2022,James B. Dudley High School,0,1,1,0,Greensboro,NC,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221014LAJHA,10,14,2022,10/14/2022,J.H. Williams Middle School,0,0,0,0,Abbeville,LA,Middle,Front of School,No,1.0,,,99
+20221014LABOB,10,14,2022,10/14/2022,Bogalusa High School,0,0,0,1,Bogalusa,LA,High,Football Field/Track,No,1.0,,,18
+20221013TXJOD,10,13,2022,10/13/2022,John W Carpenter Elementary School,0,0,0,0,Dallas,TX,Elementary,Cafeteria,Yes,1.0,Accidental,Neither,1
+20221013NYSCB,10,13,2022,10/13/2022,School Bus,0,1,1,0,Brooklyn,NY,Other,School Bus,Yes,1.0,,Victims Targeted,99
+20221012NCCAC,10,12,2022,10/12/2022,Cary High School,0,0,0,0,Cary,NC,High,Bathroom,Yes,1.0,Accidental,,1
+20221011ORREP,10,11,2022,10/11/2022,Reynolds High School,0,0,0,0,Portland,OR,High,Parking Lot,Yes,1.0,Escalation of Dispute,,99
+20221011KSSAS,10,11,2022,10/11/2022,Salina South High School,0,0,0,0,Salina,KS,High,Parking Lot,Yes,1.0,,,1
+20221010WIJAM,10,10,2022,10/10/2022,James Madison Academic Campus,0,1,1,0,Milwaukee,WI,High,Front of School,Yes,1.0,,,5
+20221009MAWAA,10,9,2022,10/9/2022,Walton Elementary School,0,1,1,0,Auburn,ME,Elementary,Beside Building,No,1.0,,,
+20221008MOJCK,10,8,2022,10/8/2022,J. C. Harmon High School,0,0,0,0,Kansas City,KS,High,Parking Lot,No,1.0,Escalation of Dispute,,99
+20221007OHWHT,10,7,2022,10/7/2022,Whitmer High School,0,3,3,0,Toledo,OH,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,12
+20221007NCJHG,10,7,2022,10/7/2022,J. H. Rose High School,0,1,1,0,Greenville,NC,High,Football Field/Track,No,1.0,,,99
+20221007MIBAB,10,7,2022,10/7/2022,Battle Creek High School,0,0,0,0,Battle Creek,MI,High,Parking Lot,No,1.0,Drive-by Shooting,,6
+20221007AZCAP,10,7,2022,10/7/2022,Carl Hayden Community High School,0,0,0,0,Phoenix,AZ,High,Football Field/Track,No,1.0,,,99
+20221006OHMAC,10,6,2022,10/6/2022,Marion-Franklin High School,0,0,0,0,Columbus,OH,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20221004NCPIS,10,4,2022,10/4/2022,Pinecrest High School,0,0,0,0,Southern Pine,NC,High,School Bus,Yes,1.0,Accidental,Neither,
+20221004MAJB,10,4,2022,10/4/2022,Jeremiah Burke High School,0,1,1,0,Boston,MA,High,Front of School,Yes,1.0,,Victims Targeted,
+20221003MIOXO,10,3,2022,10/3/2022,Oxford Middle School,0,0,0,0,Oxford,MI,Middle,Bathroom,Yes,1.0,Accidental,Neither,1
+20221001CACOO,10,1,2022,10/1/2022,Colony High School,0,1,1,0,Ontario,CA,High,Football Field/Track,No,1.0,,Victims Targeted,99
+20220930OKMCT,9,30,2022,9/30/2022,McLain High School,1,3,4,0,Tulsa,OK,High,Football Field/Track,No,1.0,,,99
+20220930NYNEN,9,30,2022,9/30/2022,Newburgh Free Academy,0,3,3,0,Newburgh,NY,High,Parking Lot,No,1.0,Escalation of Dispute,Both,5
+20220928LASEB,9,28,2022,9/28/2022,Second Chance Academy,0,0,0,0,Baton Rouge,LA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Neither,99
+20220928CARUO,9,28,2022,9/28/2022,Rudsdale Continuation High School,1,5,6,0,Oakland,CA,High,Inside School Building,Yes,,Escalation of Dispute,Both,30
+20220927TXHGD,9,27,2022,9/27/2022,H. Grady Spruce High School,0,1,1,0,Dallas,TX,High,Front of School,No,1.0,Drive-by Shooting,Victims Targeted,99
+20220927PAROP,9,27,2022,9/27/2022,Roxborough High School,1,4,5,0,Philadelphia,PA,High,Football Field/Track,No,1.0,Drive-by Shooting,Victims Targeted,61
+20220926GAVAV,9,26,2022,9/26/2022,Valdosta City Schools Bus,0,1,1,0,Valdosta,GA,High,School Bus,Yes,1.0,,Victims Targeted,2
+20220923WIROM,9,23,2022,9/23/2022,Roosevelt Middle School,0,1,1,0,Milwaukee,WI,Middle,Front of School,No,1.0,,Victims Targeted,
+20220923PAWEP,9,23,2022,9/23/2022,West Philadelphia High School,0,0,0,0,Philadelphia,PA,High,Football Field/Track,No,1.0,,,99
+20220923MNRIM,9,23,2022,9/23/2022,Richfield High School,0,2,2,0,Richfield,MN,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,5
+20220923DEAPM,9,23,2022,9/23/2022,Appoquinimink High School,0,2,2,0,Middletown,DE,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,99
+20220923CANOC,9,23,2022,9/23/2022,North Monterey County High School,0,1,1,0,Castroville,CA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220922AZMOP,9,22,2022,9/22/2022,Mountain View Elementary School,0,0,0,0,Phoenix,AZ,Elementary,Front of School,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,0
+20220921INJAS,9,21,2022,9/21/2022,Jackson Middle School,0,0,0,0,South Bend,IN,Middle,School Bus,Yes,1.0,Accidental,Neither,1
+20220920MNMAM,9,20,2022,9/20/2022,Mankato West High School,0,0,0,1,Mankoto,MN,High,Parking Lot,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20220920NYINB,9,20,2022,9/20/2022,Intermediate School 278,0,0,0,0,Brooklyn,NY,Middle,Playground,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20220919LALAN,9,19,2022,9/19/2022,Laureate Academy Charter School,0,0,0,0,New Orleans,LA,K-8,School Bus,Yes,1.0,Accidental,Neither,1
+20220919FLTRS,9,19,2022,9/19/2022,Treasure Coast Classical Academy,0,0,0,0,Stuart,FL,Elementary,Office,Yes,1.0,Accidental,Neither,1
+20220917GAJOA,9,17,2022,9/17/2022,Josey High School,0,2,2,0,Augusta,GA,High,Parking Lot,No,1.0,Escalation of Dispute,Both,99
+20220916NYPSN,9,16,2022,9/16/2022,P.S. 77 Lower Lab School,0,0,0,0,New York,NY,Elementary,Playground,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220916GALAA,9,16,2022,9/16/2022,Laney Walker High School,0,0,0,0,Augusta,GA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220914PACON,9,14,2022,9/14/2022,Council Rock North High School,0,0,0,0,Newton,PA,High,School Bus,Yes,1.0,,,1
+20220913UTBOB,9,13,2022,9/13/2022,Bountiful High School,0,0,0,0,Bountiful,UT,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20220913MIJAJ,9,13,2022,9/13/2022,Jackson Middle School,0,0,0,0,Jackson,MI,Middle,Football Field/Track,No,1.0,,,99
+20220913MDOXO,9,13,2022,9/13/2022,Oxon Hill High School,0,1,1,0,Oxon Hill,MD,High,Beside Building,No,1.0,,,
+20220913CAVAV,9,13,2022,9/13/2022,Vallejo High School,0,1,1,0,Vallejo,CA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,99
+20220909WIWIR,9,9,2022,9/9/2022,William Horlick High School,0,1,1,0,Racine,WI,High,Football Field/Track,No,1.0,,,10
+20220909WIMIM,9,9,2022,9/9/2022,Milwaukee School Bus,0,0,0,0,Milwaukee,WI,High,School Bus,Yes,1.0,Drive-by Shooting,Both,99
+20220908LAJHA,9,8,2022,9/8/2022,J. H. Williams Middle School,0,0,0,0,Abbeville,LA,Middle,Outside on School Property,No,1.0,,,2
+20220907WIBAM,9,7,2022,9/7/2022,Barack Obama High School,0,0,0,0,Milwaukee,WI,High,Outside on School Property,,2.0,Drive-by Shooting,Random Shooting,32
+20220907OHBEB,9,7,2022,9/7/2022,Beavercreek High School,0,0,0,0,Beavercreek,OH,High,Football Field/Track,No,1.0,Accidental,Neither,99
+20220907MDCAB,9,7,2022,9/7/2022,Carver Vocational Technical High School,0,1,1,0,Baltimore,MD,High,Front of School,Yes,1.0,,Random Shooting,99
+20220906IANOS,9,6,2022,9/6/2022,North Middle School,0,0,0,0,Sioux City,IA,Middle,Football Field/Track,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20220904FLBOL,9,4,2022,9/4/2022,Boyd H. Anderson High School,0,4,4,0,Lauderdale Lakes,FL,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,99
+20220902MDMEB,9,2,2022,9/2/2022,Mergenthaler Vocational-Technical High School,1,0,1,0,Baltimore,MD,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220902INJEL,9,2,2022,9/2/2022,Jeffersonville High School,0,0,0,0,Jeffersonville,IN,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,0
+20220831PAFRP,8,31,2022,8/31/2022,Frances E. Willard Elementary School,0,3,3,0,Philadelphia,PA,Elementary,Playground,No,1.0,,Both,99
+20220831NMDEA,8,31,2022,8/31/2022,Del Norte High School,0,0,0,0,Albuquerque,NM,High,Parking Lot,Yes,1.0,,,5
+20220831DCIDW,8,31,2022,8/31/2022,IDEA Public Charter School,0,2,2,0,Washington,DC,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220829CAMAO,8,29,2022,8/29/2022,Madison Park Academy,0,1,1,0,Oakland,CA,6-Dec,Basketball Court,Yes,1.0,Accidental,Random Shooting,1
+20220827MONOS,8,27,2022,8/27/2022,Normandy High School,0,0,0,0,St. Louis,MO,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220826OHGAC,8,26,2022,8/26/2022,Garfield Heights High School,0,0,0,0,Cleveland,OH,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220823OHINC,8,23,2022,8/23/2022,Indian Springs Elementary School,0,0,0,0,Columbus,OH,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20220823OHART,8,23,2022,8/23/2022,Arlington Elementary School,0,0,0,0,Toledo,OH,Elementary,Front of School,Yes,1.0,Escalation of Dispute,Neither,1
+20220819TNWEC,8,19,2022,8/19/2022,West Creek High School,0,0,0,0,Clarksville,TN,High,Parking Lot,No,1.0,Drive-by Shooting,Both,99
+20220819OHGRG,8,19,2022,8/19/2022,Groveport Madison High School,0,0,0,0,Groveport,OH,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,6
+20220819LAAKN,8,19,2022,8/19/2022,Akili Academy of New Orleans,0,0,0,0,New Orleans,LA,K-8,School Bus,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20220818FLLER,8,18,2022,8/18/2022,Lennard High School,0,0,0,0,Ruskin,FL,High,Parking Lot,Yes,1.0,Accidental,Neither,1
+20220816TXPOB,8,16,2022,8/16/2022,Porter Early College High School,0,0,0,0,Brownsville,TX,High,Parking Lot,Yes,1.0,Drive-by Shooting,Neither,99
+20220815CALIS,8,15,2022,8/15/2022,Lincoln High School,0,0,0,0,Stockton,CA,High,Courtyard,Yes,1.0,Escalation of Dispute,,0
+20220813ARMAL,8,13,2022,8/13/2022,Mabelvale Elementary School,0,0,0,0,Little Rock,AR,Elementary,Front of School,No,1.0,,,5
+20220812MISUG,8,12,2022,8/12/2022,Southeast Career Pathways,0,0,0,0,Grand Rapids,MI,High,Parking Lot,No,1.0,Illegal Activity,Both,11
+20220812CASIV,8,12,2022,8/12/2022,Silverado High School,0,0,0,0,Victorville,CA,High,Parking Lot,No,1.0,,,5
+20220811GAUCB,8,11,2022,8/11/2022,Union County Primary School,0,0,0,0,Blairsville,GA,Elementary,Parking Lot,Yes,1.0,Intentional Property Damage,Neither,99
+20220810GAMCA,8,10,2022,8/10/2022,McDonough High School,0,0,0,0,McDonough,GA,High,Gym,Yes,1.0,Accidental,Neither,1
+20220809PACHP,8,9,2022,8/8/2022,Charles B. Warring Elementary School,1,1,2,0,Poughkeepsie,NY,Elementary,Front of School,No,1.0,,,
+20220805MATHL,8,5,2022,8/5/2022,Thurgood Marshall Middle School,0,0,0,0,Lynn,MA,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,3
+20220805GAJOJ,8,5,2022,8/5/2022,Johnson County High School,0,0,0,0,Johnson County,GA,High,Football Field/Track,No,1.0,,Neither,12
+20220803PALEP,8,3,2022,8/3/2022,Lewis Elkin Elementary School,1,1,2,0,Philadelphia,PA,Elementary,Playground,No,1.0,,Victims Targeted,16
+20220731CAOAO,7,31,2022,7/31/2022,Oakland Technical High School,0,3,3,0,Oakland,CA,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,99
+20220730NYRHH,7,30,2022,7/30/2022,Rhodes Academy,0,0,0,0,Hempstead,NY,Elementary,Classroom,No,1.0,,Neither,99
+20220729INCOS,7,29,2022,7/29/2022,Coquillard Elementary School,0,0,0,1,South Bend,IN,Elementary,Field (General),No,40.0,Suicide/Attempted,Victims Targeted,
+20220728KSMOG,7,28,2022,7/28/2022,Moonlight Elementary School,0,0,0,0,Gardner,KS,Elementary,Outside on School Property,No,1.0,Suicide/Attempted,Victims Targeted,1
+20220726TXCOC,7,26,2022,7/26/2022,College Station High School,0,0,0,0,College Station,TX,High,Parking Lot,No,1.0,,,99
+20220726PALAL,7,26,2022,7/26/2022,Lake Lehman High School,0,0,0,0,Lehman,PA,High,Gym,No,1.0,Drive-by Shooting,Neither,99
+20220725NYBRB,7,25,2022,7/25/2022,X480 Bronx Regional High School,0,2,2,0,Bronx,NY,High,Basketball Court,No,1.0,Drive-by Shooting,Both,99
+20220720CAJOV,7,20,2022,7/20/2022,John Finney High School,0,0,0,0,Vallejo,CA,High,Field (General),Yes,1.0,,,99
+20220716NYCLS,7,16,2022,7/16/2022,Clary Middle School,0,0,0,0,Syracuse,NY,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220716GAAPF,7,16,2022,7/16/2022,A. Philip Randolph Elementary School,0,1,1,0,Fulton,GA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220629CABUA,6,29,2022,6/29/2022,Buhach Colony High School,0,0,0,0,Atwater,CA,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20220620ILGRC,6,20,2022,6/20/2022,Gresham School of Excellence,0,3,3,0,Chicago,IL,Elementary,Field (General),No,1.0,,Both,100
+20220613WAMAE,6,13,2022,6/13/2022,Mariner High School,0,0,0,0,Everett,WA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220610ALBYB,6,10,2022,6/10/2022,Byhalia High School,0,0,0,0,Byhalia,MS,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20220609ALWAG,6,9,2022,6/9/2022,Walnut Park Elementary School,1,1,2,0,Gadsden,AL,Elementary,Front of School,Yes,1.0,Officer-Involved Shooting,,
+20220608ARLIL,6,8,2022,6/8/2022,Little Rock School District Bus,0,0,0,0,Little Rock,AR,Other,School Bus,Yes,1.0,,Both,99
+20220607MIPED,6,7,2022,6/7/2022,Pershing High School,0,0,0,0,Detroit,MI,High,Parking Lot,No,1.0,,,99
+20220605INWEG,6,5,2022,6/5/2022,West Side Leadership Academy,0,2,2,0,Gary,IN,High,Off School Property,No,1.0,Escalation of Dispute,Both,99
+20220601CAULL,6,1,2022,6/1/2022,Ulysses S. Grant Senior High School,0,1,1,0,Los Angeles,CA,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20220531LAMON,5,31,2022,5/31/2022,Morris Jeff High School,0,2,2,0,New Orleans,LA,High,Off School Property,Yes,1.0,Escalation of Dispute,Both,99
+20220530CAHEL,5,30,2022,5/30/2022,Helix High School,0,1,1,0,La Mesa,CA,High,Parking Lot,No,1.0,,Victims Targeted,99
+20220529ILDAC,5,29,2022,5/29/2022,Daniel Webster Public School,0,5,5,0,Chicago,IL,Elementary,Front of School,No,1.0,Escalation of Dispute,Both,97
+20220526TXDUA,5,26,2022,5/26/2022,Duff Elementary School,0,0,0,0,Arlington,TX,Elementary,Front of School,Yes,1.0,Accidental,Neither,1
+20220526SCMEG,5,26,2022,5/26/2022,Mevers School of Excellence,1,0,1,0,Goose Creek,SC,K-8,Parking Lot,No,1.0,,Victims Targeted,99
+20220525ILSTC,5,25,2022,5/25/2022,St. Margaret of Scotland School,0,0,0,0,Chicago,IL,K-12,Outside on School Property,No,1.0,Intentional Property Damage,Neither,5
+20220524WIRIM,5,24,2022,5/24/2022,Riverside University High School,0,0,0,0,Milwaukee,WI,High,Inside School Building,Yes,1.0,Escalation of Dispute,,1
+20220524TXROU,5,24,2022,5/24/2022,Robb Elementary School,21,18,39,1,Uvalde,TX,Elementary,Inside School Building,Yes,90.0,Indiscriminate Shooting,Random Shooting,250
+20220524DCPOW,5,24,2022,5/24/2022,Powell Elementary School,0,1,1,0,Washington,DC,Elementary,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,
+20220523PASIP,5,23,2022,5/23/2022,Simon Gratz High School,0,3,3,0,Philadelphia,PA,High,Front of School,Yes,1.0,Drive-by Shooting,Both,13
+20220520VAPOD,5,20,2022,5/20/2022,Potomac High School,0,0,0,0,Dumfries,VA,High,Bathroom,Yes,1.0,,Victims Targeted,0
+20220520TNEAC,5,20,2022,5/20/2022,East Lake Elementary School,1,0,1,0,Chattanooga,TN,Elementary,Outside on School Property,No,1.0,,Victims Targeted,
+20220520OHCAC,5,20,2022,5/20/2022,Canal Winchester High School,0,0,0,0,Canal Winchester,OH,High,School Bus,Yes,1.0,,Victims Targeted,3
+20220520ILSOP,5,20,2022,5/20/2022,South Elementary School,0,0,0,0,Pittsfield,IL,Elementary,Outside on School Property,Yes,1.0,Illegal Activity,Neither,1
+20220520ALMAT,5,20,2022,5/20/2022,Mary W Burroughs Elementary School,0,0,0,0,Theodore,AL,Elementary,Classroom,Yes,1.0,Accidental,Neither,1
+20220519VAGER,5,19,2022,5/19/2022,George Wythe High School,0,0,0,0,Richmond,VA,High,Parking Lot,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20220519MIEAK,5,19,2022,5/19/2022,East Kentwood High School,0,2,2,0,Kentwood,MI,High,Parking Lot,No,1.0,Drive-by Shooting,Both,99
+20220519LAHAH,5,19,2022,5/19/2022,Hammond High Magnet School,0,3,3,0,Hammond,LA,High,Off School Property,No,1.0,Escalation of Dispute,Both,10
+20220518TNRIM,5,18,2022,5/18/2022,Riverdale High School,1,1,2,0,Murfreesboro,TN,High,Off School Property,No,1.0,Escalation of Dispute,Both,8
+20220518FLPAP,5,18,2022,5/18/2022,Palmetto High School,0,0,0,0,Palmetto,FL,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,1
+20220517ILWAC,5,17,2022,5/17/2022,Walt Disney Magnet School,0,1,1,0,Chicago,IL,K-8,Classroom,Yes,1.0,Accidental,Random Shooting,1
+20220517CASAS,5,17,2022,5/17/2022,School Bus,0,0,0,0,San Francisco,CA,Other,School Bus,Yes,1.0,Drive-by Shooting,Both,99
+20220516TXMEM,5,16,2022,5/16/2022,Mexia High School,0,0,0,0,Mexia,TX,High,Bathroom,Yes,1.0,Accidental,Neither,1
+20220515NHBEB,5,15,2022,5/15/2022,Belmont Elementary School,0,0,0,0,Belmont,NH,Elementary,Parking Lot,No,1.0,Drive-by Shooting,Random Shooting,4
+20220515ILMEP,5,15,2022,5/15/2022,Meadow View Elementary School,0,1,1,0,Plainfield,IL,Elementary,Field (General),No,1.0,,Victims Targeted,
+20220513GASOM,5,13,2022,5/13/2022,Southwest High School,0,1,1,0,Macon,GA,High,Parking Lot,No,1.0,,,
+20220513FLALW,5,13,2022,5/13/2022,Alexander W. Dreyfoos School of the Arts,1,0,1,0,West Palm Beach,FL,High,Beside Building,Yes,1.0,Officer-Involved Shooting,,
+20220512TXHEH,5,12,2022,5/12/2022,Heights High School,0,1,1,0,Houston,TX,High,Parking Lot,Yes,1.0,,Victims Targeted,
+20220512ARHOH,5,12,2022,5/12/2022,Hot Springs High School,1,2,3,0,Hot Springs,AR,High,Off School Property,No,1.0,Escalation of Dispute,Both,99
+20220511FLJAJ,5,11,2022,5/11/2022,Andrew Jackson High School,0,1,1,0,Jacksonville,FL,High,Beside Building,Yes,1.0,Drive-by Shooting,Victims Targeted,10
+20220509NYEDS,5,9,2022,5/9/2022,Eden Ii Institute,1,0,1,0,Staten Island,NY,Other,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220509GARIS,5,9,2022,5/9/2022,Riverside Elementary School,0,0,0,0,Suwanee,GA,Elementary,School Bus,Yes,1.0,,Victims Targeted,12
+20220505OHLOL,5,5,2022,5/5/2022,Lowellville K-12 School,0,0,0,1,Lowellville,OH,K-12,Cafeteria,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20220505ALDOD,5,5,2022,5/5/2022,Dothan City School Bus,0,0,0,0,Dothan,AL,K-12,School Bus,No,1.0,Intentional Property Damage,Random Shooting,99
+20220503CAARS,5,3,2022,5/3/2022,Arrowview Middle School,0,0,0,0,San Bernardino,CA,Middle,Outside on School Property,No,1.0,Drive-by Shooting,Both,99
+20220501VALOM,5,1,2022,5/1/2022,Louise A. Benton Middle School,0,2,2,0,Manassas,VA,Middle,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220501OHHAC,5,1,2022,5/1/2022,Hamilton Stem Academy,1,0,1,0,Columbus,OH,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20220430PAMCJ,4,30,2022,4/30/2022,McKee Middle School (McKee Stadium),0,0,0,0,Jeannette City,PA,Middle,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,1
+20220427TXMOS,4,27,2022,4/27/2022,Morrill Elementary School,0,1,1,0,San Antonio,TX,Elementary,Front of School,No,1.0,Officer-Involved Shooting,,
+20220427INCOS,4,27,2022,4/27/2022,Coquillard Elementary School,0,0,0,0,South Bend,IN,Elementary,School Bus,Yes,1.0,Intentional Property Damage,Neither,1
+20220426MIASI,4,26,2022,4/26/2022,Aspen Ridge School,0,0,0,1,Ishpeming Township,MI,K-8,Bathroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20220426GASOM,4,26,2022,4/26/2022,Southwest High School,1,0,1,0,Macon,GA,High,Parking Lot,No,1.0,,Victims Targeted,
+20220425WIWIM,4,25,2022,4/25/2022,Wisconsin Conservatory of Lifelong Learning,0,0,0,0,Milwaukee,WI,6-Dec,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220425GAMAM,4,25,2022,4/25/2022,Marietta City Schools Bus Yard,0,0,0,0,Marietta,GA,Other,Parking Lot (Bus),No,10.0,Intentional Property Damage,Random Shooting,99
+20220424MOHAF,4,24,2022,4/24/2022,Hazelwood Central High School,1,0,1,0,Florissant,MO,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20220422ORHOS,4,22,2022,4/22/2022,Houck Middle School,0,0,0,0,Salem,OR,Middle,Outside on School Property,No,1.0,,,99
+20220422DCEDW,4,22,2022,4/22/2022,Edmund Burke School,0,4,4,1,Washington,DC,6-Dec,Hallway,Yes,180.0,Indiscriminate Shooting,Random Shooting,200
+20220422CAMOR,4,22,2022,4/22/2022,Mountain View Middle School,0,0,0,0,Redding,CA,Middle,Field (General),No,1.0,,Random Shooting,6
+20220421NDMOM,4,21,2022,4/21/2022,Mott-Regent High School,1,0,1,0,Mott,ND,K-12,Entryway,Yes,1.0,Officer-Involved Shooting,,
+20220416IAMED,4,16,2022,4/16/2022,Meredith Middle School,0,1,1,0,Des Moines,IA,Middle,Front of School,No,1.0,,,99
+20220415VAGAW,4,15,2022,4/15/2022,Gar-Field High School,0,1,1,0,Woodbridge,VA,High,Field (General),No,1.0,Escalation of Dispute,Both,99
+20220414MSNEP,4,14,2022,4/14/2022,Neshoba Central High School,0,2,2,0,Philadelphia,MS,High,Football Field/Track,Yes,1.0,Indiscriminate Shooting,Random Shooting,99
+20220413MISHS,4,13,2022,4/13/2022,Shelters Elementary School,0,0,0,0,Southgate,MI,Elementary,Playground,Yes,1.0,,Victims Targeted,1
+20220411ARPIP,4,11,2022,4/11/2022,Pine Bluff High School,0,0,0,0,Pine Bluff,AR,High,Parking Lot,Yes,1.0,,,99
+20220410MALYL,4,10,2022,4/10/2022,Lynn English High School,1,0,1,0,Lynn,MA,High,Parking Lot,No,1.0,,Victims Targeted,4
+20220406WVRIR,4,6,2022,4/6/2022,Ripley Middle School,0,0,0,0,Ripley,WV,Middle,School Bus,Yes,1.0,,Victims Targeted,0
+20220406WASTM,4,6,2022,4/6/2022,St. Monica Catholic School,0,0,0,0,Mercer Island,WA,Elementary,Playground,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20220406ORROP,4,6,2022,4/6/2022,Roosevelt High School,0,1,1,0,Portland,OR,High,Parking Lot,No,1.0,,Victims Targeted,1
+20220405PAERE,4,5,2022,4/5/2022,Erie High School,0,1,1,0,Erie,PA,High,Hallway,Yes,1.0,,Victims Targeted,5
+20220403INBLB,4,3,2022,4/3/2022,Bloomington High School South,0,1,1,0,Bloomington,IN,High,Parking Lot,No,1.0,Drive-by Shooting,Victims Targeted,99
+20220331SCTAG,3,31,2022,3/31/2022,Tanglewood Middle School,1,0,1,0,Greenville,SC,Middle,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20220331PAACP,3,31,2022,3/31/2022,West Philadelphia Achievement Charter Elementary School,0,0,0,0,Philadelphia,PA,Elementary,Playground,Yes,1.0,Accidental,Neither,1
+20220330GABOA,3,30,2022,3/30/2022,Booker T Washington High School,0,0,0,0,Atlanta,GA,High,Front of School,Yes,1.0,Escalation of Dispute,Neither,1
+20220330AZKIK,3,30,2022,3/30/2022,Kingman High School,0,1,1,0,Kingman,AZ,High,School Bus,Yes,1.0,Accidental,Neither,1
+20220329VALUR,3,29,2022,3/29/2022,Lucy Addison Middle School,0,0,0,0,Roanoke,VA,Middle,Bathroom,Yes,1.0,,Neither,1
+20220329NVWEL,3,29,2022,3/29/2022,Western High School,0,2,2,0,Las Vegas,NV,High,Parking Lot,Yes,1.0,Officer-Involved Shooting,,99
+20220328TXNOF,3,28,2022,3/28/2022,North Crowley High School,0,0,0,0,Fort Worth,TX,High,Parking Lot,No,1.0,Drive-by Shooting,,99
+20220328NCOAC,3,28,2022,3/28/2022,Oakdale Elementary School,0,1,1,0,Charlotte,NC,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,1
+20220325UTHIS,3,25,2022,3/25/2022,Highland High School,0,0,0,0,Salt Lake City,UT,High,Parking Lot,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20220325TXROR,3,25,2022,3/25/2022,Royse City High School,0,0,0,0,Royse City,TX,High,Parking Lot,Yes,1.0,Indiscriminate Shooting,Random Shooting,99
+20220325TNBRM,3,25,2022,3/25/2022,Brighton High School,0,0,0,0,Memphis,TN,High,Parking Lot,No,1.0,Drive-by Shooting,Both,5
+20220324VARIW,3,24,2022,3/24/2022,Rippon Middle School,0,0,0,0,Woodbridge,VA,Middle,Beside Building,Yes,1.0,Domestic w/ Targeted Victim,Neither,2
+20220322VAJAR,3,22,2022,3/22/2022,James Madison Middle School,0,0,0,0,Roanoke,VA,Middle,School Bus,Yes,1.0,,Victims Targeted,99
+20220322TXWOD,3,22,2022,3/22/2022,Woodrow Wilson High School,0,0,0,0,Dallas,TX,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220322FLNEN,3,22,2022,3/22/2022,New Smyrna Beach High School,0,0,0,0,New Smyrna Beach,FL,High,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20220321MSLEP,3,21,2022,3/21/2022,Leap of Faith Middle School,0,0,0,0,Pascagoula,MS,Middle,Inside School Building,Yes,1.0,Illegal Activity,Victims Targeted,99
+20220321MIMAK,3,21,2022,3/21/2022,Mahone Middle School,0,0,0,0,Kenosha,WI,Middle,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20220321AZDES,3,21,2022,3/21/2022,Desert Canyon Middle School,0,0,0,0,Scottsdale,AZ,Middle,Outside on School Property,Yes,1.0,,Neither,2
+20220319ALCEL,3,19,2022,3/19/2022,Central Baldwin Middle School,0,0,0,0,Loxley,AL,Middle,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,99
+20220318RICEP,3,18,2022,3/18/2022,Central High School,0,0,0,0,Providence,RI,High,Parking Lot,Yes,1.0,Drive-by Shooting,Random Shooting,99
+20220318ILBAB,3,18,2022,3/18/2022,Barrington High School,0,0,0,0,Barrington,IL,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,99
+20220317AKREW,3,17,2022,3/17/2022,Redington Jr/Sr High School,0,0,0,0,Wasilla,AK,6-Dec,Beside Building,Yes,1.0,,,1
+20220316CALOR,3,16,2022,3/16/2022,Loma Vista Middle School,0,0,0,0,Riverside,CA,Middle,Classroom,Yes,1.0,Accidental,Neither,1
+20220315WAEIY,3,15,2022,3/15/2022,Eisenhower High School,1,1,2,0,Yakima,WA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,99
+20220315MDPAB,3,15,2022,3/15/2022,Paul Lawrence Dunbar High School,0,1,1,0,Baltimore,MD,High,Beside Building,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20220315MATEB,3,15,2022,3/15/2022,Tech Academy Boston,0,2,2,0,Boston,MA,High,Beside Building,No,1.0,Drive-by Shooting,Both,12
+20220315GAFOF,3,15,2022,3/15/2022,Forest Park Middle School,0,0,0,0,Forest Park,GA,Middle,Office,No,1.0,Illegal Activity,,1
+20220314CAKRP,3,14,2022,3/14/2022,Kraemer Middle School,0,0,0,1,Placentia,CA,Middle,Office,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20220313PANEP,3,13,2022,3/13/2022,New Foundations Charter School,0,0,0,0,Philadelphia,PA,K-8,Classroom,No,1.0,,,
+20220311WIJER,3,11,2022,3/11/2022,Jerstad-Agerholm Elementary School,0,0,0,0,Racine,WI,Elementary,Bathroom,Yes,1.0,Accidental,Neither,1
+20220311OHMAM,3,18,2022,3/18/2022,Madison High School,0,0,0,0,Mansfield,OH,High,School Bus,Yes,1.0,Indiscriminate Shooting,Random Shooting,
+20220311OHFAP,3,11,2022,3/11/2022,Fairland Middle School,0,0,0,0,Proctorville,OH,Middle,Outside on School Property,Yes,1.0,Illegal Activity,Victims Targeted,3
+20220311CADER,3,11,2022,3/11/2022,De Anza High School,0,1,1,0,Richmond,CA,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Both,99
+20220310TNHAM,3,10,2022,3/10/2022,Hamilton Middle School,0,0,0,0,Memphis,TN,K-8,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20220310MDCOL,3,10,2022,3/10/2022,Cora L. Rice Elementary School,1,0,1,0,Landover,MD,Elementary,Front of School,Yes,1.0,,Victims Targeted,99
+20220310COROH,3,10,2022,3/10/2022,Rock Canyon High School,0,0,0,0,Highlands Ranch,CO,High,Parking Lot,Yes,1.0,,Neither,4
+20220309TXNOH,3,9,2022,3/9/2022,Kimball High School,0,1,1,0,Houston,TX,High,School Bus,No,1.0,Accidental,Random Shooting,1
+20220309NMESE,3,9,2022,3/9/2022,Espanola Valley High School,0,0,0,0,Espanola,NM,High,Parking Lot,No,1.0,Intentional Property Damage,Neither,99
+20220309FLNOM,3,9,2022,3/9/2022,North Gardens High School,0,3,3,0,Miami Gardens,FL,High,Front of School,Yes,1.0,Drive-by Shooting,Both,99
+20220307IAEAD,3,7,2022,3/7/2022,East High School,1,2,3,0,Des Moines,IA,High,Front of School,Yes,1.0,Drive-by Shooting,Both,40
+20220304KSOLO,3,4,2022,3/4/2022,Olathe East High School,0,2,2,0,Olathe,KS,High,Office,Yes,1.0,Anger Over Grade/Suspension/Discipline,Victims Targeted,10
+20220303MIJWL,3,3,2022,3/3/2022,JW Sexton High School,0,1,1,0,Lansing,MI,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220228GAJOJ,2,28,2022,2/28/2022,Jonesboro High School,0,0,0,0,Jonesboro,GA,High,Inside School Building,Yes,1.0,,,1
+20220228NYBOB,2,28,2022,2/28/2022,Boys and Girls High School,0,1,1,0,Brooklyn,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20220227DCDUW,2,27,2022,2/27/2022,Dunbar High School,1,0,1,0,Washington,DC,High,Front of School,No,1.0,,Victims Targeted,
+20220225NMWEA,2,25,2022,2/25/2022,West Mesa High School,1,0,1,0,Albuquerque,NM,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Victims Targeted,6
+20220225ALSOH,2,25,2022,2/25/2022,Sonnie Hereford Elementary,0,0,0,0,Huntsville,AL,Elementary,Classroom,Yes,1.0,Accidental,Neither,1
+20220223VAWOW,2,23,2022,2/23/2022,Woodbridge High School,0,0,0,0,Woodbridge,VA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20220222TXALH,2,22,2022,2/22/2022,Alief ISD Center for Advanced Careers,1,0,1,0,Houston,TX,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220222COLIP,2,22,2022,2/22/2022,Liberty Point International Middle School,1,0,1,0,Pueblo,CO,Middle,Beside Building,Yes,1.0,Officer-Involved Shooting,Victims Targeted,3
+20220221MDJOH,2,21,2022,2/21/2022,John Carroll Elementary School,1,0,1,0,Hyattsville,MD,Elementary,Playground,No,1.0,Illegal Activity,Victims Targeted,99
+20220220OKWIW,2,20,2022,2/20/2022,Wilson Middle School,0,1,1,0,Wilson,OK,Middle,Football Field/Track,No,1.0,Illegal Activity,Victims Targeted,2
+20220220MSMCM,2,20,2022,2/20/2022,McColm High School,1,4,5,0,McColm,MS,High,Basketball Court,No,1.0,Drive-by Shooting,Both,99
+20220219VACAC,2,19,2022,2/19/2022,Camelot Elementary School,1,0,1,0,Chesapeake,VA,Elementary,Parking Lot,No,1.0,,,
+20220218MATET,2,18,2022,2/18/2022,Tewksbury High School,0,0,0,0,Tewksbury,MA,High,Parking Lot,No,1.0,Drive-by Shooting,Random Shooting,99
+20220217WAMCG,2,17,2022,2/17/2022,McClure Elementary School,0,1,1,0,Grandview,WA,Elementary,Outside on School Property,No,1.0,Escalation of Dispute,Victims Targeted,99
+20220214FLLAL,2,14,2022,2/14/2022,Lake City Middle School,0,0,0,0,Lake City,FL,Middle,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,99
+20220211DCEAW,2,11,2022,2/11/2022,Eagle Academy,0,1,1,0,Washington,DC,K-8,Parking Lot,Yes,1.0,,,
+20220209NYMCB,2,9,2022,2/9/2022,McKinley High School,0,2,2,0,Buffalo,NY,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,
+20220209MNMIM,2,9,2022,2/9/2022,Minneapolis School Bus,0,1,1,0,Minneapolis,MN,Elementary,School Bus,Yes,1.0,Drive-by Shooting,Both,99
+20220208NYMOM,2,8,2022,2/8/2022,Mount Vernon High School,0,0,0,0,Mount Vernon,NY,High,Front of School,Yes,1.0,Drive-by Shooting,,3
+20220208MDCAC,2,8,2022,2/8/2022,Catonsville High School,0,2,2,0,Catonsville,MD,High,Parking Lot,No,1.0,,Victims Targeted,6
+20220204GASOD,2,4,2022,2/4/2022,Southwest DeKalb High School,0,0,0,0,Decatur,GA,High,Parking Lot,Yes,1.0,Accidental,Neither,1
+20220204ALWEB,2,4,2022,2/4/2022,Wenonah High School,0,1,1,0,Birmingham,AL,High,Beside Building,No,1.0,,Both,
+20220203NCSPS,2,3,2022,2/3/2022,Speight Middle School,0,0,0,0,Stantonsburg,NC,Middle,School Bus,Yes,1.0,,,
+20220202KYLOR,2,2,2022,2/2/2022,Logan County Community Technology Center,0,0,0,0,Russellville,KY,High,Front of School,No,1.0,Intentional Property Damage,Random Shooting,99
+20220201WIRUM,2,1,2022,2/1/2022,Rufus King High School,0,5,5,0,Milwaukee,WI,High,Parking Lot,No,1.0,Escalation of Dispute,Both,99
+20220201PAACS,2,1,2022,2/1/2022,Academy Park High School,0,0,0,0,Sharon Hill,PA,High,Parking Lot,Yes,1.0,,,99
+20220201MNSOR,2,1,2022,2/1/2022,South Education Center,1,2,3,0,Richfield,MN,K-12,Front of School,Yes,1.0,Escalation of Dispute,Both,99
+20220201ILALC,2,1,2022,2/1/2022,Alessandro Volta Elementary School,0,1,1,0,Chicago,IL,Elementary,Front of School,Yes,1.0,,Both,99
+20220129WIBEB,1,29,2022,1/29/2022,Beloit Memorial High School,1,0,1,0,Beloit,WI,High,Parking Lot,No,1.0,,Victims Targeted,
+20220128LACAM,1,28,2022,1/28/2022,Carroll High School,0,0,0,0,Monroe,LA,High,Parking Lot,No,1.0,Illegal Activity,Random Shooting,2
+20220127TXMOH,1,27,2022,1/27/2022,Montgomery Elementary School,0,1,1,0,Houston,TX,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,99
+20220126PABAP,1,26,2022,1/26/2022,Bartram High School,1,0,1,0,Philadelphia,PA,High,Front of School,Yes,1.0,,Victims Targeted,
+20220124NVSUL,1,24,2022,1/24/2022,Sunrise Mountain High School,0,1,1,0,Las Vegas,NV,High,Parking Lot,Yes,1.0,,Victims Targeted,
+20220124IDDAD,1,24,2022,1/24/2022,Dalton Elementary School,0,0,0,0,Dalton Gardens,ID,Elementary,Off School Property,Yes,1.0,Hostage/Standoff,Random Shooting,0
+20220121MDMAR,1,21,2022,1/21/2022,Magruder High School,0,1,1,0,Rockville,MD,High,Bathroom,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20220121GAMCA,1,21,2022,1/21/2022,McNair High School,0,0,0,0,Atlanta,GA,High,Parking Lot,Yes,1.0,Drive-by Shooting,,99
+20220119VAMAP,1,19,2022,1/19/2022,Manor High School,1,0,1,0,Portsmouth,VA,High,Parking Lot,Yes,1.0,,Victims Targeted,
+20220119PAPIP,1,19,2022,1/19/2022,Pittsburgh Oliver Citywide Academy,1,0,1,0,Pittsburgh,PA,K-12,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20220119FLSES,1,19,2022,1/19/2022,Seminole High School,0,1,1,0,Sanford,FL,High,Bathroom,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,3
+20220119DCANW,1,19,2022,1/19/2022,Anacostia High School,0,0,0,0,Washington,DC,High,Front of School,No,1.0,,Victims Targeted,
+20220117TXPYH,1,17,2022,1/17/2022,Pyburn Elementary School,2,0,2,0,Houston,TX,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20220114MDGAG,1,14,2022,1/14/2022,Gaithersburg High School,0,0,0,0,Gaithersburg,MD,High,Parking Lot,Yes,1.0,Illegal Activity,,0
+20220111NMVAA,1,11,2022,1/11/2022,Valley High School,0,0,0,0,Albuquerque,NM,High,Parking Lot,No,1.0,,,15
+20220106CAFLS,1,6,2022,1/6/2022,Florin High School,0,2,2,0,Sacramento,CA,High,Field (General),No,1.0,Escalation of Dispute,Both,
+20220104ILAUR,1,4,2022,1/4/2022,Auburn High School,0,2,2,0,Rockford,IL,High,Parking Lot,Yes,1.0,,Victims Targeted,5
+20220103WACHP,1,3,2022,1/3/2022,Childpeace Montessori School,0,0,0,0,Portland,OR,K-8,Front of School,Yes,1.0,Drive-by Shooting,Random Shooting,2
+20220103OHCOC,1,3,2022,1/3/2022,Columbus School Bus,0,0,0,0,Columbus,OH,,School Bus,Yes,1.0,,,
+20211229NCCAS,12,29,2021,12/29/2021,Catawba College (high school tournament),0,2,2,0,Salisbury,NC,High,Gym,No,1.0,Escalation of Dispute,Victims Targeted,
+20211217TXWOD,12,17,2021,12/17/2021,Woodrow Wilson Junior High,0,0,0,0,Dayton,TX,High,School Bus,Yes,1.0,Drive-by Shooting,Neither,0
+20211216SCEAC,12,16,2021,12/16/2021,Eau Claire High School,0,0,0,0,Columbia,SC,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20211216NYPSB,12,16,2021,12/16/2021,P.S. 026 Jesse Owens,0,0,0,0,Brooklyn,NY,Elementary,Front of School,Yes,1.0,,,
+20211214WISOM,12,14,2021,12/14/2021,South Division High School,0,0,0,0,Milwaukee,WI,High,Front of School,Yes,1.0,Escalation of Dispute,Neither,5
+20211214VAMEN,12,14,2021,12/14/2021,Menchville High School,1,0,1,0,Newport News,VA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20211213NCWEC,12,13,2021,12/13/2021,West Charlotte High School,0,0,0,0,Charlotte,NC,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20211213FLEAO,12,13,2021,12/13/2021,East River High School,0,0,0,0,Orlando,FL,High,Parking Lot,Yes,1.0,,,1
+20211212NYSCR,12,12,2021,12/12/2021,School No. 17,1,0,1,0,Rochester,NY,K-8,Playground,No,1.0,Escalation of Dispute,Victims Targeted,
+20211211GAJOG,12,11,2021,12/11/2021,Jones County High School,0,0,0,0,Gray,GA,High,Gym,No,1.0,Escalation of Dispute,Victims Targeted,1
+20211211FLEDL,12,11,2021,12/11/2021,Edward A. Upthegrove Elementary School,0,1,1,0,LaBelle,FL,Elementary,Gym,No,1.0,,Victims Targeted,
+20211210OHCAC,12,10,2021,12/10/2021,Canal Winchester High School,0,0,0,0,Canal Winchester,OH,High,Field (General),No,1.0,Illegal Activity,Random Shooting,
+20211210NCJEC,12,9,2021,12/9/2021,Jesse C. Carson High,0,0,0,0,China Grove,NC,High,Parking Lot,Yes,1.0,Accidental,Neither,
+20211209NYGRN,12,9,2021,12/9/2021,Greater Oaks Charter School,0,0,0,0,New York,NY,Elementary,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20211208MOEWK,12,8,2021,12/8/2021,Ewing Marion Kauffman School,0,2,2,0,Kansas City,MO,High,Parking Lot,No,1.0,,,
+20211208KYSTL,12,8,2021,12/8/2021,St. Matthews Elementary School,0,0,0,0,Louisville,KY,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20211207ILHAC,12,7,2021,12/7/2021,Haines Elementary School,1,0,1,0,Chicago,IL,Elementary,Front of School,Yes,1.0,Illegal Activity,Victims Targeted,12
+20211206NYSUS,12,6,2021,12/6/2021,Susan E. Wagner High School,0,1,1,0,Staten Island,NY,High,Front of School,Yes,1.0,,Victims Targeted,0
+20211206CAWIW,12,6,2021,12/6/2021,Wilmington Park Elementary School,1,2,3,0,Wilmington,CA,Elementary,Playground,Yes,1.0,,Both,
+20211203ARBLB,12,3,2021,12/3/2021,Blytheville High School,0,0,0,0,Blytheville,AR,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20211202WAGAS,12,3,2021,12/3/2021,Garfield High School,0,0,0,0,Seattle,WA,High,Parking Lot,No,1.0,,Both,30
+20211202PAWIP,12,2,2021,12/2/2021,William Dick School,1,0,1,0,Philadelphia,PA,K-8,Parking Lot,Yes,1.0,,Victims Targeted,8
+20211201TXSAP,12,1,2021,12/1/2021,Sam Rayburn High School,0,0,0,0,Pasadena,TX,High,Football Field/Track,Yes,1.0,Illegal Activity,Victims Targeted,1
+20211130TNHUH,11,30,2021,11/30/2021,Humboldt High School,1,2,3,0,Humboldt,TN,High,Gym,No,1.0,Escalation of Dispute,Both,
+20211130OHWHW,11,30,2021,11/30/2021,Whitehall Yearling High School,0,0,0,0,Whitehall,OH,High,Parking Lot,No,1.0,Accidental,Neither,1
+20211130MIOXO,11,30,2021,11/30/2021,Oxford High School,4,7,11,0,Oxford,MI,High,Inside School Building,Yes,10.0,Indiscriminate Shooting,Both,20
+20211130CALOL,11,30,2021,11/30/2021,Los Angeles School Bus,0,0,0,0,Los Angeles,CA,,School Bus,No,1.0,Intentional Property Damage,Neither,
+20211129ILWER,11,29,2021,11/29/2021,West Middle School,0,0,0,0,Rockford,IL,Middle,Beside Building,No,1.0,,,
+20211129AZCHP,11,29,2021,11/29/2021,Cesar Chavez High School,0,1,1,0,Phoenix,AZ,High,Bathroom,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20211126CAWES,11,26,2021,11/26/2021,Westmount High School,0,2,2,0,San Jose,CA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20211125SCCEP,11,24,2021,11/25/2021,Central High School,0,0,0,0,Pageland,SC,High,Outside on School Property,No,1.0,,,
+20211124ILTHH,11,24,2021,11/24/2021,Thornton Township High School,0,0,0,0,Harvey,IL,High,Front of School,Yes,1.0,,,
+20211123OHCLC,11,23,2021,11/23/2021,Cleveland School Bus,0,0,0,0,Cleveland,OH,,School Bus,Yes,1.0,Illegal Activity,Neither,
+20211119COHIA,11,19,2021,11/19/2021,Hinkley High School,0,3,3,0,Aurora,CO,High,Parking Lot,,1.0,Escalation of Dispute,Victims Targeted,
+20211119MDGIB,11,18,2021,11/18/2021,Gilmor Elementary School,1,0,1,0,Baltimore,MD,Elementary,Front of School,No,1.0,,Victims Targeted,
+20211117CAORA,11,17,2021,11/17/2021,Orangeview Junior High School,0,1,0,0,Anaheim,CA,Middle,Inside School Building,No,1.0,Suicide/Attempted,Victims Targeted,1
+20211116LAABA,11,16,2021,11/16/2021,Abbeville School Bus,1,0,1,0,Abbeville,LA,,School Bus,Yes,1.0,,Victims Targeted,
+20211116NYPSB,11,16,2021,11/16/2021,P.S. 44,0,0,0,0,Bronx,NY,Elementary,Front of School,Yes,1.0,,Victims Targeted,
+20211116FLJAJ,11,16,2021,11/16/2021,Jacksonville School Bus,0,0,0,0,Jacksonville,FL,,School Bus,Yes,1.0,,Both,
+20211115NYPOP,11,15,2021,11/15/2021,Poughkeepsie High School,0,0,0,0,Poughkeepsie,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,6
+20211110NCMOM,11,10,2021,11/10/2021,Mooresville High School,0,0,0,1,Mooresville,NC,High,Bathroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20211110NYITI,11,10,2021,11/10/2021,Ithaca High School,0,0,0,0,Ithaca,NY,High,School Bus,No,1.0,,,
+20211109NMMEL,11,9,2021,11/9/2021,Mesilla Valley Leadership Academy,0,0,0,1,Las Cruces,NM,,Beside Building,Yes,210.0,Hostage/Standoff,Neither,1
+20211108NYTHB,11,8,2021,11/8/2021,Theodore Roosevelt High School,0,1,1,0,Bronx,NY,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20211106FLOVO,11,6,2021,11/6/2021,Oviedo High School,0,0,0,0,Oviedo,FL,High,Gym,No,1.0,Escalation of Dispute,Neither,0
+20211102NMHIH,11,2,2021,11/2/2021,Highland Middle School,0,3,3,0,Hobbs,NM,Middle,Parking Lot,Yes,1.0,Indiscriminate Shooting,Random Shooting,
+20211030PASTM,10,30,2021,10/30/2021,Sto Rox High School,0,1,1,0,McKees Rock,PA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,12
+20211027SCCAS,10,27,2021,10/27/2021,Calhoun County High School,0,0,0,0,St. Matthews,SC,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20211026MSCAN,10,26,2021,10/26/2021,Cathedral School,0,0,0,0,Natchez,MS,K-12,Classroom,Yes,1.0,Accidental,Neither,1
+20211026ILWIC,10,26,2021,10/26/2021,Jose de Diego Community Academy,0,0,0,0,Chicago,IL,K-12,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,2
+20211022PAPHP,10,22,2021,10/22/2021,Philadelphia Learning Academy South,0,0,0,0,Philadelphia,PA,High,Gym,Yes,1.0,Accidental,Neither,1
+20211021NYPSB,10,21,2021,10/21/2021,P. S. 65 Mother Hale Academy,0,1,1,0,Bronx,NY,Elementary,Beside Building,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20211021GABES,10,21,2021,10/21/2021,Bethesda Academy,0,0,0,0,Savannah,GA,6-Dec,Parking Lot,No,1.0,Indiscriminate Shooting,Random Shooting,
+20211018PALIP,10,18,2021,10/18/2021,Lincoln High School,0,2,2,0,Philadelphia,PA,High,Field (General),Yes,1.0,Escalation of Dispute,Both,15
+20211017ARROR,10,17,2021,10/17/2021,Rogers High School,0,0,0,0,Rogers,AR,High,Football Field/Track,No,1.0,Intentional Property Damage,Neither,16
+20211015CAKEF,10,15,2021,10/15/2021,Kepler Community School,0,1,1,0,Fresno,CA,Elementary,Playground,Yes,1.0,Hostage/Standoff,Neither,0
+20211015ALWIM,10,15,2021,10/15/2021,Williamson High School,0,4,4,0,Mobile,AL,6-Dec,Football Field/Track,No,1.0,,Both,
+20211014MEREP,10,14,2021,10/14/2021,Reiche Community School,1,0,1,0,Portland,ME,Elementary,Playground,No,1.0,,Victims Targeted,
+20211013PACHD,10,13,2021,10/13/2021,Charles Kelly Elementary,0,0,0,0,Drexel Hill,PA,Elementary,School Bus,Yes,10.0,Indiscriminate Shooting,Both,
+20211013ILMCC,10,13,2021,10/13/2021,McDade Classical Elementary School,0,0,0,0,Chicago,IL,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Random Shooting,28
+20211012OKUNT,10,12,2021,10/12/2021,Union High School,0,0,0,0,Tulsa,OK,High,Front of School,Yes,1.0,Drive-by Shooting,Random Shooting,
+20211012MIELK,10,12,2021,10/12/2021,El Sol Academy,0,2,2,0,Kalamazoo,MI,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20211012ILWEC,10,12,2021,10/12/2021,Wendell Phillips Academy High School,0,2,2,0,Chicago,IL,High,Entryway,Yes,1.0,Murder/Assassination,Both,8
+20211012ARLIL,10,12,2021,10/12/2021,Little Rock Central High School,0,0,0,0,Little Rock,AR,High,Front of School,Yes,1.0,Drive-by Shooting,Random Shooting,
+20211011ORROP,10,11,2021,10/11/2021,Rosemary Anderson High School,0,1,1,0,Portland,OR,High,Off School Property,Yes,1.0,,,
+20211008OKCOC,10,8,2021,10/8/2021,Comanche Middle School,0,0,0,0,Comanche,OK,Middle,Cafeteria,No,1.0,,Random Shooting,
+20211007TXEAW,10,7,2021,10/7/2021,East Chambers High School,0,1,1,0,Winnie,TX,High,Football Field/Track,No,1.0,Accidental,Random Shooting,
+20211007PAANP,10,7,2021,10/7/2021,Antonia Pantoja Charter School,0,0,0,0,Philadelphia,PA,K-8,Cafeteria,No,1.0,Intentional Property Damage,Neither,
+20211007NCEAD,10,7,2021,10/7/2021,Eastway Elementary School,0,0,0,1,Durham,NC,Elementary,Parking Lot,No,1.0,Suicide/Attempted,Victims Targeted,1
+20211007DCWAW,10,7,2021,10/7/2021,Walkins Elementary School,1,0,1,0,Washington,DC,Elementary,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,12
+20211006TXTIA,10,6,2021,10/6/2021,Timberview High School,0,3,3,0,Arlington,TX,High,Classroom,Yes,1.0,Escalation of Dispute,Both,6
+20211005NDHEH,10,5,2021,10/5/2021,Hettinger Public School,0,0,0,0,Hettinger,ND,K-12,Classroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20211005NCGAC,10,5,2021,10/5/2021,Garinger High School,0,0,0,0,Charlotte,NC,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20211004PASCP,10,4,2021,10/4/2021,School of the Future,0,2,2,0,Philadelphia,PA,High,Outside on School Property,No,1.0,,Both,100
+20211004OHWOT,10,4,2021,10/4/2021,Woodward High School,0,1,1,0,Toledo,OH,High,Off School Property,No,1.0,,,
+20211004NMSAS,10,4,2021,10/4/2021,Santa Fe Indian School,0,0,0,0,Santa Fe,NM,6-Dec,Outside on School Property,Yes,,Illegal Activity,Random Shooting,
+20211004ILLAC,10,4,2021,10/4/2021,Lakeview High School,0,0,0,0,Chicago,IL,High,Parking Lot,,1.0,,,12
+20211001TXYEH,10,1,2021,10/1/2021,YES Prep,0,1,1,0,Houston,TX,High,Entryway,Yes,,Psychosis,Both,4
+20211001NJCHC,10,1,2021,10/1/2021,Cherry Hill West High School,0,0,0,0,Cherry Hill,NJ,High,Football Field/Track,No,1.0,Indiscriminate Shooting,Random Shooting,8
+20211001NCSEF,10,1,2021,10/1/2021,Seventy-First High School,0,2,2,0,Fayetteville,NC,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20211001NCNOD,10,1,2021,10/1/2021,Northern High School,0,1,1,0,Durham,NC,High,Football Field/Track,No,1.0,Drive-by Shooting,Random Shooting,15
+20211001INBEI,10,1,2021,10/1/2021,Ben Davis High School,0,1,1,0,Indianapolis,IN,High,Football Field/Track,No,1.0,Illegal Activity,Victims Targeted,6
+20210930TNCUM,9,30,2021,9/30/2021,Cummings Elementary School,0,1,1,0,Memphis,TN,K-8,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20210930MSNEN,9,30,2021,9/30/2021,Newton Elementary School,0,1,1,0,Newton,MS,Elementary,Outside on School Property,Yes,1.0,Accidental,Random Shooting,1
+20210929OHSHS,9,29,2021,9/29/2021,Shaker Heights Middle School,0,0,0,0,Shaker Heights,OH,Middle,Parking Lot,No,1.0,Escalation of Dispute,Neither,1
+20210928MESOS,9,28,2021,9/28/2021,South Portland High School,0,1,1,0,South Portland,ME,High,Parking Lot,No,1.0,,Victims Targeted,
+20210927ILCAC,9,27,2021,9/27/2021,Canterbury Elementary School,0,0,0,0,Crystal Lake,IL,Elementary,Playground,Yes,,,,
+20210924VAESE,9,24,2021,9/24/2021,Essex High School,0,0,0,0,Essex,VA,High,Football Field/Track,No,10.0,Escalation of Dispute,Neither,10
+20210924TNSTS,9,24,2021,9/24/2021,Stewarts Creek High School,0,0,0,0,Smyrna,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,
+20210924MDWIB,9,24,2021,9/24/2021,Wildwood Elementary/Middle School,0,1,1,0,Baltimore,MD,K-8,Outside on School Property,No,1.0,,Victims Targeted,
+20210924ALFAF,9,24,2021,9/24/2021,Fairfield High Preparatory School,0,1,1,0,Fairfield,AL,High,Parking Lot,No,1.0,Indiscriminate Shooting,Random Shooting,
+20210923IDRIR,9,23,2021,9/23/2021,Rigby Middle School,0,0,0,0,Rigby,ID,Middle,Bathroom,Yes,1.0,Suicide/Attempted,Victims Targeted,0
+20210922NYSOB,9,22,2021,9/22/2021,South Shore High School,0,1,1,0,Brooklyn,NY,High,Front of School,Yes,1.0,,,
+20210922CTLIN,9,22,2021,9/22/2021,Lincoln-Bassett Community School,0,0,0,0,New Haven,CT,Elementary,Off School Property,Yes,1.0,Drive-by Shooting,Neither,
+20210921PAVAP,9,21,2021,9/21/2021,Vaux Big Picture High School,0,1,1,0,Philadelphia,PA,High,Front of School,Yes,1.0,,Victims Targeted,
+20210921OHMIM,9,21,2021,9/21/2021,Middletown Preparatory and Fitness Academy,0,0,0,0,Middletown,OH,High,School Bus,Yes,1.0,Intentional Property Damage,Neither,
+20210921KSEAW,9,21,2021,9/21/2021,East High School,0,3,3,0,Wichita,KS,High,Front of School,Yes,1.0,Escalation of Dispute,Both,
+20210921GAFRA,9,21,2021,9/21/2021,Fred A. Toomer Elementary School,0,0,0,0,Atlanta,GA,Elementary,Outside on School Property,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20210921FLLAL,9,21,2021,9/21/2021,Lake Asbury Elementary School,0,0,0,0,Lake Asbury,FL,Elementary,School Bus,Yes,10.0,Intentional Property Damage,Neither,
+20210920VAHEN,9,20,2021,9/20/2021,Heritage High School,0,2,2,0,Newport News,VA,High,Hallway,Yes,1.0,Escalation of Dispute,Both,5
+20210920OHEAC,9,20,2021,9/20/2021,Eastside Arts Academy,0,3,3,0,Cleveland,OH,Elementary,Playground,No,1.0,,,
+20210918COWIC,9,18,2021,9/18/2021,Widefield High School,0,3,3,0,Colorado Springs,CO,High,Parking Lot,No,1.0,,Both,
+20210917VAHEH,9,17,2021,9/17/2021,Hermitage High School,0,0,0,0,Henrico,VA,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,
+20210917TNAUK,9,17,2021,9/17/2021,Austin-East High School,0,1,1,0,Knoxville,TN,High,Off School Property,No,1.0,,,
+20210917PAWEP,9,17,2021,9/17/2021,West Philadelphia High School,0,2,2,0,Philadelphia,PA,High,Football Field/Track,No,1.0,Escalation of Dispute,,20
+20210917NCPAW,9,17,2021,9/17/2021,Parkland High School,0,0,0,0,Winston-Salem,NC,High,Field (General),Yes,1.0,Escalation of Dispute,Random Shooting,
+20210917GASWS,9,17,2021,9/17/2021,Swainsboro High School,0,0,0,0,Swainsboro,GA,High,Football Field/Track,No,1.0,Escalation of Dispute,Neither,3
+20210916WIORM,9,16,2021,9/16/2021,Orchard Ridge Elementary School,0,0,0,0,Madison,WI,Elementary,Beside Building,No,1.0,,,
+20210916UTPRP,9,16,2021,9/16/2021,Provo High School,0,0,0,0,Provo,UT,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20210916OHBEC,9,16,2021,9/16/2021,Beechcroft High School,0,0,0,0,Columbus,OH,High,Parking Lot,No,1.0,,Neither,7
+20210915VASPS,9,15,2021,9/15/2021,Springfield Estates Elementary,0,0,0,0,Springfield,VA,Elementary,Inside School Building,Yes,,,,
+20210915KYMAL,9,15,2021,9/15/2021,Mary Todd Elementary School,0,1,1,0,Lexington,KY,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20210915ILCEC,9,15,2021,9/15/2021,Centennial High School,0,0,0,0,Champaign,IL,High,Field (General),Yes,1.0,,,13
+20210914TNLAL,9,14,2021,9/14/2021,La Vergne High School,0,0,0,0,La Vergne,TN,High,Parking Lot,Yes,1.0,,Random Shooting,3
+20210914MOMCH,9,14,2021,9/14/2021,McNair Elementary School,0,0,0,0,Hazelwood,MO,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20210913SCEDC,9,13,2021,9/13/2021,Edwards Elementary School,0,1,1,0,Chesterfield County,SC,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20210910CONOA,9,10,2021,9/10/2021,North Area Athletic Complex,0,0,0,0,Arvada,CO,High,Parking Lot,No,1.0,Drive-by Shooting,Victims Targeted,4
+20210910CASTP,9,10,2021,9/10/2021,Stratford School,0,0,0,0,Palo Alto,CA,Elementary,Playground,Yes,1.0,Indiscriminate Shooting,Random Shooting,1
+20210909NCSHE,9,9,2021,9/9/2021,Sheep-Harney Elementary School,0,0,0,0,Elizabeth City,NC,Elementary,Front of School,No,1.0,Intentional Property Damage,Random Shooting,
+20210909MITRF,9,9,2021,9/9/2021,Tri-County Education Center,0,0,0,0,Ferndale,MI,6-Dec,Parking Lot,Yes,1.0,Escalation of Dispute,Neither,1
+20210909ILCHC,9,9,2021,9/9/2021,Champaign School Bus,0,1,1,0,Champaign,IL,Elementary,School Bus,Yes,1.0,Drive-by Shooting,Both,
+20210908MNPRB,9,9,2021,9/9/2021,Prairie Seeds Academy,0,1,1,0,Brooklyn Park,MN,High,Front of School,No,1.0,,Both,
+20210908ILCEC,9,8,2021,9/8/2021,Centennial High School,0,0,0,0,Champaign,IL,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20210907TNLAL,9,7,2021,9/7/2021,La Vergne High School,0,0,0,0,La Vergne,TN,High,Parking Lot,Yes,1.0,Escalation of Dispute,Random Shooting,3
+20210907PAHAH,9,7,2021,9/7/2021,Harrisburg High School,0,0,0,0,Harrisburg,PA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Neither,
+20210907MAOMG,9,7,2021,9/7/2021,OíMaley Innovation Middle School,0,0,0,0,Gloucester,MA,Middle,Parking Lot,No,,Intentional Property Damage,Random Shooting,100
+20210903NVDEL,9,3,2021,9/3/2021,Desert Oasis High School,0,0,0,0,Las Vegas,NV,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,
+20210903NCJUC,9,3,2021,9/3/2021,Julius Chambers High School,0,0,0,0,Charlotte,NC,High,Football Field/Track,No,1.0,,Neither,4
+20210903CAMTH,9,3,2021,9/3/2021,Mt. Eden High School,0,0,0,0,Hayward,CA,High,Front of School,Yes,1.0,,Victims Targeted,
+20210903CABUB,9,3,2021,9/3/2021,Buena Park School District Bus,0,0,0,1,Buena Park,CA,,School Bus,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20210902NMALA,9,2,2021,9/2/2021,Albuquerque Christ Lutheran Church and School,0,0,0,0,Albuquerque,NM,K-8,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20210902INWEG,9,2,2021,9/2/2021,West Side Leadership Academy,0,1,1,0,Gary,IN,High,School Bus,Yes,1.0,Murder/Assassination,Victims Targeted,
+20210902GAWOS,9,2,2021,9/2/2021,Woodland High School,0,0,0,0,Stockbridge,GA,High,Outside on School Property,Yes,,Illegal Activity,Neither,0
+20210902CASAL,9,2,2021,9/2/2021,Santee High School,0,2,2,0,Los Angeles,CA,High,Football Field/Track,Yes,1.0,Escalation of Dispute,Both,
+20210902ARLIL,9,2,2021,9/2/2021,Little Rock Central High School,0,0,0,0,Little Rock,AR,High,Front of School,Yes,1.0,Escalation of Dispute,Neither,0
+20210901NCMTW,9,1,2021,9/1/2021,Mt. Tabor High School,1,0,1,0,Winston-Salem,NC,High,Hallway,Yes,1.0,,Victims Targeted,
+20210901ILFRC,9,1,2021,9/1/2021,Frazier International Magnet School,1,0,1,0,Chicago,IL,Elementary,Front of School,No,1.0,,Victims Targeted,
+20210830NJWEN,8,30,2021,8/30/2021,West Side High School,1,0,1,0,Newark,NJ,High,Front of School,Yes,1.0,,Victims Targeted,
+20210830NCNEW,8,30,2021,8/30/2021,New Hanover High School,0,1,1,0,Wilmington,NC,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20210830MDNEO,8,30,2021,8/30/2021,New Town High School,0,0,0,0,Owings Mills,MD,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Neither,
+20210830FLOKW,8,30,2021,8/30/2021,Okeeheelee Middle School,0,0,0,0,West Palm Beach,FL,Middle,School Bus,Yes,1.0,,,
+20210828CASAS,8,28,2021,8/28/2021,Santa Maria High School,0,0,0,0,Santa Maria,CA,High,Football Field/Track,No,1.0,,,
+20210827VTEDB,8,27,2021,8/27/2021,Edmunds Middle School,0,0,0,0,Burlington,VT,Middle,Front of School,No,1.0,Intentional Property Damage,Neither,1
+20210827VAFRW,8,27,2021,8/27/2021,Freedom High School,0,2,2,0,Woodbridge,VA,High,Parking Lot,No,1.0,Escalation of Dispute,Both,
+20210827PAACS,8,27,2021,8/27/2021,Academy Park High School,1,4,5,0,Sharon Hill,PA,High,Football Field/Track,No,1.0,Escalation of Dispute,Random Shooting,
+20210827KYAPO,8,27,2021,8/27/2021,Apollo High School,0,1,1,0,Owensboro,KY,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20210827INHAH,8,27,2021,8/27/2021,Hammond Central High School,0,2,2,0,Hammond,IN,High,Beside Building,Yes,1.0,Illegal Activity,Both,
+20210826WAAKS,8,26,2021,8/26/2021,Aki Kurose Middle School,0,0,0,0,Seattle,WA,Middle,Front of School,No,1.0,,Victims Targeted,
+20210826OHNOT,8,26,2021,8/26/2021,Northpointe Academy Elementary School,0,0,0,0,Toledo,OH,Elementary,Football Field/Track,No,1.0,Escalation of Dispute,Neither,
+20210826NYHAH,8,26,2021,8/26/2021,Hauppauge Middle School,0,0,0,0,Hauppauge,NY,Middle,Beside Building,Yes,1.0,Escalation of Dispute,Both,
+20210822ILWER,8,22,2021,8/22/2021,West Middle School,0,1,1,0,Rockford,IL,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20210820NEMIO,8,20,2021,8/20/2021,Miller Park Elementary,0,2,2,0,Omaha,NE,Elementary,Playground,No,1.0,,Victims Targeted,27
+20210820CACEF,8,20,2021,8/20/2021,Central High-Bullard High,0,1,1,0,Fresno,CA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20210818SCORO,8,18,2021,8/18/2021,Orangeburg-Wilkinson High School,0,3,3,0,Orangeburg,SC,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,99
+20210817COYED,8,17,2021,8/17/2021,Yeshiva Toras Chaim High School,1,0,1,0,Denver,CO,High,Front of School,Yes,1.0,Illegal Activity,Victims Targeted,
+20210815VAROD,8,15,2021,8/15/2021,Rosa Park Elementary School,0,0,0,0,Dale City,VA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Neither,
+20210814SCDAH,8,14,2021,8/14/2021,Darlington County School District Buses,0,0,0,0,Hartsville,SC,,School Bus,,,Intentional Property Damage,Neither,
+20210814ILMAC,8,14,2021,8/14/2021,Mary E. McDowell Elementary School,0,1,1,0,Chicago,IL,Elementary,Outside on School Property,No,1.0,Drive-by Shooting,Victims Targeted,
+20210813NMWAA,8,13,2021,8/13/2021,Washington Middle School,1,0,1,0,Albuquerque,NM,Middle,Playground,Yes,1.0,Escalation of Dispute,Victims Targeted,6
+20210813GACAS,8,13,2021,8/13/2021,Campbell High SChool,0,0,0,0,Smyrna,GA,High,Football Field/Track,No,1.0,Escalation of Dispute,Neither,
+20210812GALIL,8,12,2021,8/12/2021,Lithonia High School,0,1,1,0,Lithonia,GA,High,Parking Lot,Yes,1.0,Officer-Involved Shooting,,
+20210812CANOS,8,12,2021,8/12/2021,North Mountain Middle School,0,0,0,0,San Jacinto,CA,Middle,Bathroom,Yes,1.0,,Neither,1
+20210811COMAC,8,11,2021,8/11/2021,Mark Twain Elementary School,0,1,1,0,Colorado Springs,CO,Elementary,Outside on School Property,No,1.0,,,
+20210811CAOAO,8,11,2021,8/11/2021,Oakland Tech High School,0,0,0,0,Oakland,CA,High,Beside Building,Yes,1.0,,,10
+20210810OHEAC,8,10,2021,8/10/2021,East Linden Elementary School,0,1,1,0,Columbus,OH,Elementary,Beside Building,No,1.0,Accidental,Random Shooting,1
+20210807ORGIP,8,7,2021,8/7/2021,Gilbert Heights Elementary School,1,0,1,0,Portland,OR,Elementary,Parking Lot,No,,,,
+20210806LASTH,8,6,2021,8/6/2021,St. Francis de Sales school,0,1,1,0,Houma,LA,K-8,Front of School,Yes,1.0,Illegal Activity,Random Shooting,1
+20210805GACHD,8,5,2021,8/5/2021,Chapel Hill Middle School,0,0,0,0,Douglasville,GA,Middle,Office,No,,Intentional Property Damage,Neither,5
+20210804ALBUM,8,4,2021,8/4/2021,Burns Middle School,0,2,2,0,Mobile,AL,Middle,Parking Lot,No,1.0,,,
+20210727WATYS,7,27,2021,7/27/2021,Tyee High School,1,0,1,0,SeaTac,WA,High,Basketball Court,No,1.0,,,
+20210721ILTHC,7,21,2021,7/21/2021,Theodore Herzl Elementary School,0,5,5,0,Chicago,IL,Elementary,Front of School,No,1.0,Drive-by Shooting,,
+20210719TXCAC,7,19,2021,7/19/2021,Caldwell High School,0,0,0,0,Caldwell,TX,High,Parking Lot,Yes,1.0,Drive-by Shooting,Random Shooting,
+20210718ARFOL,7,18,2021,7/18/2021,Forest Park Elementary,0,0,0,0,Little Rock,AR,Elementary,Basketball Court,No,1.0,,,
+20210709KSCAW,7,9,2021,7/9/2021,Campus High School,0,0,0,1,Wichita,KS,High,Field (General),No,,Suicide/Attempted,Random Shooting,
+20210708ILBEC,7,8,2021,7/8/2021,Benito Juarez Community Academy,0,2,2,0,Chicago,IL,High,Front of School,Yes,1.0,Drive-by Shooting,Both,
+20210704NYDRR,7,4,2021,7/4/2021,Dr. Louis A. Cerulli School No. 34,1,0,1,0,Rochester,NY,High,Parking Lot,No,1.0,Drive-by Shooting,,
+20210628CASLF,6,28,2021,6/28/2021,Slater Elementary School,0,1,1,0,Fresno,CA,Elementary,Field (General),No,1.0,Drive-by Shooting,Victims Targeted,
+20210624ILABR,6,24,2021,6/24/2021,Abraham Lincoln Middle School,0,1,1,0,Rockford,IL,Middle,Front of School,No,1.0,Drive-by Shooting,,
+20210620CAGRM,6,20,2021,6/20/2021,Modesto Christian School,0,1,1,0,Modesto,CA,K-12,Parking Lot,No,1.0,Illegal Activity,Neither,
+20210614TXEAF,6,14,2021,6/14/2021,Eastern Hills High School,0,1,1,0,Fort Worth,TX,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20210614NCROR,6,14,2021,6/14/2021,Rowland Middle School,0,0,0,0,Rowland,NC,Middle,Parking Lot,No,1.0,,,
+20210614NCRJW,6,14,2021,6/14/2021,R.J. Reynolds High School,0,0,0,1,Winston-Salem,NC,High,Beside Building,No,15.0,Domestic w/ Targeted Victim,Both,
+20210613PAWIP,6,13,2021,6/13/2021,William Dick School,1,0,1,0,Philadelphia,PA,K-8,Basketball Court,No,1.0,,Victims Targeted,
+20210613PAPAC,6,13,2021,6/13/2021,Park Elementary School,0,0,0,0,Columbia,PA,Elementary,Parking Lot,No,1.0,Suicide/Attempted,Victims Targeted,1
+20210612MOMCF,6,12,2021,6/12/2021,McCluer North High School,1,0,1,0,Florissant,MO,High,Outside on School Property,No,1.0,Escalation of Dispute,Victims Targeted,
+20210610CTHOW,6,10,2021,6/10/2021,Holy Cross High School,0,0,0,0,Waterbury,CT,High,Field (General),No,1.0,Illegal Activity,Neither,
+20210609VAWIR,6,9,2021,6/9/2021,William Fleming High School,0,1,1,0,Roanoke,VA,High,Parking Lot,No,1.0,Escalation of Dispute,,
+20210609TXNOH,6,9,2021,6/9/2021,North Forest High School,0,1,1,0,Houston,TX,High,Parking Lot,Yes,1.0,Escalation of Dispute,Both,
+20210608PAMUS,6,8,2021,6/8/2021,Musser Elementary School,0,0,0,0,Sharon,PA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,10
+20210608KSHAK,6,8,2021,6/8/2021,Hazel Grove Elementary,1,0,1,0,Kansas City,KS,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20210607TXEAF,6,7,2021,6/7/2021,Eastern Hills High School,1,0,1,0,Fort Worth,TX,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20210606VADRA,6,6,2021,6/6/2021,Dr. Charles R. Drew Elementary School,0,0,0,0,Arlington,VA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Random Shooting,
+20210601ILLIC,6,1,2021,6/1/2021,Lincoln Park High School,0,1,1,0,Chicago,IL,High,Parking Lot,No,1.0,,,
+20210525NJPAP,5,25,2021,5/25/2021,Paterson School 6,0,0,0,0,Paterson,NJ,Elementary,Front of School,Yes,1.0,,Random Shooting,
+20210517TXBRE,5,17,2021,5/17/2021,Brown Middle School,0,0,0,0,El Paso,TX,Middle,Classroom,Yes,30.0,Indiscriminate Shooting,Both,8
+20210517TNAUM,5,17,2021,5/17/2021,Aurora Collegiate Academy,0,1,1,0,Memphis,TN,Elementary,Front of School,Yes,1.0,Illegal Activity,Victims Targeted,
+20210517MDLOC,5,17,2021,5/17/2021,Long Reach High School,0,0,0,0,Columbia,MD,High,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,0
+20210514CASAS,5,14,2021,5/14/2021,San Mateo High School,1,0,1,0,San Mateo,CA,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20210511NYPSB,5,11,2021,5/11/2021,P.S. 178 Saint Clair Mckelway Grade School,0,1,1,0,Brooklyn,NY,K-8,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,1
+20210511CAVEL,5,11,2021,5/11/2021,Verbum Dei High School,0,0,0,0,Los Angeles,CA,High,School Bus,Yes,1.0,Intentional Property Damage,Random Shooting,
+20210506SCFOC,5,6,2021,5/6/2021,Forest Lake Elementary,0,0,0,0,Columbia,SC,Elementary,School Bus,Yes,6.0,Hostage/Standoff,Random Shooting,0
+20210506IDRIR,5,6,2021,5/6/2021,Rigby Middle School,0,3,3,0,Rigby,ID,Middle,Inside School Building,Yes,1.0,Indiscriminate Shooting,Both,99
+20210505SCWAW,5,5,2021,5/5/2021,Ware Shoals High School,0,0,0,1,Ware Shoals,SC,High,Parking Lot,Yes,1.0,Suicide/Attempted,,1
+20210505MICRC,5,5,2021,5/5/2021,Crossroads Alternative High,0,1,1,0,Cutlerville,MI,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20210502ILCHC,5,2,2021,5/2/2021,Chicago Bulls College Prep High School,0,5,5,0,Chicago,IL,High,Front of School,No,1.0,Drive-by Shooting,Both,
+20210501MNBES,5,1,2021,5/1/2021,Benjamin E Mays School,0,0,0,0,St. Paul,MN,Elementary,Front of School,No,1.0,,Victims Targeted,50
+20210430INMAI,4,30,2021,4/30/2021,Mary Castle Elementary School,0,1,1,0,Indianapolis,IN,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20210429NYURB,4,29,2021,4/29/2021,Urban Dove Charter School,1,0,1,0,Brooklyn,NY,High,Front of School,Yes,1.0,,Victims Targeted,10
+20210429CAVIV,4,29,2021,4/29/2021,Victor Valley High School,0,1,1,0,Victorville,CA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Random Shooting,3
+20210427TNLAM,4,27,2021,4/27/2021,La Petite Academy,0,0,0,0,Memphis,TN,Other,Front of School,Yes,1.0,Escalation of Dispute,Random Shooting,1
+20210427DESMS,4,27,2021,4/27/2021,Smyrna Middle School,1,0,1,1,Smyrna,DE,Middle,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20210426MNPLP,4,26,2021,4/26/2021,Plymouth Middle School,0,0,0,0,Plymouth,MN,Middle,Hallway,Yes,1.0,Suicide/Attempted,Random Shooting,
+20210420TXHAH,4,20,2021,4/20/2021,Harker Heights High School,1,0,1,0,Harker Heights,TX,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20210418OHWED,4,18,2021,4/18/2021,Westwood Elementary School,1,1,2,0,Dayton,OH,Elementary,Playground,No,1.0,,Victims Targeted,
+20210413TNMAC,4,13,2021,4/13/2021,Maury County Public Schools Bus No. 50,0,0,0,0,Columbia,TN,,School Bus,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20210412TNAUK,4,12,2021,4/12/2021,Austin-East Magnet High School,0,1,1,1,Knoxville,TN,High,Bathroom,Yes,1.0,,Victims Targeted,1
+20210412CASAS,4,12,2021,4/12/2021,San Diego High School,0,0,0,1,San Diego,CA,High,Football Field/Track,No,660.0,Hostage/Standoff,Random Shooting,
+20210411INBIH,4,11,2021,4/11/2021,Bishop Noll Institute,1,0,1,0,Hammond,IN,High,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20210407ILPEP,4,7,2021,4/7/2021,Peoria High School,0,0,0,0,Peoria,IL,High,Inside School Building,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20210406ILBAC,4,6,2021,4/6/2021,Back of the Yards College Prep High School,0,0,0,0,Chicago,IL,High,Beside Building,Yes,1.0,Intentional Property Damage,Neither,
+20210401OKCLC,4,1,2021,4/1/2021,Cleveland High School,0,0,0,0,Oklahoma City,OK,High,School Bus,Yes,1.0,Drive-by Shooting,Neither,
+20210401ALSES,4,1,2021,4/1/2021,Selma High School,0,0,0,0,Selma,AL,High,Cafeteria,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20210327MAPEC,3,27,2021,3/27/2021,Peabody Elementary School,1,0,1,0,Cambridge,MA,Elementary,Basketball Court,No,1.0,,Victims Targeted,
+20210326MOCAS,3,26,2021,3/26/2021,Castlio Elementary School,0,0,0,1,St Charles,MO,Elementary,Parking Lot,No,1.0,Suicide/Attempted,Victims Targeted,
+20210324ORFOS,3,24,2021,3/24/2021,Four Corners Elementary School,1,1,2,0,Salem,OR,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20210319WVSPM,3,19,2021,3/19/2021,Spring Mills Middle School,0,0,0,0,Martinsburg,WV,Middle,School Bus,Yes,2.0,Intentional Property Damage,Random Shooting,
+20210318KYGRL,3,18,2021,3/18/2021,Greenwood Elementary School,0,0,0,0,Louisville,KY,Elementary,Cafeteria,Yes,10.0,Domestic w/ Targeted Victim,Neither,0
+20210315INMEM,3,15,2021,3/15/2021,Merrillville High School,1,1,2,0,Merrillville,IN,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,10
+20210313TXLEA,3,13,2021,3/13/2021,Lee Elementary School,0,1,1,0,Abilene,TX,Elementary,Football Field/Track,No,1.0,,Victims Targeted,
+20210311OHCIC,3,11,2021,3/11/2021,Cincinnati College Preparatory Academy,0,1,1,0,Cincinnati,OH,K-12,Front of School,Yes,1.0,,Victims Targeted,
+20210309TNSAK,3,9,2021,3/9/2021,Sarah Moore Greene Elementary,0,0,0,0,Knoxville,TN,Elementary,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,3
+20210309OHBIC,3,9,2021,3/9/2021,Bishop Hartley High School,0,0,0,0,Columbus,OH,High,Gym,Yes,1.0,,,1
+20210308SCEDC,3,8,2021,3/8/2021,Edwards Elementary School,0,1,1,0,Chesterfield,SC,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20210304CTACN,3,4,2021,3/4/2021,Achievement First Amistad High School,0,0,0,0,New Haven,CT,High,Classroom,Yes,1.0,Drive-by Shooting,,99
+20210301NYWAO,3,1,2021,3/1/2021,Wayne Central Middle School,0,1,1,0,Ontario,NY,Middle,Inside School Building,No,1.0,,Victims Targeted,1
+20210301ARWAP,3,1,2021,3/1/2021,Watson Chapel Junior High,1,0,1,0,Pine Bluff,AR,Junior High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,3
+20210226LAGEN,2,26,2021,2/26/2021,George Washington Carver High School,1,0,1,0,New Orleans,LA,High,Hallway,No,1.0,Illegal Activity,Random Shooting,2
+20210224WAGAY,2,24,2021,2/24/2021,Garfield Elementary School,0,1,1,0,Yakima,WA,Elementary,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,2
+20210222CAHOV,2,22,2021,2/22/2021,Houston Elementary School,0,1,1,0,Visalia,CA,Elementary,Front of School,No,1.0,,,
+20210219ILLIR,2,19,2021,2/19/2021,Lincoln Middle School,1,0,1,0,Rockford,IL,Middle,Front of School,Yes,1.0,,Victims Targeted,
+20210217TNKNK,2,17,2021,2/17/2021,Christenberry Elementary School,0,0,0,0,Knoxville,TN,Elementary,School Bus,Yes,1.0,,,
+20210216NCTHS,2,16,2021,2/16/2021,Third Creek Elementary School,0,0,0,0,Statesville,NC,Elementary,School Bus,Yes,1.0,,,1
+20210214MNROM,2,14,2021,2/14/2021,Roosevelt High School,2,1,3,0,Minneapolis,MN,High,Front of School,No,1.0,,Victims Targeted,
+20210210TXFOF,2,10,2021,2/10/2021,Forest Oak Middle School,1,0,1,0,Fort Worth,TX,Middle,Front of School,No,1.0,,Victims Targeted,
+20210210NJSCP,2,10,2021,2/10/2021,School Number 15,1,0,1,0,Paterson,NJ,Elementary,Beside Building,No,1.0,,Victims Targeted,
+20210210LASTS,2,10,2021,2/10/2021,St. Martinville Head Start Center,0,0,0,0,St. Martinville,LA,Other,Cafeteria,Yes,1.0,Drive-by Shooting,Both,
+20210208MISCG,2,8,2021,2/8/2021,School Bus,0,0,0,0,Grand Rapids,MI,,School Bus,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20210205MDBEM,2,5,2021,2/5/2021,Benjamin Stoddert Middle School,0,1,1,0,Marlow Heights,MD,Middle,Football Field/Track,No,,,Victims Targeted,
+20210201MIMUD,2,1,2021,2/1/2021,Muslim American Youth Academy,0,1,1,0,Dearborn,MI,K-8,Gym,No,1.0,Escalation of Dispute,Victims Targeted,
+20210127MSHAH,1,27,2021,1/27/2021,Hattiesburg High School,0,0,0,0,Hattiesburg,MS,High,Off School Property,Yes,21.0,,Random Shooting,
+20210127FLHOH,1,27,2021,1/27/2021,Holly Hill School,0,0,0,0,Holly Hill,FL,K-8,Gym,Yes,1.0,,Victims Targeted,
+20210121OKLOG,1,21,2021,1/21/2021,Lower Elementary School,0,0,0,0,Grove,OK,Elementary,Parking Lot,Yes,1.0,Accidental,Random Shooting,1
+20210121OHEAC,1,21,2021,1/21/2021,Eastmoor Academy,0,1,1,0,Columbus,OH,High,Parking Lot,No,1.0,Escalation of Dispute,Both,1
+20210114MDHIW,1,14,2021,1/14/2021,Highland Elementary School,1,0,1,0,Wheaton,MD,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20210110ILSOS,1,10,2021,1/10/2021,Southeast High School,0,2,2,0,Springfield,IL,High,Parking Lot,No,1.0,,Victims Targeted,22
+20210104NYPEJ,1,4,2021,1/4/2021,Perth Bible Church and Christian Academy,0,0,0,0,Johnstown,NY,6-Dec,Field (General),Yes,1.0,Illegal Activity,Neither,
+20201229WAROS,12,29,2020,12/29/2020,Rogers High School,0,2,2,0,Spokane,WA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,16
+20201225FLYOP,12,25,2020,12/25/2020,Youth Under Construction Youth Center,0,0,0,0,Pompano Beach,FL,High,Parking Lot,No,1.0,,,15
+20201216ILDUC,12,16,2020,12/16/2020,Dubois Elementary School,1,0,1,0,Chicago,IL,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20201211VATAY,12,11,2020,12/11/2020,Tabb Middle School,0,0,0,0,Yorktown,VA,Middle,Basketball Court,No,1.0,,,
+20201207ILEAC,12,6,2020,12/6/2020,East Chicago Academy of Visual and Performing Arts,1,0,1,0,East Chicago,IN,High,Front of School,No,1.0,,,
+20201125KSABG,11,25,2020,11/25/2020,Abe Hubert Elementary School,0,1,1,0,Garden City,KS,Elementary,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20201124NCHEH,11,25,2020,11/25/2020,Hendersonville Middle School,0,1,1,0,Hendersonville,NC,Middle,Gym,Yes,1.0,,Victims Targeted,1
+20201117TXWEW,11,17,2020,11/17/2020,Weatherford High School,0,0,0,0,Weatherford,TX,High,Beside Building,Yes,,Suicide/Attempted,Victims Targeted,1
+20201117MTGRG,11,17,2020,11/17/2020,Great Falls High School,0,0,0,0,Great Falls,MT,High,Front of School,No,1.0,Intentional Property Damage,Neither,4
+20201116TNWIM,11,16,2020,11/16/2020,Winridge Elementary School,0,0,0,0,Memphis,TN,Elementary,Beside Building,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20201113NCLIL,11,13,2020,11/13/2020,Lincoln Elementary School,0,1,1,0,Leland,NC,Elementary,Playground,Yes,1.0,Accidental,Random Shooting,
+20201112PANAH,11,12,2020,11/12/2020,Nativity School of Harrisburg,1,0,1,0,Harrisburg,PA,Middle,Parking Lot,No,1.0,,,
+20201112CACEU,11,12,2020,11/12/2020,Cesar Chavez Middle School,0,1,1,0,Union City,CA,Middle,Parking Lot,No,1.0,,Victims Targeted,
+20201109TXCOH,11,9,2020,11/9/2020,Collins Elementary School,1,0,1,0,Houston,TX,Elementary,Parking Lot,No,1.0,,Victims Targeted,
+20201109CABAL,11,9,2020,11/9/2020,Baldwin Elementary School,0,0,0,1,La Puente,CA,Elementary,Beside Building,No,1.0,Suicide/Attempted,Victims Targeted,1
+20201108INTET,11,8,2020,11/8/2020,Terre Haute South Vigo High School,0,0,0,0,Terre Haute,IN,High,Parking Lot,No,1.0,,Victims Targeted,
+20201106AZKHT,11,6,2020,11/6/2020,Khalsa Montessori Charter,0,0,0,0,Tuscon,AZ,Elementary,Parking Lot,Yes,,Hostage/Standoff,Neither,
+20201102COERE,11,2,2020,11/2/2020,Erie High School,0,0,0,0,Erie,CO,High,Cafeteria,No,1.0,Intentional Property Damage,Neither,1
+20201029FLLAM,10,29,2020,10/29/2020,Lawton Chiles Middle School,2,0,2,0,Miramar,FL,Middle,Parking Lot,No,1.0,,Victims Targeted,
+20201028NYROR,10,28,2020,10/28/2020,Rochester Prep Charter School,0,0,0,0,Rochester,NY,K-12,Front of School,No,1.0,Drive-by Shooting,Victims Targeted,
+20201026GARIR,10,26,2020,10/26/2020,Riverdale High School,1,0,1,0,Riverdale,GA,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20201024CTSTS,10,24,2020,10/24/2020,Stillwater Elementary School,0,0,0,0,Stamford,CT,Elementary,Beside Building,No,1.0,,,4
+20201020ARJAP,10,20,2020,10/20/2020,Jack Robey Junior High School,1,0,1,0,Pine Bluff,AR,Junior High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20201018KYSEL,10,18,2020,10/18/2020,Seneca High School,0,3,3,0,Louisville,KY,High,Parking Lot (Bus),No,1.0,,,
+20201014WAWAS,10,14,2020,10/14/2020,Washington Elementary School,0,0,0,0,Sunnyside,WA,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,40
+20201014PABRB,10,14,2020,10/14/2020,Bradford Area School District,0,0,0,0,Bradford,PA,,School Bus,Yes,1.0,Intentional Property Damage,Neither,
+20201013RIRHP,10,13,2020,10/13/2020,Rhode Island School for the Deaf,1,2,3,0,Providence,RI,K-12,Parking Lot,No,1.0,,Victims Targeted,20
+20201012TXNOD,10,12,2020,10/12/2020,North Dallas High School,0,0,0,0,Dallas,TX,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20201012MNSHS,10,12,2020,10/12/2020,Shakopee High School,0,0,0,0,Shakopee,MN,High,Field (General),No,,Accidental,Neither,
+20201009FLJEJ,10,9,2020,10/9/2020,Jean Ribault High School,0,1,1,0,Jacksonville,FL,High,,,1.0,Accidental,Random Shooting,1
+20201005OKSOM,10,5,2020,10/5/2020,Southridge Junior High,0,0,0,0,Moore,OK,High,School Bus,Yes,1.0,,,1
+20201005ARKIH,10,5,2020,10/5/2020,KIPP Delta Elementary School,1,1,2,0,West Helena,AR,Elementary,Front of School,Yes,,Domestic w/ Targeted Victim,Victims Targeted,
+20201004NEADL,10,4,2020,10/4/2020,Adamís Elementary School,0,0,0,0,Lincoln,NE,Elementary,Parking Lot,No,,Drive-by Shooting,Neither,
+20201002PAMAE,10,2,2020,10/2/2020,Marple-Newtown School Bus,0,0,0,0,Exton,PA,,School Bus,,1.0,Intentional Property Damage,Neither,
+20200930CADYL,9,30,2020,9/30/2020,Dymally High School,0,2,2,0,Los Angeles,CA,High,Front of School,Yes,1.0,,Victims Targeted,
+20200928CTEAN,9,28,2020,9/28/2020,East Rock Community Magnet School,0,1,1,0,New Haven,CT,K-8,Beside Building,No,1.0,,Victims Targeted,
+20200925NJHAH,9,25,2020,9/25/2020,Haledon Public School,0,1,1,0,Haledon,NJ,K-8,Beside Building,No,1.0,,,
+20200925ILROR,9,25,2020,9/25/2020,Rock Island Academy,0,0,0,0,Rock Island,IL,Elementary,Hallway,No,1.0,,,0
+20200924ILMCS,9,24,2020,9/24/2020,McClernand Elementary School,0,0,0,0,Springfield,IL,Elementary,Beside Building,Yes,,Intentional Property Damage,Neither,
+20200924CAWAC,9,24,2020,9/24/2020,Walt Hanline Middle School,0,0,0,0,Ceres,CA,Middle,Classroom,Yes,,Illegal Activity,Neither,10
+20200923PAWIW,9,23,2020,9/23/2020,William Tennent High School,0,0,0,0,Warminster,PA,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,2
+20200923FLHIJ,9,23,2020,9/23/2020,Highlands Middle School,0,0,0,0,Jacksonville,FL,Middle,School Bus,Yes,1.0,Intentional Property Damage,Neither,1
+20200921CAPLP,9,21,2020,9/21/2020,Pleasant Hill Elementary School,0,0,0,0,Pleasant Hill,CA,Elementary,Beside Building,No,1.0,Suicide/Attempted,Neither,1
+20200920UTLIS,9,20,2020,9/20/2020,Liberty Elementary School,0,0,0,0,Salt Lake City,UT,Elementary,Field (General),No,1.0,,,
+20200919CAKRS,9,19,2020,9/19/2020,Krouzian Zekarian Vasbouragan Armenian School,0,0,0,0,San Francisco,CA,K-8,Outside on School Property,No,1.0,Intentional Property Damage,Neither,
+20200918KYWIL,9,18,2020,9/18/2020,Winburn Middle School,0,1,1,0,Lexington,KY,Middle,Basketball Court,No,1.0,,,
+20200917ORDRP,9,17,2020,9/17/2020,Dr. Martin Luther King Jr. Elementary School,0,1,1,0,Portland,OR,Elementary,Outside on School Property,No,1.0,,,
+20200917OHELA,9,17,2020,9/17/2020,Ellet High School,0,2,2,0,Akron,OH,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,
+20200916WAARG,9,15,2020,9/15/2020,Artondale Elementary School,0,1,1,0,Gig Harbor,WA,Elementary,Beside Building,No,1.0,Illegal Activity,Victims Targeted,
+20200916CASOS,9,16,2020,9/16/2020,Sonora High School,1,0,1,0,Sonora,CA,High,Parking Lot,No,1.0,Drive-by Shooting,Victims Targeted,8
+20200915UTVIB,9,15,2020,9/15/2020,Viewmont High School,0,0,0,1,Bountiful,UT,High,Front of School,No,1.0,Psychosis,Neither,
+20200915SCYOR,9,15,2020,9/15/2020,York County School Bus,0,0,0,0,Rock Hill,SC,,School Bus,Yes,1.0,Intentional Property Damage,Neither,
+20200910OHSAC,9,10,2020,9/10/2020,Saint Francis DeSales High School,0,0,0,0,Columbus,OH,High,School Bus,Yes,1.0,Drive-by Shooting,Both,
+20200910ILPEP,9,14,2020,9/14/2020,Peoria Public Schools Bus,0,0,0,0,Peoria,IL,,School Bus,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20200909TXSOH,9,9,2020,9/9/2020,Southmayd Elementary School,0,1,1,0,Houston,TX,Elementary,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20200909PAWEW,9,9,2020,9/9/2020,West Bradford Elementary School,0,0,0,0,West Bradford Township,PA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20200904FLLOJ,9,3,2020,9/3/2020,Lone Star Elementary School,0,1,1,0,Jacksonville,FL,Elementary,Beside Building,No,1.0,,,
+20200903GADOA,9,3,2020,9/3/2020,Dougherty Comprehensive High School,1,0,1,0,Albany,GA,High,Parking Lot,No,1.0,,Victims Targeted,
+20200830TXLOD,8,30,2020,8/30/2020,L.O. Donald Leadership Academy,1,0,1,0,Dallas,TX,Elementary,Playground,No,1.0,Illegal Activity,Victims Targeted,5
+20200825MOWEC,8,25,2020,8/25/2020,West Middle School,0,1,1,0,Columbia,MO,Middle,Football Field/Track,No,1.0,,,
+20200817MIABG,8,17,2020,8/17/2020,Aberdeen K-8 School,0,1,1,0,Grand Rapids,MI,K-8,Beside Building,No,1.0,,,
+20200804PAKEP,8,4,2020,8/4/2020,Kelly Elementary School,1,0,1,0,Pittsburg,PA,Elementary,Beside Building,No,1.0,Unknown,Victims Targeted,
+20200729ILCOC,7,29,2020,7/29/2020,Collinsville High School,0,0,0,0,Collinsville,IL,High,Beside Building,No,1.0,Unknown,Neither,0
+20200727AZCAO,7,27,2020,7/27/2020,Canyon del Oro High School,0,0,0,1,Oro Valley,AZ,High,Beside Building,No,1.0,Accidental,Neither,
+20200721SCBRO,7,21,2020,7/21/2020,Brookdale Elementary School,1,0,1,0,Orangeburg,SC,Elementary,Basketball Court,No,1.0,Escalation of Dispute,,
+20200714MIWID,7,14,2020,7/14/2020,Willow Woods Elementary School,0,0,0,0,Detroit,MI,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Neither,
+20200704INLAM,7,4,2020,7/4/2020,Lake Hills Elementary School,1,0,1,0,Michigan City,IN,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20200701ILFRP,7,1,2020,7/1/2020,Frost Elementary School,0,0,0,0,Prospect Heights,IL,Elementary,Parking Lot,No,1.0,Drive-by Shooting,,
+20200630OHLAW,6,30,2020,6/30/2020,Lakota Career Readiness Academy,0,0,0,0,West Chester Township,OH,K-12,Front of School,No,,Intentional Property Damage,Neither,
+20200627VAHAS,6,27,2020,6/27/2020,Halifax County Middle School,0,0,0,0,South Boston,VA,Middle,Football Field/Track,No,1.0,Escalation of Dispute,,
+20200621INCOC,6,21,2020,6/21/2020,Columbus East High School,0,0,0,0,Columbus,IN,High,Beside Building,No,1.0,Intentional Property Damage,Neither,
+20200618INJOI,6,18,2020,6/18/2020,Joyce Kilmer School 69,0,0,0,0,Indianapolis,IN,Elementary,Beside Building,No,1.0,Illegal Activity,,
+20200616FLTOM,6,16,2020,6/16/2020,Touissant Louverture Elementary School,0,1,1,0,Miami,FL,Elementary,Front of School,No,1.0,Drive-by Shooting,,56
+20200603IAGAD,6,3,2020,6/3/2020,Garfield Elementary School,0,1,1,0,Davenport,IA,Elementary,Front of School,No,1.0,Drive-by Shooting,Victims Targeted,>10
+20200527OHLUC,5,27,2020,5/27/2020,Luis Munoz Marin Middle School,0,0,0,1,Cleveland,OH,Middle,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20200525ALORM,5,25,2020,5/25/2020,O Rourke Elementary School,0,3,3,0,Mobile,AL,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20200522OHMIC,5,22,2020,5/22/2020,Miles Elementary School,1,0,1,0,Cleveland,OH,Elementary,Beside Building,No,1.0,Unknown,Victims Targeted,
+20200519VAWEM,5,19,2020,5/19/2020,West Gate Elementary School,0,0,0,0,Manassas,VA,Elementary,Beside Building,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20200515NCSTC,5,15,2020,5/15/2020,Stuart W Cramer High School,0,0,0,0,Cramerton,NC,High,Parking Lot,No,1.0,Illegal Activity,Random Shooting,
+20200505CAGOV,5,5,2020,5/5/2020,Golden West High School,3,0,3,0,Visalia,CA,High,Parking Lot,No,1.0,Escalation of Dispute,,
+20200419NCABR,4,19,2020,4/19/2020,Abbotts Creek Elementary School,0,0,0,0,Raleigh,NC,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,
+20200413NEMOO,4,13,2020,4/13/2020,Morton Middle School,0,1,1,0,Omaha,NE,Middle,Parking Lot,No,1.0,Escalation of Dispute,,
+20200330GANAS,3,30,2020,3/30/2020,Narvie J. Harris Elementary School,0,3,3,0,Stonecrest,GA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20200324LAROM,3,24,2020,3/24/2020,Roy Shelling Elementary School,0,1,1,0,Monroe,LA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20200318LABOS,3,18,2020,3/18/2020,Booker T. Washington High School,0,1,1,0,Shreveport,LA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20200315TXATH,3,15,2020,3/15/2020,Atascocita High School,1,0,1,0,Humble,TX,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20200313TNPIR,3,13,2020,3/13/2020,Pine View Elementary,0,0,0,0,Rockwood,TN,Elementary,Office,Yes,1.0,Accidental,Neither,1
+20200310PASHN,3,10,2020,3/10/2020,Shenango Area Schools (bus),0,0,0,0,New Castle,PA,Elementary,School Bus,Yes,1.0,Indiscriminate Shooting,,1
+20200305FLSAW,3,5,2020,3/5/2020,Sagemont School,0,1,1,0,Weston,FL,K-12,Parking Lot,Yes,1.0,Accidental,Random Shooting,1
+20200302TXNOF,3,2,2020,3/2/2020,North Forney High School,0,0,0,0,Forney,TX,High,Inside School Building,Yes,1.0,Accidental,Neither,1
+20200227FLJET,2,27,2020,2/27/2020,Jefferson High School,0,1,1,0,Tampa,FL,High,Football Field/Track,No,1.0,Accidental,Neither,1
+20200221NMCEA,2,21,2020,2/21/2020,Cesar Chavez Community School,0,0,0,0,Albuquerque,NM,Other,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20200215DCDUW,2,15,2020,2/15/2020,Dunbar High School,1,0,1,0,Washington,DC,High,Front of School,No,1.0,Drive-by Shooting,,
+20200213UTWES,2,13,2020,2/13/2020,West High School,0,0,0,0,Salt Lake City,UT,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20200212MOJOF,2,12,2020,2/12/2020,Johnson-Wabash Elementary School,0,0,0,0,Ferguson,MO,Elementary,School Bus,Yes,1.0,Escalation of Dispute,Victims Targeted,0
+20200205NHSEC,2,5,2020,2/5/2020,Second Start Alternative High School,0,0,0,1,Concord,NH,High,Classroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20200204LABEA,2,4,2020,2/4/2020,Beau Chene High School,0,0,0,0,Arnaudville,LA,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,1
+20200203FLGEJ,2,3,2020,2/3/2020,George Washington Carver Elementary School,0,1,1,0,Jacksonville,FL,Elementary,Parking Lot,No,1.0,Drive-by Shooting,,10
+20200201TXHIH,2,1,2020,2/1/2020,Hicks Elementary School,0,1,1,0,Houston,TX,Elementary,Outside on School Property,No,1.0,Illegal Activity,Victims Targeted,1
+20200131CADEA,1,31,2020,1/31/2020,Deer Valley High School,1,0,1,0,Antioch,CA,High,Parking Lot,No,1.0,Escalation of Dispute,,
+20200128TXLUL,1,28,2020,1/28/2020,Lufkin Middle School,0,1,1,0,Lufkin,TX,High,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20200128TNWHM,1,28,2020,1/28/2020,White Station High School,0,1,1,0,Memphis,TN,High,Parking Lot,No,1.0,Drive-by Shooting,Both,5
+20200128NYMAQ,1,28,2020,1/28/2020,Martin Van Buren High School,0,0,0,0,Queens,NY,High,Beside Building,Yes,1.0,Escalation of Dispute,,1
+20200127WAROY,1,27,2020,1/27/2020,Robertson Elementary School,0,0,0,0,Yakima,WA,Elementary,Playground,No,1.0,Illegal Activity,Victims Targeted,0
+20200123CAOXO,1,23,2020,1/23/2020,Oxnard's Christa McAuliffe Elementary School,0,1,1,0,Oxnard,CA,Elementary,Playground,Yes,1.0,Drive-by Shooting,Random Shooting,
+20200121NEPAL,1,21,2020,1/21/2020,Park Middle School,0,0,0,0,Lincoln,NE,Middle,Parking Lot,No,,Intentional Property Damage,Neither,
+20200121ILLIC,1,21,2020,1/21/2020,Lindblom Math & Science Academy High School,0,1,1,0,Chicago,IL,High,Front of School,No,1.0,Illegal Activity,Victims Targeted,
+20200119TXNOF,1,19,2020,1/19/2020,North Crowley Ninth Grade Campus,0,2,2,0,Fort Worth,TX,High,Parking Lot,No,1.0,Escalation of Dispute,Both,
+20200117SCCAS,1,17,2020,1/17/2020,Cane Bay High School,0,0,0,1,Summerville,SC,High,Parking Lot,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20200117MITHH,1,17,2020,1/17/2020,Three Fires Elementary School,0,1,1,0,Howell,MI,Elementary,Parking Lot,Yes,1.0,Accidental,Neither,1
+20200114TXPOM,1,14,2020,1/14/2020,Poteet High School,0,0,0,0,Mesquite,TX,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20200114TXBEH,1,14,2020,1/14/2020,Bellaire High School,1,0,1,0,Houston,TX,High,Classroom,Yes,1.0,Accidental,Neither,1
+20200111TXELD,1,11,2020,1/11/2020,Ellis Davis Field House,1,1,2,0,Dallas,TX,High,Gym,No,1.0,Escalation of Dispute,Both,
+20200110MSMCJ,1,10,2020,1/10/2020,McWillie Elementary School,0,1,1,0,Jackson,MS,Middle,School Bus,Yes,1.0,Unknown,,
+20200108FLGLB,1,8,2020,1/8/2020,Glades Central Community High School,0,0,0,0,Belle Glade,FL,High,Parking Lot,Yes,1.0,Accidental,Neither,1
+20200107WASOK,1,7,2020,1/7/2020,Southridge High School,0,0,0,0,Kennewick,WA,High,Beside Building,No,,Intentional Property Damage,Neither,
+20191228MOMAS,12,28,2019,12/28/2019,Mason-Clark Middle School,1,0,1,0,East St. Louis,IL,Middle,Parking Lot,No,1.0,Unknown,Victims Targeted,
+20191221LAWES,12,21,2019,12/21/2019,West St. John Elementary School,0,4,4,0,St. John the Baptist Parish,LA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,,
+20191219FLLEN,12,19,2019,12/19/2019,Lely High School,1,0,1,0,Naples,FL,High,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20191216CTCAN,12,16,2019,12/16/2019,Catholic Academy of New Haven,0,1,1,0,New Haven,CT,K-8,Beside Building,Yes,1.0,Drive-by Shooting,Victims Targeted,10
+20191213VAMAN,12,13,2019,12/13/2019,Maury High School,0,0,0,0,Norfolk,VA,High,Classroom,Yes,1.0,Accidental,Neither,1
+20191211KSCHT,12,11,2019,12/11/2019,Chase Middle School,0,0,0,0,Topeka,KS,Middle,School Bus,Yes,1.0,Unknown,,<10
+20191211INEVE,12,11,2019,12/11/2019,Evans Elementary School,0,0,0,0,Evansville,IN,Elementary,School Bus,No,1.0,Unknown,,
+20191210NJSAJ,12,10,2019,12/10/2019,Sacred Heart School,0,0,0,0,Jersey City,NJ,K-8,Off School Property,Yes,60.0,Indiscriminate Shooting,Neither,>100
+20191210KSJCK,12,10,2019,12/10/2019,J C Harmon High School,0,0,0,0,Kansas City,KS,High,Parking Lot (Bus),Yes,1.0,Drive-by Shooting,,10
+20191210ALDED,12,10,2019,12/10/2019,Decatur High School,0,0,0,0,Decatur,AL,High,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,<10
+20191204NMPIL,12,4,2019,12/4/2019,Picacho Middle School,0,0,0,0,Las Cruces,NM,High,Office,Yes,1.0,Accidental,Neither,1
+20191203WITHM,12,3,2019,12/3/2019,Thomas Jefferson Middle School,0,2,2,0,Madison,WI,Middle,School Bus,Yes,1.0,Unknown,Victims Targeted,1
+20191203WIOSO,12,3,2019,12/3/2019,Oshkosh West High School,0,1,1,0,Oshkosh,WI,High,Hallway,Yes,1.0,Officer-Involved Shooting,,1
+20191202WIWAW,12,2,2019,12/2/2019,Waukesha South High School,0,0,0,0,Waukesha,WI,High,Classroom,Yes,,Bullying,,
+20191201ALMOM,12,1,2019,12/1/2019,Mountain Brook High School,1,0,1,0,Mountain Brook,AL,High,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20191126WASAV,11,26,2019,11/26/2019,Sarah J. Anderson Elementary School,0,2,2,1,Vancouver,WA,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,<10
+20191125ILCAC,11,25,2019,11/25/2019,Catalyst Circle Rock Charter School,0,1,1,0,Chicago,IL,Elementary,Front of School,Yes,1.0,Unknown,Victims Targeted,6
+20191124CASEU,11,24,2019,11/24/2019,Searles Elementary School,2,0,2,0,Union City,CA,Elementary,Parking Lot,No,1.0,Illegal Activity,Random Shooting,
+20191121ILRIO,11,21,2019,11/21/2019,Rich Central High School,0,1,1,0,Olympia Fields,IL,High,Parking Lot (Bus),Yes,1.0,Intentional Property Damage,Random Shooting,1
+20191115NJPLP,11,15,2019,11/15/2019,Pleasantville High School,1,2,3,0,Pleasantville,NJ,High,Football Field/Track,No,1.0,Unknown,Both,6
+20191114CASAS,11,14,2019,11/14/2019,Saugus High School,2,3,5,1,Santa Clarita,CA,High,Courtyard,Yes,1.0,Indiscriminate Shooting,Random Shooting,6
+20191113CAESL,11,13,2019,11/13/2019,Esteban Torres High School,1,0,1,0,Los Angeles,CA,High,Courtyard,Yes,1.0,Officer-Involved Shooting,,
+20191111MDACB,11,11,2019,11/11/2019,Achievement Academy,0,1,1,0,Baltimore,MD,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,<10
+20191108TXROD,11,8,2019,11/8/2019,Robert L. Thornton Elementary School,1,0,1,0,Dallas,TX,Elementary,Basketball Court,No,1.0,Escalation of Dispute,Victims Targeted,30
+20191108CAEDS,11,8,2019,11/8/2019,Edison High School,0,0,0,0,Stockton,CA,High,Football Field/Track,No,1.0,Escalation of Dispute,,>10
+20191029NYNEN,10,29,2019,10/29/2019,New Dawn Charter High School,0,1,1,0,New York,NY,High,Front of School,Yes,1.0,Escalation of Dispute,Both,4
+20191027MDLAL,10,27,2019,10/27/2019,Laurel Woods Elementary School,0,1,1,0,Laurel,MD,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Both,<10
+20191022NJBRB,10,22,2019,10/22/2019,Brick Memorial High School,0,1,1,0,Brick Township,NJ,High,Off School Property,Yes,1.0,,Victims Targeted,
+20191022CARIS,10,22,2019,10/22/2019,Ridgway High School,0,1,1,0,Santa Rosa,CA,High,Beside Building,Yes,1.0,Escalation of Dispute,Victims Targeted,4
+20191022MIPOH,10,22,2019,10/22/2019,Poupard Elementary School,0,1,1,0,Harper Woods,MI,Elementary,Playground,No,1.0,Escalation of Dispute,Victims Targeted,99
+20191018OHWOT,10,18,2019,10/18/2019,Woodward High School,0,0,0,0,Toledo,OH,High,Football Field/Track,No,1.0,Escalation of Dispute,,
+20191018GACRS,10,18,2019,10/18/2019,Creekside High School,0,1,1,0,South Fulton,GA,High,Beside Building,No,1.0,Unknown,,<10
+20191015LAGEN,10,15,2019,10/15/2019,George Washington Carver High School,0,1,1,0,New Orleans,LA,High,Off School Property,Yes,1.0,Escalation of Dispute,,
+20191011LARAR,10,11,2019,10/11/2019,Rayne High School,0,0,0,0,Rayne,LA,High,Parking Lot,No,1.0,Indiscriminate Shooting,Victims Targeted,20
+20191009MAGRL,10,9,2019,10/9/2019,Greenhalge Elementary School,0,5,5,0,Lowell,MA,Elementary,Playground,No,,Indiscriminate Shooting,Random Shooting,
+20191008TXWEH,10,8,2019,10/8/2019,Westbury High School,0,1,1,0,Houston,TX,High,Beside Building,No,,Unknown,,
+20191008COSHS,10,8,2019,10/8/2019,Sheridan High School,0,1,1,0,Sheridan,CO,High,Beside Building,No,1.0,Escalation of Dispute,Victims Targeted,
+20191002GASOA,10,2,2019,10/2/2019,South Atlanta High School,0,0,0,0,Atlanta,GA,High,Field (General),No,1.0,Escalation of Dispute,Neither,1
+20190927NCZEC,9,27,2019,9/27/2019,Zebulon B. Vance High School,0,0,0,0,Charlotte,NC,High,Parking Lot,No,1.0,Escalation of Dispute,,<10
+20190927CADER,9,27,2019,9/27/2019,De Anza High School,0,3,3,0,Richmond,CA,High,Off School Property,No,1.0,Escalation of Dispute,Both,
+20190925DCAIW,9,25,2019,9/25/2019,Aiton Elementary School,0,0,0,0,Washington,DC,Elementary,Classroom,No,1.0,Drive-by Shooting,Random Shooting,99
+20190920PASIP,9,20,2019,9/20/2019,Simon Gratz High School Mastery Charter,0,2,2,0,Philadelphia,PA,High,Football Field/Track,No,1.0,Escalation of Dispute,,
+20190918MNFOC,10,18,2019,10/18/2019,Fond Du Lac Ojibwe High School,0,1,1,0,Cloquet,MN,High,Outside on School Property,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20190916VAPHH,9,16,2019,9/16/2019,Phoebus High School,1,0,1,0,Hampton,VA,High,Parking Lot,Yes,1.0,Unknown,Victims Targeted,<10
+20190916ILILK,9,16,2019,9/16/2019,Illinois Central School Bus,0,0,0,0,Kankakee,IL,,School Bus,Yes,1.0,Unknown,Victims Targeted,
+20190914TXEAF,9,14,2019,9/14/2019,Eastern Hills High School,0,2,2,0,Fort Worth,TX,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,Oct-30
+20190913VAETN,9,13,2019,9/13/2019,Ethel M. Gildersleeve Middle School,0,3,3,0,Newport News,VA,Middle,Football Field/Track,No,1.0,Escalation of Dispute,,
+20190913UTGRW,9,13,2019,9/13/2019,Granger High School,0,0,0,0,West Valley City,UT,High,Football Field/Track,No,1.0,Escalation of Dispute,Neither,2
+20190912KSMAM,9,12,2019,9/12/2019,Manhattan High School,0,0,0,0,Manhattan,KS,High,Parking Lot,No,1.0,Illegal Activity,,4
+20190910SCSOA,9,10,2019,9/10/2019,South Aiken High School,0,0,0,0,Aiken,SC,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20190906PAWEM,9,6,2019,9/6/2019,West Palmer High School,0,1,1,0,Morrisville,PA,High,Parking Lot,No,1.0,Escalation of Dispute,,3
+20190906PAMCJ,9,6,2019,9/6/2019,McKee Middle School,1,0,1,0,Jeannette,PA,Middle,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,1
+20190906ALCEC,9,6,2019,9/6/2019,Center Point High School,0,0,0,0,Center Point,AL,High,Football Field/Track,No,1.0,Indiscriminate Shooting,,8
+20190902MDNOB,9,2,2019,9/2/2019,Northwood Elementary School,1,2,3,0,Baltimore,MD,Elementary,Courtyard,No,1.0,Escalation of Dispute,,
+20190830OHCET,8,30,2019,8/30/2019,Central Catholic High School,0,1,1,0,Toledo,OH,High,Football Field/Track,No,1.0,Escalation of Dispute,Random Shooting,<10
+20190830NCKIK,8,30,2019,8/30/2019,Kinston High School,0,0,0,0,Kingston,NC,High,Parking Lot,No,1.0,Escalation of Dispute,Neither,<10
+20190830ALLAM,8,30,2019,8/30/2019,Ladd-Peebles Stadium,0,10,10,0,Mobile,AL,High,Off School Property,No,1.0,Escalation of Dispute,Both,
+20190827NYROR,8,27,2019,8/27/2019,Roosevelt High School,0,0,0,0,Roosevelt,NY,High,Field (General),No,1.0,Escalation of Dispute,Victims Targeted,3
+20190827CAHOL,8,27,2019,8/27/2019,Hollenbeck Middle School,0,1,1,0,Los Angeles,CA,High,Cafeteria,Yes,1.0,Unknown,,
+20190824PAWIP,8,24,2019,8/24/2019,William C. Longstreth Elementary School,1,0,1,0,Philadelphia,PA,Elementary,Playground,No,1.0,Escalation of Dispute,Victims Targeted,6
+20190823MOROS,8,23,2019,8/23/2019,Roosevelt High School,1,0,1,0,St. Louis,MO,High,Parking Lot,No,1.0,Unknown,Victims Targeted,
+20190823MOPAS,8,23,2019,8/23/2019,Parkway North High School,0,0,0,0,St. Louis,MO,High,Football Field/Track,No,1.0,Escalation of Dispute,,<5
+20190823GAPEC,8,23,2019,8/23/2019,Peek's Chapel Elementary School,0,1,1,0,Conyers,GA,Elementary,Outside on School Property,No,1.0,Unknown,,
+20190820PASAC,8,20,2019,8/20/2019,Saint Patrick School,0,0,0,0,Carlisle,PA,High,Parking Lot,No,1.0,Accidental,Random Shooting,1
+20190817GALAA,8,17,2019,8/17/2019,Lakewood Stadium,0,2,2,0,Atlanta,GA,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,
+20190815TNEAN,8,15,2019,8/15/2019,East Magnet High School,0,0,0,0,Nashville,TN,High,Football Field/Track,No,1.0,Escalation of Dispute,,<10
+20190809NJWEN,8,9,2019,8/9/2019,West Side High School,0,2,2,0,Newark,NJ,High,Front of School,No,1.0,,,
+20190808ALBLM,8,8,2019,8/8/2019,Blount Elementary School,0,0,0,0,Montgomery,AL,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,<10
+20190719CAMOS,7,19,2019,7/19/2019,Monroe Clark Middle School,0,0,0,0,San Diego,CA,Middle,Front of School,Yes,1.0,Intentional Property Damage,Neither,
+20190711CTBUH,7,11,2019,7/11/2019,Bulkeley High School,1,0,1,0,Hartford,CT,High,Beside Building,No,1.0,Drive-by Shooting,Victims Targeted,
+20190702AKWIA,7,2,2019,7/2/2019,Williwaw Elementary School,0,1,1,0,Anchorage,AK,Elementary,Basketball Court,No,1.0,Escalation of Dispute,,<10
+20190701NYSCN,7,1,2019,7/1/2019,School of Science and Applied Learning,0,1,1,0,New York,NY,Elementary,Playground,No,1.0,Illegal Activity,Victims Targeted,<10
+20190629COJAC,6,29,2019,6/29/2019,Jack Swigert Aerospace Academy,2,0,2,0,Colorado Springs,CO,Elementary,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,
+20190621MICAF,6,21,2019,6/21/2019,Carman-Ainsworth High School,0,1,1,0,Flint Township,MI,High,Beside Building,No,1.0,Escalation of Dispute,,<10
+20190613NJTAW,6,13,2019,6/13/2019,Tamaques Elementary School,0,0,0,0,Westfield,NJ,Elementary,Parking Lot,No,1.0,Indiscriminate Shooting,,0
+20190612PAJEE,6,12,2019,6/12/2019,Jefferson Elementary School,0,0,0,0,Emmaus,PA,Elementary,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20190612DCHEW,6,12,2019,6/12/2019,Hendley Elementary School,0,0,0,0,Washington,DC,Elementary,Front of School,No,1.0,Escalation of Dispute,,7
+20190610ILMEW,6,10,2019,6/10/2019,Menta Academy North,0,1,1,0,Waukegan,IL,Other,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20190606ILGEC,6,6,2019,6/6/2019,Genevieve Melody STEM Elementary School,0,1,1,0,Chicago,IL,Elementary,Basketball Court,No,1.0,Escalation of Dispute,,
+20190530DCHEW,5,30,2019,5/30/2019,Hendley Elementary School,0,0,0,0,Washington,DC,Elementary,Front of School,No,1.0,Escalation of Dispute,,
+20190522OHSAC,5,22,2019,5/22/2019,Shady Lane Elementary School,1,1,2,0,Columbus,OH,Elementary,Playground,No,1.0,Escalation of Dispute,Both,
+20190517ORPAP,5,17,2019,5/17/2019,Parkrose High School,0,0,0,0,Portland,OR,High,Classroom,Yes,1.0,Suicide/Attempted,,0
+20190517FLTEJ,5,17,2019,5/17/2019,Terry Parker High School,0,1,1,0,Jacksonville,FL,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20190508ILSEC,5,8,2019,5/8/2019,Second Change High School,0,1,1,0,Chicago,IL,High,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,1
+20190507COSTH,5,7,2019,5/7/2019,STEM School Highlands Ranch,1,8,9,0,Highlands Ranch,CO,K-12,Classroom,Yes,2.0,Indiscriminate Shooting,,>10
+20190430VACDW,4,30,2019,4/30/2019,C D Hylton High School,0,0,0,0,Woodbridge,VA,High,Classroom,Yes,1.0,Accidental,Neither,1
+20190430FLWEW,4,30,2019,4/30/2019,Weightman Middle School,0,0,0,0,Wesley Chapel,FL,Middle,Cafeteria,Yes,1.0,Accidental,Neither,1
+20190426GACRF,4,26,2019,4/26/2019,Creekside High School,0,0,0,0,Fairburn,GA,High,School Bus,No,1.0,Escalation of Dispute,Victims Targeted,
+20190425GAWYS,4,25,2019,4/25/2019,Wynbrooke Elementary Theme School,0,0,0,0,Stone Mountain,GA,Elementary,Playground,Yes,1.0,Indiscriminate Shooting,Random Shooting,
+20190424ARCOC,4,24,2019,4/24/2019,Concord High School,0,0,0,1,Concord,AR,High,Bathroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20190417MIFLF,4,17,2019,4/17/2019,Flex High School,0,0,0,0,Flint,MI,High,Outside on School Property,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20190417ILWAL,4,17,2019,4/17/2019,Washington Middle School,0,0,0,1,Lyons,IL,Middle,Bathroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20190410TXROH,4,10,2019,4/10/2019,Ross Shaw Sterling Aviation High School,0,1,1,0,Houston,TX,High,Basketball Court,No,1.0,Drive-by Shooting,Victims Targeted,20
+20190407MAHOL,4,7,2019,4/7/2019,Hood Elementary School,0,0,0,0,Lynn,MA,Elementary,Beside Building,No,,Intentional Property Damage,,
+20190405WISTM,4,5,2019,4/5/2019,St. Josaphat Parish School,0,1,1,0,Milwaukee,WI,Other,Hallway,Yes,1.0,Accidental,Random Shooting,1
+20190403CANES,4,3,2019,4/3/2019,New Joseph Bonnheim Elementary School,0,0,0,0,Sacramento,CA,Elementary,Classroom,Yes,1.0,,Random Shooting,8
+20190403FLSAJ,4,3,2019,4/3/2019,Saint Clair Evans Academy,0,0,0,0,Jacksonville,FL,Elementary,Off School Property,Yes,1.0,Drive-by Shooting,Victims Targeted,>5
+20190403COAUA,4,3,2019,4/3/2019,Aurora West College Preparatory Academy,0,0,0,0,Aurora,CO,Unknown,Office,No,,Escalation of Dispute,Victims Targeted,0
+20190401ARPRP,4,1,2019,4/1/2019,Prescott High School,0,1,1,0,Prescott,AR,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,<10
+20190327MSSVH,3,27,2019,3/27/2019,S V Marshall Elementary,0,1,1,0,Holmes County,MS,Elementary,School Bus,Yes,1.0,Unknown,Random Shooting,2
+20190327FLMAJ,3,27,2019,3/27/2019,Mayport Coastal Sciences Middle School,0,1,1,0,Jacksonville,FL,Middle,School Bus,Yes,1.0,,Random Shooting,
+20190322ALBLB,3,22,2019,3/22/2019,Blountsville Elementary School,0,0,0,0,Blountsville,AL,Elementary,Classroom,Yes,1.0,Accidental,Random Shooting,1
+20190313FLLAO,3,13,2019,3/13/2019,Lake Mary High School,0,0,0,1,Orlando,FL,High,Auditorium,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20190301KSHIM,3,1,2019,3/1/2019,Highlands Elementary School,0,0,0,0,Mission,KS,Elementary,Off School Property,Yes,75.0,Suicide/Attempted,Neither,27
+20190226ALROM,2,26,2019,2/26/2019,Robert E. Lee High School,0,1,1,0,Montgomery,AL,High,Gym,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20190217COEAA,2,17,2019,2/17/2019,Eaglecrest High School,1,0,1,0,Aurora,CO,High,Field (General),No,1.0,Escalation of Dispute,Victims Targeted,<10
+20190214NMVR,2,14,2019,2/14/2019,V. Sue Cleveland High School,0,0,0,0,Rio Rancho,NM,High,Hallway,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20190212MOCEK,2,12,2019,2/12/2019,Central Academy of Excellence,1,0,1,0,Kansas City,MO,High,Beside Building,No,1.0,Escalation of Dispute,Victims Targeted,
+20190208MDFRB,2,8,2019,2/8/2019,Frederick Douglass High School,0,1,1,0,Baltimore,MD,High,Entryway,Yes,1.0,Escalation of Dispute,Both,6
+20190205MNMIM,2,5,2019,2/5/2019,Minneapolis School District Bus,0,1,1,0,Minneapolis,MN,,School Bus,Yes,1.0,Escalation of Dispute,Victims Targeted,<10
+20190131TXATA,1,31,2019,1/31/2019,Atascocita High School,0,1,1,0,Atascocita,TX,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,<10
+20190131TNMAM,1,31,2019,1/31/2019,Manassas High School,0,1,1,0,Memphis,TN,High,Outside on School Property,No,1.0,Unknown,,
+20190130GAMIL,1,30,2019,1/30/2019,Miller Grove High School,0,1,1,0,Lithonia,GA,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,1
+20190127NVRER,1,27,2019,1/27/2019,Reno High School,0,0,0,0,Reno,NV,High,Front of School,No,1.0,Illegal Activity,Neither,0
+20190125TNMAM,1,25,2019,1/25/2019,Manassas High School,0,0,0,0,Memphis,TN,High,Front of School,Yes,1.0,Drive-by Shooting,,<10
+20190125ALDAM,1,25,2019,1/25/2019,Davidson High School,0,2,2,0,Mobile,AL,High,Parking Lot,No,1.0,Escalation of Dispute,,<10
+20190123LASOS,1,23,2019,1/23/2019,Southern Hills Elementary School,0,1,1,0,Shreveport,LA,Elementary,Parking Lot,Yes,1.0,Unknown,,
+20190119KSLAO,1,19,2019,1/19/2019,Lakewood Middle School,0,2,2,0,Overland Park,KS,Middle,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,<5
+20190118NCSHD,1,18,2019,1/18/2019,Sheppard Middle School,0,1,1,0,Durham,NC,Middle,School Bus,Yes,1.0,Drive-by Shooting,Random Shooting,
+20190118MOHAS,1,18,2019,1/18/2019,Hazelwood East High School,0,0,0,0,St. Louis,MO,High,Parking Lot,Yes,1.0,Drive-by Shooting,Victims Targeted,>10
+20190118ALCET,1,18,2019,1/18/2019,Central High School,0,0,0,0,Tuscaloosa,AL,High,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20190116MNNOM,1,16,2019,1/16/2019,North High School,0,0,0,0,Minneapolis,MN,High,Front of School,Yes,1.0,,,99
+20190111ORCAE,1,11,2019,1/11/2019,Cascade Middle School,1,0,1,0,Eugene,OR,Middle,Front of School,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20190107CACEB,1,7,2019,1/7/2019,Central Elementary School,1,0,1,0,Belmont,CA,Elementary,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20181218DEAIG,12,18,2018,12/18/2018,A I du Pont High School,0,0,0,0,Greenville,DE,High,Parking Lot,No,1.0,Escalation of Dispute,,
+20181214MOWIK,12,14,2018,12/14/2018,Winnetonka High School,0,0,0,0,Kansas City,MO,High,Parking Lot,Yes,1.0,Escalation of Dispute,Neither,1
+20181213INDER,12,13,2018,12/13/2018,Dennis Intermediate School,0,0,0,1,Richmond,IN,Middle,Hallway,Yes,,Indiscriminate Shooting,,
+20181211KYCAC,12,11,2018,12/11/2018,Cawood Elementary School,0,2,2,0,Cawood,KY,Elementary,Parking Lot,No,1.0,Unknown,,
+20181210NYJEJ,12,10,2018,12/10/2018,Jefferson High School,0,0,0,1,Jefferson,NY,High,Field (General),Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20181128PASTP,11,28,2018,11/28/2018,Strawberry Mansion High School,0,0,0,0,Philadelphia,PA,High,Other,No,1.0,Unknown,Neither,<10
+20181124OHAFC,11,24,2018,11/24/2018,Africentric Early College High School,0,2,2,0,Columbus,OH,K-12,Outside on School Property,No,1.0,Escalation of Dispute,Victims Targeted,
+20181122WAMOD,11,22,2018,11/22/2018,Mount Rainier High School,0,1,1,0,Des Moines,WA,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20181122TXSKD,11,22,2018,11/22/2018,Skyline High School,1,0,1,0,Dallas,TX,High,Front of School,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20181121MIPEP,11,21,2018,11/21/2018,Pentwater Public School,0,0,0,0,Pentwater,MI,K-8,Front of School,No,,Intentional Property Damage,Neither,
+20181120VASIP,11,20,2018,11/20/2018,Simonsdale Elementary School,0,1,1,0,Portsmouth,VA,Elementary,Hallway,No,1.0,Accidental,Random Shooting,1
+20181112MDEAE,11,12,2018,11/12/2018,Eastern Tech High School,0,0,0,1,Essex,MD,High,Office,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20181109GAGAM,11,9,2018,11/9/2018,Garrett Middle School,0,0,0,0,Marietta,GA,Middle,Bathroom,Yes,1.0,Accidental,Neither,1
+20181108CACLS,11,8,2018,11/8/2018,Cleveland Elementary School,0,1,1,0,Santa Barbara,CA,Elementary,Outside on School Property,No,1.0,Illegal Activity,Victims Targeted,<10
+20181105SCACC,11,5,2018,11/5/2018,Academy of Hope,0,0,0,0,Conway,SC,K-8,Classroom,Yes,1.0,Unknown,,1
+20181104KYCRL,11,4,2018,11/4/2018,Crums Lane Elementary School,1,1,2,0,Louisville,KY,Elementary,Beside Building,No,1.0,Escalation of Dispute,,7
+20181029NCBUM,10,29,2018,10/29/2018,Butler High School,1,0,1,0,Matthews,NC,High,Hallway,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20181026FLSAO,10,26,2018,10/26/2018,Saddlewood Elementary School,1,0,1,0,Ocala,FL,Elementary,Front of School,No,1.0,Illegal Activity,Victims Targeted,99
+20181025MICOD,10,25,2018,10/25/2018,Cody High School,0,0,0,0,Detroit,MI,High,Outside on School Property,,1.0,Drive-by Shooting,Victims Targeted,
+20181023NHGOM,10,23,2018,10/23/2018,Gossler Park Elementary School,0,1,1,0,Manchester,NH,Elementary,Playground,Yes,1.0,Indiscriminate Shooting,Random Shooting,<10
+20181022CTDUB,10,22,2018,10/22/2018,Dunbar Elementary School,0,0,0,0,Bridgeport,CT,Elementary,Off School Property,No,1.0,Escalation of Dispute,Victims Targeted,<10
+20181020GASHS,10,20,2018,10/20/2018,Shiloh Middle School,1,0,1,0,Snellville,GA,Middle,Beside Building,No,1.0,Illegal Activity,Victims Targeted,
+20181013TNMCN,10,13,2018,10/13/2018,McGavock High School,1,1,2,0,Nashville,TN,High,Parking Lot,No,1.0,Drive-by Shooting,Victims Targeted,
+20181012MIBAB,10,12,2018,10/12/2018,Battle Creek Academy,0,0,0,0,Battle Creek,MI,Elementary,Off School Property,Yes,1.0,Unknown,,1
+20181007VAVAH,10,7,2018,10/7/2018,Varina High School,0,1,1,0,Henrico,VA,High,Gym,No,1.0,Escalation of Dispute,Both,
+20181005VALAN,10,5,2018,10/5/2018,Lake Taylor High School,0,1,1,0,Norfolk,VA,High,Parking Lot,No,1.0,Escalation of Dispute,,<10
+20181005TNHAB,10,5,2018,10/5/2018,Haywood High School,0,2,2,0,Brownsville,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Both,4
+20181004ORJAP,10,4,2018,10/4/2018,Jason Lee Elementary School,0,0,0,0,Portland,OR,Elementary,Cafeteria,Yes,1.0,Accidental,Neither,1
+20181003AKDEA,10,3,2018,10/3/2018,Denali Montessori Elementary School,0,1,1,0,Anchorage,AK,Elementary,Front of School,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20181002ARCHL,10,2,2018,10/2/2018,Chicot Elementary School,0,0,0,0,Little Rock,AR,Elementary,Other,Yes,1.0,Unknown,,6
+20180928SDCHC,9,28,2018,9/28/2018,Chamberlain High School,0,0,0,0,Chamberlain,SD,High,Field (General),No,1.0,Suicide/Attempted,Victims Targeted,1
+20180927TXHEC,9,27,2018,9/27/2018,Hebron High School,0,1,1,0,Carrollton,TX,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,1
+20180926MDMAB,9,26,2018,9/26/2018,Maree Garnett Farring Elementary,0,0,0,0,Baltimore,MD,Elementary,Bathroom,Yes,1.0,Accidental,Neither,1
+20180924PACEP,9,24,2018,9/24/2018,Central High School,1,0,1,0,Philadelphia,PA,High,Front of School,Yes,1.0,Escalation of Dispute,Both,>10
+20180924NCLAC,9,24,2018,9/24/2018,Lawrence Orr Elementary School,0,0,0,0,Charlotte,NC,Elementary,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,<10
+20180924GAAPB,9,24,2018,9/24/2018,Appling County High School,0,0,0,1,Baxley,GA,High,Bathroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20180920CAPOP,9,20,2018,9/20/2018,Pomona High School,0,0,0,1,Pomona,CA,High,Football Field/Track,No,1.0,Suicide/Attempted,Victims Targeted,1
+20180920CACHL,9,20,2018,9/20/2018,CHAMPS Charter High School,0,2,2,0,Los Angeles,CA,High,Off School Property,Yes,1.0,Escalation of Dispute,,2
+20180917ALBLH,9,17,2018,9/17/2018,Blossomwood Elementary School,0,1,1,0,Huntsville,AL,Elementary,Gym,Yes,1.0,Accidental,Neither,1
+20180914WAMAE,9,14,2018,9/14/2018,Mariner High School,0,0,0,0,Everett,WA,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,6
+20180914FLBOB,9,14,2018,9/14/2018,Boynton Beach High School,0,0,0,0,Boynton Beach,FL,High,Off School Property,Yes,1.0,Accidental,Neither,1
+20180911NVCAL,9,11,2018,9/11/2018,Canyon Springs High School,1,0,1,0,Las Vegas,NV,High,Field (General),No,1.0,Escalation of Dispute,Victims Targeted,<5
+20180910TNFAM,9,10,2018,9/10/2018,Fairley High School,0,1,1,0,Memphis,TN,High,School Bus,Yes,1.0,Unknown,,3
+20180910ILCHC,9,10,2018,9/10/2018,Chatham Academy High School,0,3,3,0,Chicago,IL,High,Beside Building,Yes,1.0,Escalation of Dispute,Victims Targeted,<10
+20180909CAGIG,9,9,2018,9/9/2018,Gilroy High School,0,0,0,0,Gilroy,CA,High,Field (General),No,1.0,Illegal Activity,Neither,1
+20180907IAHED,9,7,2018,9/7/2018,Herbert Hoover High School,0,0,0,0,Des Moines,IA,High,Parking Lot,No,1.0,Escalation of Dispute,,
+20180905RIPRP,9,5,2018,9/5/2018,Providence Career and Technical Academy,1,0,1,0,Providence,RI,High,Front of School,Yes,1.0,Escalation of Dispute,Both,<10
+20180903NYLUN,9,3,2018,9/3/2018,Luisa Pineiro Fuentes School of Science and Discovery,1,0,1,0,New York,NY,Elementary,Field (General),No,1.0,Escalation of Dispute,Victims Targeted,<5
+20180831IANOE,8,31,2018,8/31/2018,North Scott Junior High School,0,0,0,0,Eldridge,IA,Junior High,Classroom,Yes,1.0,Hostage/Standoff,Victims Targeted,0
+20180831CABAS,8,31,2018,8/31/2018,Balboa High School,0,0,0,0,San Francisco,CA,High,Classroom,Yes,1.0,Accidental,Neither,1
+20180830NCVIC,8,30,2018,8/30/2018,Villa Heights Elementary School,0,0,0,0,Charlotte,NC,Elementary,Parking Lot,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,<10
+20180830MIOTG,8,30,2018,8/30/2018,Ottawa Hills High School,0,1,1,0,Grand Rapids,MI,High,Other,Yes,1.0,Drive-by Shooting,Victims Targeted,6
+20180829DETOD,8,29,2018,8/29/2018,Towne Point Elementary School,1,0,1,0,Dover,DE,Elementary,Parking Lot,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20180828COCOD,8,28,2018,8/28/2018,Cole Middle School,0,1,1,0,Denver,CO,Middle,Outside on School Property,Yes,1.0,Escalation of Dispute,,7
+20180824ILMEC,8,24,2018,8/24/2018,Metro East Lutheran High School,0,3,3,0,Chicago,IL,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,30-50
+20180824FLRAJ,8,24,2018,8/24/2018,Raines High School,1,2,3,0,Jacksonville,FL,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,
+20180823ALALM,8,23,2018,8/23/2018,Alabama State University Stadium (high school game),0,0,0,0,Montgomery,AL,High,Football Field/Track,No,1.0,Escalation of Dispute,,
+20180817FLPAW,8,17,2018,8/17/2018,Palm Beach Central High School,0,2,2,0,Wellington,FL,High,Football Field/Track,No,1.0,Escalation of Dispute,Victims Targeted,4
+20180811TNANN,8,11,2018,8/11/2018,Antioch High School,0,1,1,0,Nashville,TN,High,Football Field/Track,No,1.0,Escalation of Dispute,Both,<10
+20180809NJLAM,8,9,2018,8/9/2018,Lakeside Middle School,1,0,1,0,Millville,NJ,Middle,Parking Lot,No,1.0,Unknown,Victims Targeted,<10
+20180804MDEDE,8,4,2018,8/4/2018,Edgewood High School,1,0,1,0,Edgewood,MD,High,Parking Lot,No,1.0,Unknown,,
+20180803IALIO,8,3,2018,8/3/2018,Liberty Elementary School,0,0,0,1,Ottumwa,IA,Elementary,Parking Lot,No,15.0,Illegal Activity,Random Shooting,
+20180719WAWEY,7,19,2018,7/19/2018,West Valley Middle School,1,0,1,0,Yakima,WA,Middle,Beside Building,No,1.0,Unknown,,
+20180717WVHUH,7,17,2018,7/17/2018,Hurricane High School,0,0,0,0,Hurricane,WV,High,Parking Lot,No,1.0,Escalation of Dispute,,1
+20180711OHMIM,7,11,2018,7/11/2018,Milkovich Middle School,1,0,1,0,Maple Heights,OH,Middle,Parking Lot,No,1.0,Escalation of Dispute,,
+20180703KSSUO,7,3,2018,7/3/2018,Sunrise Point Elementary School,1,1,2,0,Overland,KS,Elementary,Beside Building,No,1.0,Escalation of Dispute,Victims Targeted,
+20180701TNRAM,7,1,2018,7/1/2018,Raineshaven Elementary School,1,0,1,0,Memphis,TN,Elementary,Beside Building,No,1.0,Unknown,,
+20180625OHFUS,6,25,2018,6/25/2018,Fulton Elementary School,0,1,1,0,Springfield,OH,Elementary,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,0
+20180624MTSEM,6,24,2018,6/24/2018,Sentinel High School,0,2,2,0,Missoula,MT,High,Field (General),No,1.0,Illegal Activity,Victims Targeted,4
+20180621TXSKD,6,21,2018,6/21/2018,Skyline High School,0,1,1,0,Dallas,TX,High,Football Field/Track,No,1.0,Unknown,,
+20180617ORGRP,6,17,2018,6/17/2018,Grant High School,1,0,1,0,Portland,OR,High,Football Field/Track,No,1.0,Unknown,,
+20180615OHVAB,6,15,2018,6/15/2018,Valley Elementary School,0,0,0,0,Beaver Creek,OH,Elementary,Basketball Court,No,1.0,Domestic w/ Targeted Victim,Victims Targeted,1
+20180601TXMCM,6,1,2018,6/1/2018,McKinney North High School,0,0,0,1,McKinney,TX,High,Classroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20180525INNON,5,25,2018,5/25/2018,Noblesville West Middle School,0,2,2,0,Noblesville,IN,Middle,Classroom,Yes,1.0,Indiscriminate Shooting,Victims Targeted,10
+20180521GABEG,5,21,2018,5/21/2018,Beaverbrook Elementary School,0,1,1,0,Griffin,GA,High,Parking Lot,Yes,1.0,Unknown,Random Shooting,1
+20180518TXSAS,5,18,2018,5/18/2018,Santa Fe High School,10,13,23,0,Santa Fe,TX,High,Classroom,Yes,32.0,Indiscriminate Shooting,Both,
+20180518GAMOA,5,18,2018,5/18/2018,Mount Zion High School,1,2,3,0,Atlanta,GA,High,Parking Lot,No,1.0,Escalation of Dispute,Both,
+20180517MOCEK,5,17,2018,5/17/2018,Central High School,0,2,2,0,Kansas City,MO,High,Off School Property,No,1.0,Escalation of Dispute,,<10
+20180516ILDID,5,16,2018,5/16/2018,Dixon High School,0,1,1,0,Dixon,IL,High,Gym,Yes,2.0,Indiscriminate Shooting,Random Shooting,
+20180511CAHIP,5,11,2018,5/11/2018,Highland High School,0,1,1,0,Palmdale,CA,High,Bathroom,No,1.0,Indiscriminate Shooting,Random Shooting,10
+20180505MIFOF,5,5,2018,5/5/2018,Fowlerville High School,0,0,0,0,Fowlerville,MI,High,Gym,No,1.0,Accidental,Neither,1
+20180503TNWAW,5,3,2018,5/3/2018,Waynesboro Elementary School,0,0,0,0,Waynesboro,TN,High,Bathroom,Yes,1.0,Accidental,Neither,1
+20180503SDENW,5,3,2018,5/3/2018,Enemy Swim Day School,0,1,1,0,Waubay,SD,K-8,Field (General),No,1.0,Unknown,,
+20180425NMHIA,4,25,2018,4/25/2018,Highland High School,0,1,1,0,Albuquerque,NM,High,Front of School,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20180423GABEA,4,23,2018,4/23/2018,Benjamin E. Mays High School,0,0,0,0,Atlanta,GA,High,Parking Lot,Yes,1.0,Escalation of Dispute,Victims Targeted,1
+20180420FLFOO,4,20,2018,4/20/2018,Forest High School,0,1,1,0,Ocala,FL,High,Classroom,Yes,1.0,Indiscriminate Shooting,Random Shooting,
+20180419MIJAJ,4,19,2018,4/19/2018,Jackson High School,0,0,0,0,Jackson,MI,High,Off School Property,Yes,1.0,Unknown,Neither,2
+20180412MORAR,4,12,2018,4/12/2018,Rayton South Middle School,0,1,1,0,Rayton,MO,Middle,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,
+20180409NYGLG,4,9,2018,4/9/2018,Gloversville Middle School,0,1,1,0,Gloversville,NY,Middle,Hallway,Yes,,Escalation of Dispute,Victims Targeted,
+20180329KYJOE,3,29,2018,3/29/2018,John Hardin High School,0,0,0,1,Elizabethtown,KY,High,Beside Building,Yes,1.0,Domestic w/ Targeted Victim,,
+20180328MSEUE,3,28,2018,3/28/2018,Eupora High School,0,0,0,0,Eupora,MS,High,Field (General),No,,Illegal Activity,Neither,6
+20180320MDGRG,3,20,2018,3/20/2018,Great Mills High School,1,1,2,1,Great Mills,MD,High,Hallway,Yes,1.0,Murder/Suicide,Both,
+20180319VADOP,3,19,2018,3/19/2018,Douglass Park Elementary School,0,1,1,0,Portsmouth,VA,Elementary,Parking Lot,No,1.0,Accidental,Random Shooting,1
+20180316MTBIM,3,16,2018,3/16/2018,Big Sky High School,0,0,0,0,Missoula,MT,High,Parking Lot,Yes,1.0,Officer-Involved Shooting,Victims Targeted,
+20180313VAGEA,3,13,2018,3/13/2018,George Washington Middle School,0,0,0,0,Alexandria,VA,Middle,Office,Yes,1.0,Accidental,Neither,1
+20180313CASES,3,13,2018,3/13/2018,Seaside High School,0,1,1,0,Seaside,CA,High,Classroom,Yes,1.0,Accidental,Random Shooting,1
+20180309KYFRL,3,9,2018,3/9/2018,Frederick Douglass High School,0,0,0,0,Lexington,KY,High,Classroom,Yes,1.0,Accidental,Random Shooting,1
+20180307ALHUB,3,7,2018,3/7/2018,Huffman High School,1,0,1,0,Birmingham,AL,High,Inside School Building,Yes,1.0,Accidental,Random Shooting,
+20180305MOKIC,3,5,2018,3/5/2018,Kingston High School,0,0,0,1,Cadet,MO,K-12,Classroom,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20180228GADAD,2,28,2018,2/28/2018,Dalton High School,0,0,0,0,Dalton,GA,High,Classroom,Yes,,Psychosis,Neither,1
+20180226WAOAT,2,26,2018,2/26/2018,Oakland High School,0,0,0,0,Tacoma,WA,High,Bathroom,Yes,1.0,Accidental,Neither,1
+20180220OHJAM,2,20,2018,2/20/2018,Jackson Memorial Middle School,0,0,0,1,Massillon,OH,Middle,Bathroom,Yes,1.0,Indiscriminate Shooting,Victims Targeted,1
+20180215FLNOC,2,15,2018,2/15/2018,North Broward Preparatory School,0,0,0,0,Coconut Creek,FL,K-12,Hallway,Yes,1.0,Accidental,Random Shooting,1
+20180214FLMAP,2,14,2018,2/14/2018,Marjory Stoneman Douglas High School,17,17,34,0,Parkland,FL,High,Hallway,Yes,7.0,Indiscriminate Shooting,Random Shooting,139
+20180209TNPEN,2,9,2018,2/9/2018,Peal-Cohn High School,0,1,1,0,Nashville,TN,High,Parking Lot,No,1.0,Escalation of Dispute,Victims Targeted,5
+20180208NYTHN,2,8,2018,2/8/2018,The Metropolitan High School,0,0,0,0,New York,NY,High,Classroom,Yes,1.0,Accidental,,1
+20180205MNHAM,2,5,2018,2/5/2018,Harmony Learning Center,0,0,0,0,Maplewood,MN,Elementary,Front of School,Yes,1.0,Accidental,Neither,1
+20180205MDOXO,2,5,2018,2/5/2018,Oxon Hill High School,0,1,1,0,Oxon Hill,MD,High,Parking Lot,No,1.0,Illegal Activity,Victims Targeted,1
+20180201CASAL,2,1,2018,2/1/2018,Salvador B. Castro Middle School,0,2,2,0,Los Angeles,CA,Middle,Classroom,Yes,1.0,Accidental,Random Shooting,1
+20180131PALIP,1,31,2018,1/31/2018,Lincoln High School,1,0,1,0,Philadelphia,PA,High,Parking Lot,No,1.0,Escalation of Dispute,Random Shooting,
+20180126MIDED,1,26,2018,1/26/2018,Dearborn High School,0,0,0,0,Dearborn,MI,High,Parking Lot,No,1.0,Escalation of Dispute,,
+20180125ALMUM,1,25,2018,1/25/2018,Murphy High School,0,0,0,0,Mobile,AL,High,Beside Building,Yes,1.0,Escalation of Dispute,Victims Targeted,
+20180123KYMAB,1,23,2018,1/23/2018,Marshall County High School,2,18,20,0,Benton,KY,High,Hallway,Yes,3.0,Indiscriminate Shooting,Random Shooting,
+20180122TXITI,1,22,2018,1/22/2018,Italy High School,0,1,1,0,Italy,TX,High,Cafeteria,Yes,1.0,Domestic w/ Targeted Victim,Victims Targeted,
+20180122LANEN,1,22,2018,1/22/2018,NET Charter High School,0,0,0,0,New Orleans,LA,High,Front of School,Yes,1.0,Drive-by Shooting,Victims Targeted,
+20180116VTMOM,1,16,2018,1/16/2018,Montpelier High School,0,0,0,1,Montpelier,VT,High,Outside on School Property,Yes,4.0,Illegal Activity,Victims Targeted,21-23
+20180109AZCOS,1,9,2018,1/9/2018,Coronado Elementary School,0,0,0,1,Sierra Vista,AZ,Elementary,Inside School Building,Yes,1.0,Suicide/Attempted,Victims Targeted,1
+20180105IAFOF,1,5,2018,1/5/2018,Forest City School Bus,0,0,0,0,Forest City,IA,,School Bus,Yes,1.0,Intentional Property Damage,Neither,1
+20180104WANES,1,4,2018,1/4/2018,New Start High School,0,0,0,0,Seattle,WA,High,Front of School,Yes,1.0,Intentional Property Damage,,2
