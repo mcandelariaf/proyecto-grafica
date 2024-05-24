@@ -30,5 +30,12 @@ Este enfoque integrado asegura que la identidad visual de nuestra webstory sea p
 
 Para el prototipo utilizamos la plataforma Uizar e intentamos hacer calzar lo más posible nuestro proyecto de identidad visual, que fue definitivamente uno de los mayores desafíos por la falta de las herramientas premium. 
 
+A pesar de lo anterior logramos armar un esqueleto del proyecto al que en el futuro le vamos a poder incluir más elementos de nuestra identidad del proyecto. 
 
-[Link de Uizard al prototipo](https://app.uizard.io/p/963c3a6f)
+### Enlaces
+
+[Link de Uizard al prototipo](https://app.uizard.io/p/79c8c822)
+
+[Link al video de nuestra presentación](https://youtu.be/o9wsJsm0-9A)
+
+[Link al canva de nuestra presentación](https://www.canva.com/design/DAGGFyL9p2s/LnzJKOnpeXJiltJ7HKED9w/edit?utm_content=DAGGFyL9p2s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
