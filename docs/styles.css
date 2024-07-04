@@ -1,5 +1,4 @@
 body {
-    font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,6 +8,20 @@ body {
     margin-right: 30px;
 }
 
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; /* Bold */
+    text-align: justify; /* Justifica el texto */
+    text-align-last: center; /* Centra el último renglón */
+}
+
+.parrafo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; /* Regular */
+    text-align: justify; /* Justifica el texto */
+    text-align-last: center; /* Centra el último renglón */
+    margin: 0 auto; /* Centra el párrafo */
+}
 
 .container-graficos{
     display: flex;
@@ -40,8 +53,14 @@ body {
     max-width: 100%;
 }
 
+.container-grafico{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
 .sabias-que {
-    background-color: #f9f9a7; /* Color de fondo */
+    background-color: #5089af; /* Color de fondo */
     border: 1px solid #e0e0a1; /* Borde */
     padding: 10px 20px; /* Espaciado interno */
     margin: 20px 0; /* Espaciado externo */
@@ -60,4 +79,30 @@ body {
 
 .grafico-venta{
     width: 90%;
+}
+
+.infografia {
+    text-align: center;
+    margin: 20px 0;
+}
+.infografia img {
+    max-width: 100%; /* Cambia este valor para ajustar el tamaño */
+    height: auto;
+    border-radius: 8px;
+}
+.grafico {
+    text-align: center;
+    margin: 40px 0;
+}
+.grafico img {
+    max-width: 100%; /* Cambia este valor para ajustar el tamaño */
+    height: auto;
+    border-radius: 15px;
+}
+
+.grafico-pie img {
+    max-width: 80%; /* Ajusta el tamaño máximo de la imagen */
+    height: auto;
+
+    border-radius: 8px;
 }
