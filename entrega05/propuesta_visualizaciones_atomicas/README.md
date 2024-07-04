@@ -33,3 +33,9 @@ La realicé a través de canvas y utilice datos de nics-latest.csv para explicar
 ![alt text](../../docs/lineasxestacion.png)
 
 ## Visualizaciones Piza 
+
+1. Con Python realicé el gráfico de torta donde se pueden ver los porcentajes de afectación en los adolecentes estadounidenses a diferentes factores causados por la pandemia, que podrían explicar un aumento en los sucesos de violencia escolar, al estar relacionados a un deceso en la salud mental
+
+![alt text](../../docs/piexcategorias.png)
+
+
