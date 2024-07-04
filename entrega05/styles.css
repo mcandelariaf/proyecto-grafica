@@ -1,0 +1,13 @@
+.container-graficos{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.grafico{
+    width: 50%;
+}
+
+.titulo{
+    align-self: center;
+}
