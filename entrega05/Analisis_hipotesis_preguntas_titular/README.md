@@ -36,7 +36,7 @@ Nos dimos cuenta de que la mayoría de los incidentes habían ocurrido en otoño
 
 Sabido esto, nuestra **hipótesis final** es: 
 
-**Efectos negativos del confinamiento del Covid-19 inciden en la salud mental y en el pánico colectivo que provocó el aumento de compras de armas de fuego, incidiendo directamente en el aumento de los tiroteos escolares post pandemia.**
+**Los efectos negativos del confinamiento del Covid-19 afectaron la salud mental y en el pánico colectivo de la población estadounidense que provocó el aumento de compras de armas de fuego, incidiendo directamente en el aumento de los tiroteos escolares post pandemia.**
 
 Las preguntas que puede responder nuestra investigación son: 
 
@@ -51,6 +51,5 @@ Las preguntas que puede responder nuestra investigación son:
 El titular de nuestra web story es: 
 
 ### **¿Qué pasó con la violencia armada en Estados Unidos después de la pandemia?**
-
 #### Aumento de tiroteos escolares post confinamiento 
 
