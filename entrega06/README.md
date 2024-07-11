@@ -8,4 +8,4 @@ Dentro de los factores que analizamos está la estacionalidad, el aumento en la 
 
 Estudiando estos factores nos dimos cuenta que lo que tenían principal incidencia en el aumento de los tiroteos después de la pandemia fueron el auge en la venta de armas, debido a la facilidad de acceso que muchos estudiantes pasaron a tener, y el factor de la estacionalidad, debido a que los periodos en donde historicamente han habido más tiroteos son otoño y primavera que coinciden con la vuelta a clases. 
 
-Link de la webstory
+Link de la webstory: https://mcandelariaf.github.io/proyecto-grafica/

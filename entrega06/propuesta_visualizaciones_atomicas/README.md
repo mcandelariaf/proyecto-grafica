@@ -18,6 +18,24 @@ Los scripts de cada gráfico estan en la carpeta correspondiente.
 ![alt text](../../docs/ohiovstexas.jpg)
 La realicé a través de canvas y utilice datos de nics-latest.csv para explicar que aunque en la primera tabla Ohio este por debajo de Texas en la compra de armas, es meramente porque tiene menos población. Sin embargo si consideramos que se compró un arma por persona, podemos notar que proporcional a su población total, en Ohio se compraron más armas que en Texas, incidiendo en la mayor disponibilidad de armas y en el aumento de la cantidad de tiroteos escolares.
 
+1. Visualización hecha en Canva que ilustra de manera interactiva los tipos de armas que los civiles pueden comprar y portar en EE.UU: armas largas y cortas, como rifles y escopetas, y pistolas y revolver, respectivamente. 
+![alt text](../../docs/tipodearma.jpg)
+
+1. Ambas visualizaciones se hicieron en Colab, sin embargo, se modificó la tipografía, tamaño, y además se juntaron en una sola imagen para poder relacionar mejor lo que queremos mostrar. La mayoría de las armas vendidas en 2020 fueron armas cortas; la mayoría de los tiroteos ocurridos en 2021 fueron efectuados con ese tipo de armas. 
+![alt text](../../docs/piexusodearmas.jpg)
+
+1. Visualización hecha en Colab que muestra la cantidad de venta de armas en 2020 en los 10 estados que más compraron armas ese año. Además en la visualización se diferencian los tipos de armas, es decir, podemos ver cuánta cantidad de armas y de qué tipo se compraron en los diferentes estados. 
+![alt text](../../docs/barrasxventaseguntipo.png)
+
+1. Visualización hecha en Colab que muestra el rango etario de los tiradores en EE.UU. La mayoría de los tiroteos son efectuados por adolescentes de 14 a 18 año, del nivel High School. 
+![alt text](../../docs/barrasxedadshooter.png)
+
+1. Esta visualización explica un poco el gráfico anterior y además relaciona la edad con situaciones que podrían desencadenar los tiroteos, como el bullying y la violencia doméstica. Sin embargo, el porcentaje de ocurrencia es muy bajo. Los porcentajes están basados en visualizaciones hechas en Colab (que están en los scripts) pero decidimos mostrarlas de esta forma para que sea más fácil y dinámico de digerir. 
+![alt text](../../docs/infografia3.jpg)
+
+1. Esta última visualización muestra las situaciones más frecuentes de tiroteos escolares. La mayoría de las situaciones son disputas o peleas que escalan y terminan en violencia armada. Esto se relaciona directamente con la disponibilidad de armas que existen en circulación, y que llegan a manos de los adolescentes.
+![alt text](../../docs/piexsituaciones.png)
+
 ## Visualizaciones Fresno
 
 1. Gráfico de líneas que muestra, como se puede ver en la leyenda, la cantidad de victimas heridas, fatales y totales por causa de tiroteos escolares en los últimos 23 años. 
