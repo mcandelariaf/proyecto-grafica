@@ -1,4 +1,5 @@
 body {
+    font-family: 'Lato', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,27 +7,72 @@ body {
     box-sizing: border-box;
     margin-left: 30px;
     margin-right: 30px;
+    background-color: #f1f0f0;
+}
+
+.h1, h2, h3, p, em, strong, .sabias-que {
+    font-family: 'Lato', sans-serif;
 }
 
 h1 {
-    font-family: 'Roboto', sans-serif;
     font-weight: 700; /* Bold */
-    text-align: justify; /* Justifica el texto */
+    text-align: center; /* Justifica el texto */
     text-align-last: center; /* Centra el último renglón */
+    color: #616161;
+}
+
+.subtitulo {
+    font-weight: 700; /* Bold */
+    text-align: center; /* Justifica el texto */
+    text-align-last: center; /* Centra el último renglón */
+    color: #616161;
+}
+
+.subtitulo-parrafo{
+    color: #616161;
+}
+
+.div-grafico{
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px #0000001a;
+    box-sizing: border-box;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-imagen{
+    height: 200px;
+    width: 200px;
 }
 
 .parrafo {
-    font-family: 'Roboto', sans-serif;
     font-weight: 400; /* Regular */
     text-align: justify; /* Justifica el texto */
-    text-align-last: center; /* Centra el último renglón */
     margin: 0 auto; /* Centra el párrafo */
 }
 
 .container-graficos{
     display: flex;
     flex-direction: row;
-    width: 100%;
+    justify-content: center; /* Alinea los gráficos en el centro horizontal */
+    gap: 20px; /* Espacio entre los gráficos */
+    width: 80%; /* Ancho del contenedor ajustado al 80% del ancho de la página */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 6px #0000001a;
+
+}
+
+.container{
+    margin-right: 30px;
+    margin-left: 30px;
 }
 
 .grafico{
@@ -37,10 +83,31 @@ h1 {
     align-self: center;
 }
 
+.dinamico-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
 .dinamico {
     display: flex;
     justify-content: center;
     margin: 20px 0; 
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 6px #0000001a;
+    max-width: 60%;
+    width: 100%; /* Asegura que el div tome el 100% de su contenedor */
+    height: auto;
+}
+
+
+.barras-venta-grafico {
+    width: 100%; /* Ocupa el 100% del ancho del contenedor */
+    height: auto; /* Ajusta la altura proporcionalmente */
+    display: flex;
+    border-radius: 15px;
 }
 
 .flourish-embed.flourish-map {
@@ -51,12 +118,6 @@ h1 {
 .flourish-embed.flourish-chart{
     width: 60%;
     max-width: 100%;
-}
-
-.container-grafico{
-    display: flex;
-    flex-direction: row;
-    width: 100%;
 }
 
 .sabias-que {
@@ -75,25 +136,44 @@ h1 {
     justify-content: space-around; /* Distribuir espacio igual alrededor de los elementos */
     align-items: center;
     margin: 20px 0; /* Añadido margen superior e inferior */
+    gap: 15px;
 }
 
 .grafico-venta{
+    display: flex;
     width: 90%;
 }
 
 .infografia {
     text-align: center;
     margin: 20px 0;
-}
-.infografia img {
-    max-width: 100%; /* Cambia este valor para ajustar el tamaño */
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 6px #0000001a;
+    width: 80%; /* Cambia este valor para ajustar el tamaño */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
     height: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.infografia-imagen {
+    width: 80%; /* Ocupa el 100% del ancho del contenedor */
+    height: auto; /* Ajusta la altura proporcionalmente */
+    display: flex;
     border-radius: 8px;
 }
+
+
 .grafico {
     text-align: center;
     margin: 40px 0;
 }
+
+
 .grafico img {
     max-width: 100%; /* Cambia este valor para ajustar el tamaño */
     height: auto;
@@ -105,4 +185,19 @@ h1 {
     height: auto;
 
     border-radius: 8px;
+}
+
+.column-container {
+    display: flex;
+    justify-content: space-between; /* Espacio uniforme entre columnas */
+    gap: 20px; /* Espacio entre columnas */
+    margin: 20px 0; /* Margen superior e inferior */
+}
+
+.column-paragraph {
+    flex: 1; /* Cada párrafo tomará el mismo espacio */
+    padding: 10px;
+    background-color: #fff; /* Fondo blanco para contraste */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 6px #0000001a; /* Sombra para efecto visual */
 }
